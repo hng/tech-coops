@@ -13,6 +13,20 @@ A very general definition:
 
 Tech cooperatives could be a solution if you feel alienated by big software corporations and startup culture or you feel alone and in search of solidarity as a freelancer. 
 
+## Table of Contents 
+
+1. [Coops](#coops)
+2. [Networks of coops](#networks)
+3. [Resources](#resources)
+4. [Books / Howtos / Articles
+](#articles)
+5. [Talks](#talks)
+6. [Mailinglists](#mailinglists)
+7. [Tools](#tools)
+8. [Products created by tech coops](#products)
+9. [Other lists](#other_lists)
+
+<a name="coops" />
 ## Coops
 
 Coop | Business Areas | Region/Country | Notes
@@ -47,6 +61,7 @@ Coop | Business Areas | Region/Country | Notes
 [Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | 
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | UK |
 
+<a name="networks" />
 ## Networks of coops
 
 * [CoTech](https://www.coops.tech), UK
@@ -57,8 +72,10 @@ Coop | Business Areas | Region/Country | Notes
 
 * [Austin Software Co-operatives](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)
 
+<a name="resources" />
 ## Resources
 
+<a name="articles" />
 ### Books / Howtos / Articles
 
 * [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf), 2009
@@ -83,25 +100,30 @@ Coop | Business Areas | Region/Country | Notes
 * [Come Hell or High Water. A Handbook on Collective Process Gone Awry](https://www.akpress.org/comehellorhighwater.html)
 * [/r/cooperatives](https://www.reddit.com/r/cooperatives/)
 
+<a name="talks" />
 ### Videos / Talks
 
 * [Applying the Advice Process to a Software Service Co-op](https://www.youtube.com/watch?v=Zo9TOSxnY2I)
 * [Grow Your Own Economy in a Company](https://medium.com/enspiral-tales/grow-your-own-economy-in-a-company-a88efc4ba0d), Don’t wait for the system out there to change — make your own rules and live in the economy you want, right now.
 
+<a name="mailinglists" />
 ### Mailinglists
 
 * [tech-coop listserv](https://npogroups.org/lists/info/tech-coop)
 
+<a name="tools" />
 ### Tools
 
 * [Cobudget](http://cobudget.co/#/), Crowdsource and fund projects within an organization. Used by Enspiral.
 * [Loomio](https://www.loomio.org): Online decision-making
 
+<a name="products" />
 ## Products created by tech coops
 
 * [Cobuy](https://github.com/enspiral-root-systems/cobuy) by Root Systems: group wholesale purchases as a consumer co-op.
 * [Up & Go](https://www.upandgo.coop): Cooperative Home Cleaning Services (by CoLab)
 
+<a name="other_lists" />
 ## Other lists
 
 * [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing), Tech coops forming or looking for new members
