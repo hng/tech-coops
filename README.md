@@ -17,6 +17,7 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
+[Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | 
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | 
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
