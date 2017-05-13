@@ -48,6 +48,7 @@ Coop | Business Areas | Region/Country | Notes
 ## Networks of coops
 
 * [CoTech](https://www.coops.tech), UK
+* [FACT\[TIC\]](http://facttic.org.ar), Federation of tech worker-cooperatives in Argentina
 * [Tech Co-op Network](https://techworker.coop), North American Technology Worker Cooperatives
 
 ## Meetups
