@@ -18,7 +18,7 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
-[Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | **"Feel Train will never consist of more than 8 people."** 
+[Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [IT-Kollektiv](https://it-kollektiv.com) | Cross-platform apps, webdevelopment, backenddevelopment, consulting | GER | Network-type
 [Protozoa](http://protozoa.nz) | Webdevelopment | NZ | 
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral
