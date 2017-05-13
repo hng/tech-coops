@@ -42,6 +42,7 @@ Coop | Business Areas | Region/Country | Notes
 * [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf), 2009
 * [A Document To Help You Start A Tech Cooperative](https://feeltrain.com/blog/operating-agreement/) by Feel Train.
   * [Discussion on Hacker News](https://news.ycombinator.com/item?id=14135068)
+* [Can Coops Revolutionize the Tech Industry?](https://modelviewculture.com/pieces/can-coops-revolutionize-the-tech-industry)
 
 #### Salaries
 
