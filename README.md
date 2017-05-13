@@ -54,6 +54,10 @@ Coop | Business Areas | Region/Country | Notes
 * [Coopensation](https://s3-us-west-2.amazonaws.com/vulk-blog/Coopensation1.0.pdf), Worker-Owned Incentive System
 * [How a Worker-Owned Tech Startup Found Investors—and Kept Its Values](http://www.yesmagazine.org/new-economy/how-a-worker-owned-tech-startup-found-investors-and-kept-its-values-20160426)
 
+#### Discussions
+
+* [Ask HN: Examples of tech worker cooperatives?](https://news.ycombinator.com/item?id=7634152)
+
 #### Cooperatives in general
 
 * [Come Hell or High Water. A Handbook on Collective Process Gone Awry](https://www.akpress.org/comehellorhighwater.html)
