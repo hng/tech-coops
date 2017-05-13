@@ -18,10 +18,12 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | 
+[CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [IT-Kollektiv](https://it-kollektiv.com) | Cross-platform apps, webdevelopment, backenddevelopment, consulting | GER | Network-type
 [Protozoa](http://protozoa.nz) | Webdevelopment | NZ | 
+[Quilted](http://quilted.coop) | consulting, graphic design, web development | Berkeley, California, USA | *"Quilted is a worker-owned, cooperatively-managed company stitching together technology and social change."*
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral
 [Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | 
 [TechCollective](https://techcollective.com) | tech support | San Francisco & Boston, USA | 
@@ -80,6 +82,7 @@ Coop | Business Areas | Region/Country | Notes
 ## Products created by tech coops
 
 * [Cobuy](https://github.com/enspiral-root-systems/cobuy) by Root Systems: group wholesale purchases as a consumer co-op.
+* [Up & Go](https://www.upandgo.coop): Cooperative Home Cleaning Services (by CoLab)
 
 ## Other lists
 
