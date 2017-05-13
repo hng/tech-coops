@@ -8,6 +8,7 @@ A list of tech coops and resources concerning tech coops and worker owned cooper
 
 A very general definition:
 > Worker-owned cooperatives are business enterprises that are owned and governed by their employees. All worker cooperatives have two common characteristics: 1) member-owners invest in and own the business together, and share the enterprise’s profits, and 2) decision-making is democratic, with each member having one vote. 
+
 – [community-wealth.org](http://community-wealth.org/content/worker-cooperatives)
 
 Tech cooperatives could be a solution if you feel alienated by big software corporations and startup culture or you feel alone and in search of solidarity as a freelancer. 
@@ -58,7 +59,7 @@ Coop | Business Areas | Region/Country | Notes
 
 ## Other lists
 
-* [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing) Tech coops forming or looking for new members
+* [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing), Tech coops forming or looking for new members
 
 ## License
 
