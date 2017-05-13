@@ -18,6 +18,7 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
+[Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | **"Feel Train will never consist of more than 8 people."** 
 [IT-Kollektiv](https://it-kollektiv.com) | Cross-platform apps, webdevelopment, backenddevelopment, consulting | GER | Network-type
 [Protozoa](http://protozoa.nz) | Webdevelopment | NZ | 
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral
@@ -38,6 +39,8 @@ Coop | Business Areas | Region/Country | Notes
 ### Books / Howtos / Articles
 
 * [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf), 2009
+* [A Document To Help You Start A Tech Cooperative](https://feeltrain.com/blog/operating-agreement/) by Feel Train.
+  * [Discussion on Hacker News](https://news.ycombinator.com/item?id=14135068)
 
 #### Salaries
 
@@ -60,7 +63,7 @@ Coop | Business Areas | Region/Country | Notes
 
 ## Products created by tech coops
 
-* [cobuy](https://github.com/enspiral-root-systems/cobuy) by Root Systems. Food coop ordering.
+* [Cobuy](https://github.com/enspiral-root-systems/cobuy) by Root Systems: group wholesale purchases as a consumer co-op.
 
 ## Other lists
 
