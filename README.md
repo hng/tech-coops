@@ -22,6 +22,7 @@ Coop | Business Areas | Region/Country | Notes
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [IT-Kollektiv](https://it-kollektiv.com) | Cross-platform apps, webdevelopment, backenddevelopment, consulting | GER | Network-type
+[Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
 [Protozoa](http://protozoa.nz) | Webdevelopment | NZ | 
 [Quilted](http://quilted.coop) | consulting, graphic design, web development | Berkeley, California, USA | *"Quilted is a worker-owned, cooperatively-managed company stitching together technology and social change."*
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral
