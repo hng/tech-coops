@@ -58,6 +58,10 @@ Coop | Business Areas | Region/Country | Notes
 
 * [Cobudget](http://cobudget.co/#/), Crowdsource and fund projects within an organization. Used by Enspiral.
 
+## Products created by tech coops
+
+* [cobuy](https://github.com/enspiral-root-systems/cobuy) by Root Systems. Food coop ordering.
+
 ## Other lists
 
 * [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing), Tech coops forming or looking for new members
