@@ -17,6 +17,7 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
+[Boston TechCollective](https://bostontechcollective.com) | tech support | Boston, USA | 
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [IT-Kollektiv](https://it-kollektiv.com) | Cross-platform apps, webdevelopment, backenddevelopment, consulting | GER | Network-type
@@ -51,15 +52,21 @@ Coop | Business Areas | Region/Country | Notes
 #### Cooperatives in general
 
 * [Come Hell or High Water. A Handbook on Collective Process Gone Awry](https://www.akpress.org/comehellorhighwater.html)
+* [/r/cooperatives](https://www.reddit.com/r/cooperatives/)
 
 ### Videos / Talks
 
 * [Applying the Advice Process to a Software Service Co-op](https://www.youtube.com/watch?v=Zo9TOSxnY2I)
 * [Grow Your Own Economy in a Company](https://medium.com/enspiral-tales/grow-your-own-economy-in-a-company-a88efc4ba0d), Don’t wait for the system out there to change — make your own rules and live in the economy you want, right now.
 
+### Mailinglists
+
+* [tech-coop listserv](https://npogroups.org/lists/info/tech-coop)
+
 ### Tools
 
 * [Cobudget](http://cobudget.co/#/), Crowdsource and fund projects within an organization. Used by Enspiral.
+* [Loomio](https://www.loomio.org): Online decision-making
 
 ## Products created by tech coops
 
