@@ -1,1 +1,65 @@
-# tech-coops
+# Tech coops list
+
+A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
+
+*Contributions to this list are very welcome. Just clone this repo, edit this file (README.md) and create a pull request.*
+
+## What is a worker owned cooperative?
+
+A very general definition:
+> Worker-owned cooperatives are business enterprises that are owned and governed by their employees. All worker cooperatives have two common characteristics: 1) member-owners invest in and own the business together, and share the enterprise’s profits, and 2) decision-making is democratic, with each member having one vote. 
+– [community-wealth.org](http://community-wealth.org/content/worker-cooperatives)
+
+Tech cooperatives could be a solution if you feel alienated by big software corporations and startup culture or you feel alone and in search of solidarity as a freelancer. 
+
+## Coops
+
+Coop | Business Areas | Region/Country | Notes
+---- | -------------- | -------------- | -----
+[Enspiral](https://enspiral.com) |  | NZ | Network-type
+[IT-Kollektiv](https://it-kollektiv.com) | Cross-platform apps, webdevelopment, backenddevelopment, consulting | GER | Network-type
+[Protozoa](http://protozoa.nz) | Webdevelopment | NZ | 
+[Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral
+[Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | 
+[Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | UK |
+
+## Networks of coops
+
+* [CoTech](https://www.coops.tech), UK
+* [Tech Co-op Network](https://techworker.coop), North American Technology Worker Cooperatives
+
+## Meetups
+
+* [Austin Software Co-operatives](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)
+
+## Resources
+
+### Books / Howtos / Articles
+
+* [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf), 2009
+
+#### Salaries
+
+* [A new financial model for consulting](https://medium.com/enspiral-tales/a-new-financial-model-for-consulting-c7781661a1ec), How we’re making our salaries fair and transparent
+* [Coopensation](https://s3-us-west-2.amazonaws.com/vulk-blog/Coopensation1.0.pdf), Worker-Owned Incentive System
+
+#### Cooperatives in general
+
+* [Come Hell or High Water. A Handbook on Collective Process Gone Awry](https://www.akpress.org/comehellorhighwater.html)
+
+### Videos / Talks
+
+* [Applying the Advice Process to a Software Service Co-op](https://www.youtube.com/watch?v=Zo9TOSxnY2I)
+* [Grow Your Own Economy in a Company](https://medium.com/enspiral-tales/grow-your-own-economy-in-a-company-a88efc4ba0d), Don’t wait for the system out there to change — make your own rules and live in the economy you want, right now.
+
+### Tools
+
+* [Cobudget](http://cobudget.co/#/), Crowdsource and fund projects within an organization. Used by Enspiral.
+
+## Other lists
+
+* [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing) Tech coops forming or looking for new members
+
+## License
+
+This work and all contributions to it are released into the public domain under the terms of the [ CC0 1.0 ](https://creativecommons.org/publicdomain/zero/1.0/).
