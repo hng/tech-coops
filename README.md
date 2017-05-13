@@ -29,7 +29,7 @@ Coop | Business Areas | Region/Country | Notes
 [Gaia Host Collective](http://gaiahost.coop) | Hosting | Greenfield, MA, USA |
 [Go free Range](http://gofreerange.com) | Web development | UK | 
 [IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark | 
-[IT-Kollektiv](https://it-kollektiv.com) | Cross-platform apps, webdevelopment, backenddevelopment, consulting | GER | Network-type
+[IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
 [Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada |
 [Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
