@@ -45,12 +45,14 @@ Coop | Business Areas | Region/Country | Notes
 * [A Document To Help You Start A Tech Cooperative](https://feeltrain.com/blog/operating-agreement/) by Feel Train.
   * [Discussion on Hacker News](https://news.ycombinator.com/item?id=14135068)
 * [Can Coops Revolutionize the Tech Industry?](https://modelviewculture.com/pieces/can-coops-revolutionize-the-tech-industry)
+* [The Argument For Worker-Owned Tech Collectives](https://www.fastcompany.com/3021964/the-argument-for-worker-owned-tech-collectives) (Fastcompany)
 
-#### Salaries
+#### Financing / Salaries
 
 * [A new financial model for consulting](https://medium.com/enspiral-tales/a-new-financial-model-for-consulting-c7781661a1ec), How we’re making our salaries fair and transparent
   * [Financial Agreement of Root Systems](https://github.com/enspiral-root-systems/agreement-financial)
 * [Coopensation](https://s3-us-west-2.amazonaws.com/vulk-blog/Coopensation1.0.pdf), Worker-Owned Incentive System
+* [How a Worker-Owned Tech Startup Found Investors—and Kept Its Values](http://www.yesmagazine.org/new-economy/how-a-worker-owned-tech-startup-found-investors-and-kept-its-values-20160426)
 
 #### Cooperatives in general
 
