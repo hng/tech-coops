@@ -26,6 +26,7 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 9. [Other lists](#other\_lists)
 
 <a name="coops" />
+
 ## Coops
 
 Coop | Business Areas | Region/Country | Notes
