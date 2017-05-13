@@ -62,6 +62,7 @@ Coop | Business Areas | Region/Country | Notes
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | UK |
 
 <a name="networks" />
+
 ## Networks of coops
 
 * [CoTech](https://www.coops.tech), UK
@@ -73,9 +74,11 @@ Coop | Business Areas | Region/Country | Notes
 * [Austin Software Co-operatives](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)
 
 <a name="resources" />
+
 ## Resources
 
 <a name="articles" />
+
 ### Books / Howtos / Articles
 
 * [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf), 2009
@@ -101,29 +104,34 @@ Coop | Business Areas | Region/Country | Notes
 * [/r/cooperatives](https://www.reddit.com/r/cooperatives/)
 
 <a name="talks" />
+
 ### Videos / Talks
 
 * [Applying the Advice Process to a Software Service Co-op](https://www.youtube.com/watch?v=Zo9TOSxnY2I)
 * [Grow Your Own Economy in a Company](https://medium.com/enspiral-tales/grow-your-own-economy-in-a-company-a88efc4ba0d), Don’t wait for the system out there to change — make your own rules and live in the economy you want, right now.
 
 <a name="mailinglists" />
+
 ### Mailinglists
 
 * [tech-coop listserv](https://npogroups.org/lists/info/tech-coop)
 
 <a name="tools" />
+
 ### Tools
 
 * [Cobudget](http://cobudget.co/#/), Crowdsource and fund projects within an organization. Used by Enspiral.
 * [Loomio](https://www.loomio.org): Online decision-making
 
 <a name="products" />
+
 ## Products created by tech coops
 
 * [Cobuy](https://github.com/enspiral-root-systems/cobuy) by Root Systems: group wholesale purchases as a consumer co-op.
 * [Up & Go](https://www.upandgo.coop): Cooperative Home Cleaning Services (by CoLab)
 
 <a name="other\_lists" />
+
 ## Other lists
 
 * [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing), Tech coops forming or looking for new members
