@@ -27,9 +27,11 @@ Coop | Business Areas | Region/Country | Notes
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina |
 [Gaia Host Collective](http://gaiahost.coop) | Hosting | Greenfield, MA, USA |
+[Go free Range](http://gofreerange.com) | Web development | UK | 
 [IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark | 
 [IT-Kollektiv](https://it-kollektiv.com) | Cross-platform apps, webdevelopment, backenddevelopment, consulting | GER | Network-type
 [Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
+[Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada |
 [Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | 
 [Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India | 
