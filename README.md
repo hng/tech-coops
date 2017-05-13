@@ -17,17 +17,31 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
+[Agile Collective](https://agilecollective.com) | Web development | UK | 
+[Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979; [LinkedIn](https://www.linkedin.com/company-beta/3151867/)
+[Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada | 
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | 
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
+[Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA | 
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
+[Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina |
+[Gaia Host Collective](http://gaiahost.coop) | Hosting | Greenfield, MA, USA |
+[IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark | 
 [IT-Kollektiv](https://it-kollektiv.com) | Cross-platform apps, webdevelopment, backenddevelopment, consulting | GER | Network-type
 [Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
+[Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
+[MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | 
+[Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India | 
+[Palante Technology Cooperative](https://palantetech.coop) | Web development, CiviCRM, Tech support, Training | Focus on NGOs
+[Plausible Labs](https://www.plausible.coop/about) | Development, Design | New York and San Francisco, USA | [Bylaws](https://www.plausible.coop/static/docs/Plausible_Labs_Bylaws.pdf)
 [Protozoa](http://protozoa.nz) | Webdevelopment | NZ | 
 [Quilted](http://quilted.coop) | consulting, graphic design, web development | Berkeley, California, USA | *"Quilted is a worker-owned, cooperatively-managed company stitching together technology and social change."*
+[RadicalDesign](http://radicaldesigns.org) | Web development  | Oakland, CA, USA | Focusing on non-profit and grassroots social change organizations
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral
 [Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | 
 [TechCollective](https://techcollective.com) | tech support | San Francisco & Boston, USA | 
+[Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
 [Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | 
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | UK |
 
