@@ -24,7 +24,7 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 6. [Mailinglists](#mailinglists)
 7. [Tools](#tools)
 8. [Products created by tech coops](#products)
-9. [Other lists](#other_lists)
+9. [Other lists](#other\_lists)
 
 <a name="coops" />
 ## Coops
@@ -123,7 +123,7 @@ Coop | Business Areas | Region/Country | Notes
 * [Cobuy](https://github.com/enspiral-root-systems/cobuy) by Root Systems: group wholesale purchases as a consumer co-op.
 * [Up & Go](https://www.upandgo.coop): Cooperative Home Cleaning Services (by CoLab)
 
-<a name="other_lists" />
+<a name="other\_lists" />
 ## Other lists
 
 * [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing), Tech coops forming or looking for new members
