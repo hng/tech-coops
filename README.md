@@ -42,6 +42,7 @@ Coop | Business Areas | Region/Country | Notes
 #### Salaries
 
 * [A new financial model for consulting](https://medium.com/enspiral-tales/a-new-financial-model-for-consulting-c7781661a1ec), How we’re making our salaries fair and transparent
+  * [Financial Agreement of Root Systems](https://github.com/enspiral-root-systems/agreement-financial)
 * [Coopensation](https://s3-us-west-2.amazonaws.com/vulk-blog/Coopensation1.0.pdf), Worker-Owned Incentive System
 
 #### Cooperatives in general
