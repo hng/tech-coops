@@ -18,8 +18,7 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 1. [Coops](#coops)
 2. [Networks of coops](#networks)
 3. [Resources](#resources)
-4. [Books / Howtos / Articles
-](#articles)
+4. [Books / Howtos / Articles](#articles)
 5. [Talks](#talks)
 6. [Mailinglists](#mailinglists)
 7. [Tools](#tools)
