@@ -102,7 +102,7 @@ Coop | Business Areas | Region/Country | Notes
 
 #### Legal
 
-* [How to incorporate a corporate cooperative in India](https://github.com/nilenso/cooperative-agreement) - By [ nilenso ](https://nilenso.com).
+* [How to incorporate a corporate cooperative in India](https://github.com/nilenso/cooperative-agreement) - By [nilenso](https://nilenso.com).
 
 #### Discussions
 
@@ -150,4 +150,4 @@ Coop | Business Areas | Region/Country | Notes
 
 ## License
 
-This work and all contributions to it are released into the public domain under the terms of the [ CC0 1.0 ](https://creativecommons.org/publicdomain/zero/1.0/).
+This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
