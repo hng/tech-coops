@@ -119,8 +119,8 @@ Coop | Business Areas | Region/Country | Notes
 
 ### Mailinglists / Forums
 
-* [Cooperative Technologists Community](https://community.coops.tech) by CoTech
 * [tech-coop listserv](https://npogroups.org/lists/info/tech-coop)
+* [Cooperative Technologists Community](https://community.coops.tech) by CoTech
 
 <a name="tools" />
 
