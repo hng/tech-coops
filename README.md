@@ -132,7 +132,7 @@ Coop | Business Areas | Region/Country | Notes
 
 ### Tools
 
-* [Cobudget](http://cobudget.co/#/), Crowdsource and fund projects within an organization. Used by Enspiral.
+* [Cobudget](http://cobudget.co/#/): Crowdsource and fund projects within an organization. Developed and used by Enspiral.
 * [Loomio](https://www.loomio.org): Online decision-making
 
 <a name="products" />
