@@ -66,10 +66,10 @@ Coop | Business Areas | Region/Country | Notes
 
 ## Networks of coops
 
-* [CoTech](https://www.coops.tech), UK
+* [CoTech](https://www.coops.tech) - Network of tech coops in the UK.
   * [CoTech Wiki](https://wiki.coops.tech/wiki/Main_Page)
-* [FACT\[TIC\]](http://facttic.org.ar), Federation of tech worker-cooperatives in Argentina
-* [Tech Co-op Network](https://techworker.coop), North American Technology Worker Cooperatives
+* [FACT\[TIC\]](http://facttic.org.ar) - Federation of tech worker-cooperatives in Argentina.
+* [Tech Co-op Network](https://techworker.coop) - North American Technology Worker Cooperatives.
 
 ## Meetups
 
@@ -84,7 +84,7 @@ Coop | Business Areas | Region/Country | Notes
 ### Books / Howtos / Articles
 
 * [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf), 2009
-* [A Document To Help You Start A Tech Cooperative](https://feeltrain.com/blog/operating-agreement/) by Feel Train.
+* [A Document To Help You Start A Tech Cooperative](https://feeltrain.com/blog/operating-agreement/) - By Feel Train.
   * [Discussion on Hacker News](https://news.ycombinator.com/item?id=14135068)
 * [Can Coops Revolutionize the Tech Industry?](https://modelviewculture.com/pieces/can-coops-revolutionize-the-tech-industry)
 * [Co-op of digital co-ops – arise, er, Megazord?](https://outlandish.com/blog/co-op-of-software-co-ops-arise-er-megazord/)
@@ -95,23 +95,23 @@ Coop | Business Areas | Region/Country | Notes
 
 #### Financing / Salaries
 
-* [A new financial model for consulting](https://medium.com/enspiral-tales/a-new-financial-model-for-consulting-c7781661a1ec), How we’re making our salaries fair and transparent
+* [A new financial model for consulting](https://medium.com/enspiral-tales/a-new-financial-model-for-consulting-c7781661a1ec) - How we’re making our salaries fair and transparent
   * [Financial Agreement of Root Systems](https://github.com/enspiral-root-systems/agreement-financial)
-* [Coopensation](https://s3-us-west-2.amazonaws.com/vulk-blog/Coopensation1.0.pdf), Worker-Owned Incentive System
+* [Coopensation](https://s3-us-west-2.amazonaws.com/vulk-blog/Coopensation1.0.pdf) - Worker-Owned Incentive System.
 * [How a Worker-Owned Tech Startup Found Investors—and Kept Its Values](http://www.yesmagazine.org/new-economy/how-a-worker-owned-tech-startup-found-investors-and-kept-its-values-20160426)
 
 #### Legal
 
-* [How to incorporate a corporate cooperative in India](https://github.com/nilenso/cooperative-agreement) by nilenso
+* [How to incorporate a corporate cooperative in India](https://github.com/nilenso/cooperative-agreement) - By [ nilenso ](https://nilenso.com).
 
 #### Discussions
 
-* [Ask HN: Examples of tech worker cooperatives?](https://news.ycombinator.com/item?id=7634152)
+* [Ask HN: Examples of tech worker cooperatives?](https://news.ycombinator.com/item?id=7634152) - Interesting discussion with lots of links.
 
 #### Cooperatives in general
 
 * [Come Hell or High Water. A Handbook on Collective Process Gone Awry](https://www.akpress.org/comehellorhighwater.html)
-* [/r/cooperatives](https://www.reddit.com/r/cooperatives/)
+* [/r/cooperatives](https://www.reddit.com/r/cooperatives/) - Subreddit about cooperatives.
 
 <a name="talks" />
 
@@ -125,28 +125,28 @@ Coop | Business Areas | Region/Country | Notes
 
 ### Mailinglists / Forums
 
-* [tech-coop listserv](https://npogroups.org/lists/info/tech-coop)
-* [Cooperative Technologists Community](https://community.coops.tech) by CoTech
+* [tech-coop listserv](https://npogroups.org/lists/info/tech-coop) - Main mailinglist about tech coops.
+* [Cooperative Technologists Community](https://community.coops.tech) - By CoTech, UK.
 
 <a name="tools" />
 
 ### Tools
 
-* [Cobudget](http://cobudget.co/#/): Crowdsource and fund projects within an organization. Developed and used by Enspiral.
-* [Loomio](https://www.loomio.org): Online decision-making
+* [Cobudget](http://cobudget.co/#/) - Crowdsource and fund projects within an organization. Developed and used by Enspiral.
+* [Loomio](https://www.loomio.org) - Online decision-making
 
 <a name="products" />
 
 ## Products created by tech coops
 
-* [Cobuy](https://github.com/enspiral-root-systems/cobuy) by Root Systems: group wholesale purchases as a consumer co-op.
-* [Up & Go](https://www.upandgo.coop): Cooperative Home Cleaning Services (by CoLab)
+* [Cobuy](https://github.com/enspiral-root-systems/cobuy) - Group wholesale purchases as a consumer co-op (by Root Systems).
+* [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
 
 <a name="other\_lists" />
 
 ## Other lists
 
-* [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing), Tech coops forming or looking for new members
+* [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing) - Tech coops forming or looking for new members.
 
 ## License
 
