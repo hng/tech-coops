@@ -86,6 +86,7 @@ Coop | Business Areas | Region/Country | Notes
 * [A Document To Help You Start A Tech Cooperative](https://feeltrain.com/blog/operating-agreement/) by Feel Train.
   * [Discussion on Hacker News](https://news.ycombinator.com/item?id=14135068)
 * [Can Coops Revolutionize the Tech Industry?](https://modelviewculture.com/pieces/can-coops-revolutionize-the-tech-industry)
+* [Co-op of digital co-ops – arise, er, Megazord?](https://outlandish.com/blog/co-op-of-software-co-ops-arise-er-megazord/)
 * [The Argument For Worker-Owned Tech Collectives](https://www.fastcompany.com/3021964/the-argument-for-worker-owned-tech-collectives) (Fastcompany)
 * [The Case for Technology Worker Coops from a Former Freelancer](https://www.colab.coop/blog/the-case-for-technology-worker-coops-from-a-former-freelancer/)
 
