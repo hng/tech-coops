@@ -87,6 +87,7 @@ Coop | Business Areas | Region/Country | Notes
   * [Discussion on Hacker News](https://news.ycombinator.com/item?id=14135068)
 * [Can Coops Revolutionize the Tech Industry?](https://modelviewculture.com/pieces/can-coops-revolutionize-the-tech-industry)
 * [The Argument For Worker-Owned Tech Collectives](https://www.fastcompany.com/3021964/the-argument-for-worker-owned-tech-collectives) (Fastcompany)
+* [The Case for Technology Worker Coops from a Former Freelancer](https://www.colab.coop/blog/the-case-for-technology-worker-coops-from-a-former-freelancer/)
 
 #### Financing / Salaries
 
