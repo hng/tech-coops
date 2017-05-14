@@ -90,6 +90,7 @@ Coop | Business Areas | Region/Country | Notes
 * [Co-op of digital co-ops – arise, er, Megazord?](https://outlandish.com/blog/co-op-of-software-co-ops-arise-er-megazord/)
 * [The Argument For Worker-Owned Tech Collectives](https://www.fastcompany.com/3021964/the-argument-for-worker-owned-tech-collectives) (Fastcompany)
 * [The Case for Technology Worker Coops from a Former Freelancer](https://www.colab.coop/blog/the-case-for-technology-worker-coops-from-a-former-freelancer/)
+* [The Loomio Co-op Handbook](https://loomio.coop)
 * [Post-Capitalist Solutions: How Worker-Owned Tech Co-ops Are Boosting the Solidarity Economy](http://www.occupy.com/article/post-capitalist-solutions-how-worker-owned-tech-co-ops-are-boosting-solidarity-economy#sthash.9q8hqH7v.1klLVNEi.dpbs) (occupy.com)
 
 #### Financing / Salaries
