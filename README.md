@@ -125,7 +125,7 @@ Coop | Business Areas | Region/Country | Notes
 
 ### Mailinglists / Forums
 
-* [tech-coop listserv](https://npogroups.org/lists/info/tech-coop) - Main mailinglist about tech coops.
+* [tech-coop listserv](https://npogroups.org/lists/info/tech-coop) - Main mailinglist about tech coops. Check out the [archive](https://npogroups.org/lists/arc/tech-coop) for interesting threads in the past.
 * [Cooperative Technologists Community](https://community.coops.tech) - CoTech (UK) community forum.
 
 <a name="tools" />
