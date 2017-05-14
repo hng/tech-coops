@@ -33,6 +33,7 @@ Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Agile Collective](https://agilecollective.com) | Web development | UK | 
 [Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979; [LinkedIn](https://www.linkedin.com/company-beta/3151867/)
+[bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  | 
 [Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada | 
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | 
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
@@ -42,9 +43,9 @@ Coop | Business Areas | Region/Country | Notes
 [Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina |
 [Gaia Host Collective](http://gaiahost.coop) | Hosting | Greenfield, MA, USA |
 [Go free Range](http://gofreerange.com) | Web development | UK | 
-[IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark | 
-[IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
 [Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
+[IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
+[IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark | 
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada |
 [Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | 
@@ -94,6 +95,10 @@ Coop | Business Areas | Region/Country | Notes
 * [Coopensation](https://s3-us-west-2.amazonaws.com/vulk-blog/Coopensation1.0.pdf), Worker-Owned Incentive System
 * [How a Worker-Owned Tech Startup Found Investors—and Kept Its Values](http://www.yesmagazine.org/new-economy/how-a-worker-owned-tech-startup-found-investors-and-kept-its-values-20160426)
 
+#### Legal
+
+* [How to incorporate a corporate cooperative in India](https://github.com/nilenso/cooperative-agreement) by nilenso
+
 #### Discussions
 
 * [Ask HN: Examples of tech worker cooperatives?](https://news.ycombinator.com/item?id=7634152)
@@ -112,8 +117,9 @@ Coop | Business Areas | Region/Country | Notes
 
 <a name="mailinglists" />
 
-### Mailinglists
+### Mailinglists / Forums
 
+* [Cooperative Technologists Community](https://community.coops.tech) by CoTech
 * [tech-coop listserv](https://npogroups.org/lists/info/tech-coop)
 
 <a name="tools" />
