@@ -101,6 +101,7 @@ Coop | Business Areas | Region/Country | Notes
   * [Financial Agreement of Root Systems](https://github.com/enspiral-root-systems/agreement-financial)
 * [Coopensation](https://s3-us-west-2.amazonaws.com/vulk-blog/Coopensation1.0.pdf) - Worker-Owned Incentive System.
 * [How a Worker-Owned Tech Startup Found Investors—and Kept Its Values](http://www.yesmagazine.org/new-economy/how-a-worker-owned-tech-startup-found-investors-and-kept-its-values-20160426)
+* ["Loomio Points"](https://loomio.coop/loomio_points.html) - A system to acknowledge the work people did for free to get the project off the ground.
 
 #### Legal
 
