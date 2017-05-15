@@ -33,6 +33,7 @@ Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Agile Collective](https://agilecollective.com) | Web development | UK | 
 [Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979; [LinkedIn](https://www.linkedin.com/company-beta/3151867/)
+[Appleton Makerspace](https://appletonmakerspace.org) | Member funded makerspace. | Appleton WI, USA
 [bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  | 
 [Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada | 
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | 
