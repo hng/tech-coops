@@ -92,6 +92,7 @@ Coop | Business Areas | Region/Country | Notes
 * [The Case for Technology Worker Coops from a Former Freelancer](https://www.colab.coop/blog/the-case-for-technology-worker-coops-from-a-former-freelancer/)
 * [The Loomio Co-op Handbook](https://loomio.coop)
 * [Post-Capitalist Solutions: How Worker-Owned Tech Co-ops Are Boosting the Solidarity Economy](http://www.occupy.com/article/post-capitalist-solutions-how-worker-owned-tech-co-ops-are-boosting-solidarity-economy#sthash.9q8hqH7v.1klLVNEi.dpbs) (occupy.com)
+* [Enspiral Handbook](https://handbook.enspiral.com) - More information about the Enspiral network.
 
 #### Financing / Salaries
 
