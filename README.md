@@ -4,12 +4,14 @@ A list of tech coops and resources concerning tech coops and worker owned cooper
 
 *Contributions to this list are very welcome. Just clone this repo, edit this file ([README.md](https://github.com/hng/tech-coops/blob/master/README.md)) or edit it directly (open it and click on the pencil icon on the upper right) and create a pull request.*
 
-## What is a worker owned cooperative?
+## What are worker-owned tech cooperatives?
 
 A very general definition:
 > Worker-owned cooperatives are business enterprises that are owned and governed by their employees. All worker cooperatives have two common characteristics: 1) member-owners invest in and own the business together, and share the enterprise’s profits, and 2) decision-making is democratic, with each member having one vote. 
 
 – [community-wealth.org](http://community-wealth.org/content/worker-cooperatives)
+
+Tech cooperatives are worker-owned cooperatives that operate in the information technology industry. This list focuses on tech coops that are providing software development and consulting services.
 
 Tech cooperatives could be a solution if you feel alienated by big software corporations and startup culture or you feel alone and in search of solidarity as a freelancer. 
 
