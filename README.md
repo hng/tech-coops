@@ -147,9 +147,10 @@ Coop | Business Areas | Region/Country | Notes
 
 <a name="other\_lists" />
 
-## Other lists
+## Jobs and contracts
 
 * [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing) - Tech coops forming or looking for new members.
+* [CoTech Jobs Board](https://community.coops.tech/c/jobs)
 
 ## License
 
