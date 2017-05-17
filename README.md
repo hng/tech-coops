@@ -152,7 +152,7 @@ Coop | Business Areas | Region/Country | Notes
 ## Jobs and contracts
 
 * [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing) - Tech coops forming or looking for new members.
-* [CoTech Jobs Board](https://community.coops.tech/c/jobs)
+* [CoTech Jobs](https://community.coops.tech/c/jobs) - Jobs category on the CoTech Network (UK) community forums.
 
 ## License
 
