@@ -115,6 +115,7 @@ Coop | Business Areas | Region/Country | Notes
 
 #### Cooperatives in general
 
+* [Starting a Cooperative, One Step at a Time](http://huia.coop) - 12-page eBook by Huia CDS a consulting company for cooperative enterprises.
 * [Come Hell or High Water. A Handbook on Collective Process Gone Awry](https://www.akpress.org/comehellorhighwater.html)
 * [/r/cooperatives](https://www.reddit.com/r/cooperatives/) - Subreddit about cooperatives.
 
