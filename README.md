@@ -20,12 +20,12 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 1. [Coops](#coops)
 2. [Networks of coops](#networks)
 3. [Resources](#resources)
-4. [Books / Howtos / Articles](#articles)
+4. [Information on tech coops and coops in general](#info)
 5. [Talks](#talks)
 6. [Mailinglists](#mailinglists)
 7. [Tools](#tools)
 8. [Products created by tech coops](#products)
-9. [Other lists](#other\_lists)
+9. [Jobs and contracts](#jobs)
 
 <a name="coops" />
 
@@ -81,21 +81,27 @@ Coop | Business Areas | Region/Country | Notes
 
 ## Resources
 
-<a name="articles" />
+<a name="info" />
 
-### Books / Howtos / Articles
+### Information on tech coops and coops in general
+
+#### Handbooks / Guides
 
 * [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf), 2009
 * [A Document To Help You Start A Tech Cooperative](https://feeltrain.com/blog/operating-agreement/) - By Feel Train.
   * [Discussion on Hacker News](https://news.ycombinator.com/item?id=14135068)
+* [The Loomio Co-op Handbook](https://loomio.coop)
+  * [Discussion](https://news.ycombinator.com/item?id=12348909) on Hacker News.
+* [Enspiral Handbook](https://handbook.enspiral.com) - More information about the Enspiral network.
+* [Starting a Cooperative, One Step at a Time](http://huia.coop) - 12-page eBook by Huia CDS a consulting company for cooperative enterprises.
+
+#### Articles
+
 * [Can Coops Revolutionize the Tech Industry?](https://modelviewculture.com/pieces/can-coops-revolutionize-the-tech-industry)
 * [Co-op of digital co-ops – arise, er, Megazord?](https://outlandish.com/blog/co-op-of-software-co-ops-arise-er-megazord/)
 * [The Argument For Worker-Owned Tech Collectives](https://www.fastcompany.com/3021964/the-argument-for-worker-owned-tech-collectives) (Fastcompany)
 * [The Case for Technology Worker Coops from a Former Freelancer](https://www.colab.coop/blog/the-case-for-technology-worker-coops-from-a-former-freelancer/)
-* [The Loomio Co-op Handbook](https://loomio.coop)
-  * [Discussion](https://news.ycombinator.com/item?id=12348909) on Hacker News.
 * [Post-Capitalist Solutions: How Worker-Owned Tech Co-ops Are Boosting the Solidarity Economy](http://www.occupy.com/article/post-capitalist-solutions-how-worker-owned-tech-co-ops-are-boosting-solidarity-economy#sthash.9q8hqH7v.1klLVNEi.dpbs) (occupy.com)
-* [Enspiral Handbook](https://handbook.enspiral.com) - More information about the Enspiral network.
 
 #### Financing / Salaries
 
@@ -109,14 +115,13 @@ Coop | Business Areas | Region/Country | Notes
 
 * [How to incorporate a corporate cooperative in India](https://github.com/nilenso/cooperative-agreement) - By [nilenso](https://nilenso.com).
 
-#### Discussions
+#### Conflict
+
+* [Come Hell or High Water. A Handbook on Collective Process Gone Awry](https://www.akpress.org/comehellorhighwater.html)
+
+#### Other links
 
 * [Ask HN: Examples of tech worker cooperatives?](https://news.ycombinator.com/item?id=7634152) - Interesting discussion with lots of links.
-
-#### Cooperatives in general
-
-* [Starting a Cooperative, One Step at a Time](http://huia.coop) - 12-page eBook by Huia CDS a consulting company for cooperative enterprises.
-* [Come Hell or High Water. A Handbook on Collective Process Gone Awry](https://www.akpress.org/comehellorhighwater.html)
 * [/r/cooperatives](https://www.reddit.com/r/cooperatives/) - Subreddit about cooperatives.
 
 <a name="talks" />
@@ -148,7 +153,7 @@ Coop | Business Areas | Region/Country | Notes
 * [Cobuy](https://github.com/enspiral-root-systems/cobuy) - Group wholesale purchases as a consumer co-op (by Root Systems).
 * [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
 
-<a name="other\_lists" />
+<a name="jobs" />
 
 ## Jobs and contracts
 
