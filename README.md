@@ -39,7 +39,7 @@ Coop | Business Areas | Region/Country | Notes
 [Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada | 
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | 
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
-[dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data|source} | France, UK, Québec |
+[dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec |
 [Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA | 
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
