@@ -65,7 +65,11 @@ Coop | Business Areas | Region/Country | Notes
 [Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | 
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | UK |
 
-<a name="networks" />
+### Other lists
+
+ * [Awesome Tech Cooperatives](https://github.com/mwmeyer/awesome-tech-cooperatives) - A collection of awesome cooperative tech companies and projects
+ 
+ <a name="networks" />
 
 ## Networks of coops
 
