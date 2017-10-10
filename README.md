@@ -63,7 +63,7 @@ Coop | Business Areas | Region/Country | Notes
 [TechCollective](https://techcollective.com) | tech support | San Francisco & Boston, USA | 
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
 [Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | 
-[Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | UK |
+[Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
 
 ### Other lists
 
