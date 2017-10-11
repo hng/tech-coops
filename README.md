@@ -61,6 +61,7 @@ Coop | Business Areas | Region/Country | Notes
 [RadicalDesign](http://radicaldesigns.org) | Web development  | Oakland, CA, USA | Focusing on non-profit and grassroots social change organizations
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral
 [Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | 
+[TableFlip](https://tableflip.io/) | Web development. Javascript, Node.js, Meteor. | London, UK | Founded 2013; "We're your technical co-founder." |
 [TechCollective](https://techcollective.com) | tech support | San Francisco & Boston, USA | 
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
 [Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | 
