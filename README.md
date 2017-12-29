@@ -7,15 +7,15 @@ A list of tech coops and resources concerning tech coops and worker owned cooper
 ## What are worker-owned tech cooperatives?
 
 A very general definition:
-> Worker-owned cooperatives are business enterprises that are owned and governed by their employees. All worker cooperatives have two common characteristics: 1) member-owners invest in and own the business together, and share the enterprise’s profits, and 2) decision-making is democratic, with each member having one vote. 
+> Worker-owned cooperatives are business enterprises that are owned and governed by their employees. All worker cooperatives have two common characteristics: 1) member-owners invest in and own the business together, and share the enterprise’s profits, and 2) decision-making is democratic, with each member having one vote.
 
 – [community-wealth.org](http://community-wealth.org/content/worker-cooperatives)
 
 Tech cooperatives are worker-owned cooperatives that operate in the information technology industry. This list focuses on tech coops that are providing software development and consulting services.
 
-Tech cooperatives could be a solution if you feel alienated by big software corporations and startup culture or you feel alone and in search of solidarity as a freelancer. 
+Tech cooperatives could be a solution if you feel alienated by big software corporations and startup culture or you feel alone and in search of solidarity as a freelancer.
 
-## Table of Contents 
+## Table of Contents
 
 1. [Coops](#coops)
 2. [Networks of coops](#networks)
@@ -34,44 +34,48 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Agaric](http://agaric.coop/) | Web development, tech consulting | USA / Nicaragua / Germany | Worker-owned collective building online since 2006, lately contributing to the [Drutopia](https://drutopia.org/) platform for grassroots groups.
-[Agile Collective](https://agilecollective.com) | Web development | UK | 
+[Agile Collective](https://agilecollective.com) | Web development | UK |
 [Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979; [LinkedIn](https://www.linkedin.com/company-beta/3151867/)
-[bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  | 
-[Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada | 
-[C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | 
+[Atomised](http://www.atomised.coop) | Web development, mobile apps, UX design | Cupar, Scotland | Founded 2008
+[bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  |
+[Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada |
+[C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
+[Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK |
+[Devtopia](https://devtopia.coop) | Consulting, project management, design and UX, web development, app development, marketing | Spain | Distributed company 
 [dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec |
-[Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA | 
+[Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA |
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina |
 [Gaia Host Collective](http://gaiahost.coop) | Hosting | Greenfield, MA, USA |
-[Go free Range](http://gofreerange.com) | Web development | UK | 
+[Go free Range](http://gofreerange.com) | Web development | UK |
 [Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
 [IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
-[IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark | 
+[IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark |
+[Jamgo](http://jamgo.coop/en/) | Front-end dev, design services, e-commerce, Drupal/WordPress | Barcelona, Spain |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada |
 [Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
-[MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | 
-[Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India | 
+[MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden |
+[Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India |
 [Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
 [Palante Technology Cooperative](https://palantetech.coop) | Web development, CiviCRM, Tech support, Training | Focus on NGOs
 [Plausible Labs](https://www.plausible.coop/about) | Development, Design | New York and San Francisco, USA | [Bylaws](https://www.plausible.coop/static/docs/Plausible_Labs_Bylaws.pdf)
-[Protozoa](http://protozoa.nz) | Web development | NZ | 
+[Protozoa](http://protozoa.nz) | Web development | NZ |
 [Quilted](http://quilted.coop) | consulting, graphic design, web development | Berkeley, California, USA | *"Quilted is a worker-owned, cooperatively-managed company stitching together technology and social change."*
 [RadicalDesign](http://radicaldesigns.org) | Web development  | Oakland, CA, USA | Focusing on non-profit and grassroots social change organizations
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral
-[Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | 
+[Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA |
 [TableFlip](https://tableflip.io/) | Web development. Javascript, Node.js, Meteor. | London, UK | Founded 2013; "We're your technical co-founder." |
-[TechCollective](https://techcollective.com) | tech support | San Francisco & Boston, USA | 
+[TechCollective](https://techcollective.com) | tech support | San Francisco & Boston, USA |
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
-[Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | 
+[Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA |
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
 
 ### Other lists
 
  * [Awesome Tech Cooperatives](https://github.com/mwmeyer/awesome-tech-cooperatives) - A collection of awesome cooperative tech companies and projects
- 
+
  <a name="networks" />
 
 ## Networks of coops
