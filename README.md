@@ -44,6 +44,7 @@ Coop | Business Areas | Region/Country | Notes
 [Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK |
 [Devtopia](https://devtopia.coop) | Consulting, project management, design and UX, web development, app development, marketing | Spain | Distributed company 
 [dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec |
+[EITA](http://eita.org.br) | Open Source Development | Brazil | Our goal is to deliver open source technologies to social moviments
 [Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA |
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
