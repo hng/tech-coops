@@ -40,6 +40,7 @@ Coop | Business Areas | Region/Country | Notes
 [bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  |
 [Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada |
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA |
+[Caravan](https://caravan.coop) | Web Design, Digital Services, UX | Montréal, Quebec, Canada | Founded 2012 |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
 [Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK |
 [Devtopia](https://devtopia.coop) | Consulting, project management, design and UX, web development, app development, marketing | Spain | Distributed company 
