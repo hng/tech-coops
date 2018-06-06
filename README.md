@@ -110,6 +110,10 @@ Coop | Business Areas | Region/Country | Notes
 * [Enspiral Handbook](https://handbook.enspiral.com) - More information about the Enspiral network.
 * [Starting a Cooperative, One Step at a Time](http://huia.coop) - 12-page eBook by Huia CDS a consulting company for cooperative enterprises.
 
+#### Books
+
+* [Patterns for Decentralised Organising](https://leanpub.com/patterns-for-decentralised-organising) by Richard D. Bartlett - Practical guidance for teams, organisations and networks to manage without hierarchy.
+
 #### Articles
 
 * [Can Coops Revolutionize the Tech Industry?](https://modelviewculture.com/pieces/can-coops-revolutionize-the-tech-industry)
