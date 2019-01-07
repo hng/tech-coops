@@ -51,6 +51,7 @@ Coop | Business Areas | Region/Country | Notes
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina |
 [Gaia Host Collective](http://gaiahost.coop) | Hosting | Greenfield, MA, USA |
+[gcoop](https://gcoop.coop) | Hosting, Consulting, Web Development, FLOSS Development | Buenos Aires, Argentina |*"Transformamos los sistemas."*
 [Go free Range](http://gofreerange.com) | Web development | UK |
 [Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
 [IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
