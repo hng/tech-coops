@@ -44,6 +44,7 @@ Coop | Business Areas | Region/Country | Notes
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
 [Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK |
 [Devtopia](https://devtopia.coop) | Consulting, project management, design and UX, web development, app development, marketing | Spain | Distributed company 
+[Digicoop](http://digicoop.io) | Product company, makers of [kantree.io](https://kantree.io) | France | Distributed company
 [dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec |
 [EITA](http://eita.org.br) | Open Source Development | Brazil | Our goal is to deliver open source technologies to social moviments
 [Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA |
