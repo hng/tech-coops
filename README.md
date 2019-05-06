@@ -56,6 +56,7 @@ Coop | Business Areas | Region/Country | Notes
 [IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
 [IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark |
 [Jamgo](http://jamgo.coop/en/) | Front-end dev, design services, e-commerce, Drupal/WordPress | Barcelona, Spain |
+[Kedu](https://kedu.coop/en/home) | Software, infrastructure | Barcelona, Spain |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada |
 [Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden |
