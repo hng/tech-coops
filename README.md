@@ -114,7 +114,6 @@ Coop | Business Areas | Region/Country | Notes
 * [The Loomio Co-op Handbook](https://loomio.coop)
   * [Discussion](https://news.ycombinator.com/item?id=12348909) on Hacker News.
 * [Enspiral Handbook](https://handbook.enspiral.com) - More information about the Enspiral network.
-* [Starting a Cooperative, One Step at a Time](http://huia.coop) - 12-page eBook by Huia CDS a consulting company for cooperative enterprises.
 
 #### Books
 
