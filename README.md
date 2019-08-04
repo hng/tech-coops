@@ -112,6 +112,7 @@ Coop | Business Areas | Region/Country | Notes
 * [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf), 2009
 * [A Document To Help You Start A Tech Cooperative](https://feeltrain.com/blog/operating-agreement/) - By Feel Train.
   * [Discussion on Hacker News](https://news.ycombinator.com/item?id=14135068)
+* [Crisp DNA](https://dna.crisp.se/docs/index.html) - Handbook for Crisp, a Swedish network of consultants.
 * [The Loomio Co-op Handbook](https://loomio.coop)
   * [Discussion](https://news.ycombinator.com/item?id=12348909) on Hacker News.
 * [Enspiral Handbook](https://handbook.enspiral.com) - More information about the Enspiral network.
