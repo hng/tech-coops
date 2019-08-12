@@ -62,7 +62,8 @@ Coop | Business Areas | Region/Country | Notes
 [Jamgo](http://jamgo.coop/en/) | Front-end dev, design services, e-commerce, Drupal/WordPress | Barcelona, Spain |
 [Kedu](https://kedu.coop/en/home) | Software, infrastructure | Barcelona, Spain |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada |
-[Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
+[Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio) 
+[Les-Tilleuls.coop](https://les-tilleuls.coop/fr)| Web development, Tech consulting, Open Source Development | Lille, Paris, Nantes (France) | Tech worker-owned cooperative founded in 2011. Creators of the API Platform framework and major contributors to Symfony. |  
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden |
 [Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India |
 [Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
@@ -181,6 +182,7 @@ Coop | Business Areas | Region/Country | Notes
 
 * [Cobuy](https://github.com/enspiral-root-systems/cobuy) - Group wholesale purchases as a consumer co-op (by Root Systems).
 * [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
+* [API Platform](https://api-platform.com/) - REST and GraphQL framework on top of Symfony and React.
 
 <a name="jobs" />
 
