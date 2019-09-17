@@ -35,7 +35,7 @@ Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Agaric](http://agaric.coop/) | Web development, tech consulting | USA / Nicaragua / Germany | Worker-owned collective building online since 2006, lately contributing to the [Drutopia](https://drutopia.org/) platform for grassroots groups.
 [Agile Collective](https://agilecollective.com) | Web development | UK |
-[Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979; [LinkedIn](https://www.linkedin.com/company-beta/3151867/)
+[Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979
 [Atomised](http://www.atomised.coop) | Web development, mobile apps, UX design | Cupar, Scotland | Founded 2008
 [bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  |
 [Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada |
