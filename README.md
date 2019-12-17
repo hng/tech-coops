@@ -52,7 +52,8 @@ Coop | Business Areas | Region/Country | Notes
 [EITA](http://eita.org.br) | Open Source Development | Brazil | Our goal is to deliver open source technologies to social moviments
 [Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA |
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
-[Equality](https://equality.coop) | Web development (Django/Angular) | Rosario, Santa Fe, Argentina | 
+[Equality](https://equality.coop) | Web development (Django/Angular) | Rosario, Santa Fe, Argentina |
+[Eryx](https://eryx.co) | Full-stack development, Data Science, Operations Research, UX, Consulting | CABA, Buenos Aires, Argentina |
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina |
 [Gaia Host Collective](http://gaiahost.coop) | Hosting | Greenfield, MA, USA |
