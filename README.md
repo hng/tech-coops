@@ -128,6 +128,7 @@ Coop | Business Areas | Region/Country | Notes
 #### Books
 
 * [Patterns for Decentralised Organising](https://leanpub.com/patterns-for-decentralised-organising) by Richard D. Bartlett - Practical guidance for teams, organisations and networks to manage without hierarchy.
+* [Ours to Hack and to Own: The Rise of Platform Cooperativism, a New Vision for the Future of Work and a Fairer Internet](https://nathanschneider.info/books/ours-to-hack/) By Trebor Scholz and Nathan Schneider
 
 #### Articles
 
