@@ -166,6 +166,7 @@ Coop | Business Areas | Region/Country | Notes
 * [Applying the Advice Process to a Software Service Co-op](https://www.youtube.com/watch?v=Zo9TOSxnY2I)
 * [Grow Your Own Economy in a Company](https://medium.com/enspiral-tales/grow-your-own-economy-in-a-company-a88efc4ba0d), Don’t wait for the system out there to change — make your own rules and live in the economy you want, right now.
 * [Two Years Wiser, The Nilenso Experiment - Steven Deobald](https://www.youtube.com/watch?v=uYTFCSZb3Kc)
+* [Ela Kagel on Platform Co-ops in Berlin](https://www.youtube.com/watch?v=XqMdICVqtiQ)
 
 <a name="mailinglists" />
 
