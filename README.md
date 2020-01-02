@@ -188,7 +188,7 @@ Coop | Business Areas | Region/Country | Notes
 ## Software/Products created by tech coops
 
 * [Cobuy](https://github.com/enspiral-root-systems/cobuy) - Group wholesale purchases as a consumer co-op (by Root Systems).
-* [CoopHub](http://coophub.io) - Git repos from cooperatives around the world!
+* [CoopHub](https://coophub.io) - Git repos from cooperatives around the world!
 * [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
 
 <a name="jobs" />
