@@ -50,7 +50,7 @@ Coop | Business Areas | Region/Country | Notes
 [Diciannove](https://19.coop) | Consulting, project management, open source development, hosting, web design | Italy |
 [Digicoop](http://digicoop.io) | Product company, makers of [kantree.io](https://kantree.io) | France | Distributed company
 [dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec |
-[EITA](http://eita.org.br) | Open Source Development | Brazil | Our goal is to deliver open source technologies to social moviments
+[EITA](https://eita.coop.br/) | Open Source Development | Brazil | Our goal is to deliver open source technologies to social moviments
 [Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA |
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
 [Equality](https://equality.coop) | Web development (Django/Angular) | Rosario, Santa Fe, Argentina |
