@@ -57,7 +57,6 @@ Coop | Business Areas | Region/Country | Notes
 [Eryx](https://eryx.co) | Full-stack development, Data Science, Operations Research, UX, Consulting | CABA, Buenos Aires, Argentina |
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina |
-[Gaia Host Collective](http://gaiahost.coop) | Hosting | Greenfield, MA, USA |
 [gcoop](https://gcoop.coop) | Hosting, Consulting, Web Development, FLOSS Development | Buenos Aires, Argentina |*"Transformamos los sistemas."*
 [GNU Coop](https://www.gnucoop.com/) | Open source development, training, e-learning, project management | Italy |
 [Go free Range](http://gofreerange.com) | Web development | UK |
