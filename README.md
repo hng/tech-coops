@@ -72,6 +72,7 @@ Coop | Business Areas | Region/Country | Notes
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden |
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina |
 [Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India |
+[NISC](https://www.nisc.coop/) | Software and hardware solutions for Member-Owners, utility cooperatives and telecommunications companies | Denver, Colorado | NISC was formed July 2000 as a consolidation of Central Area Data Processing Cooperative (CADP) and North Central Data Cooperative (NCDC). Both predecessor organizations were formed in the mid 1960s and had a rich history of serving energy and telecommunications cooperatives with information processing services and accounting and billing software.
 [Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
 [Palante Technology Cooperative](https://palantetech.coop) | Web development, CiviCRM, Tech support, Training | Focus on NGOs
 [Plausible Labs](https://www.plausible.coop/about) | Development, Design | New York and San Francisco, USA | [Bylaws](https://www.plausible.coop/static/docs/Plausible_Labs_Bylaws.pdf)
