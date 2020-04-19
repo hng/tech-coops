@@ -89,7 +89,7 @@ Coop | Business Areas | Region/Country | Notes
 [TechCollective](https://techcollective.com) | tech support | San Francisco & Boston, USA |
 [the Tech Support Cooperative](https://site.techsupport.coop/) | POS software, open-source web development, consulting | US + CAN | Maintainers of the [CORE-POS / IS4C](https://github.com/CORE-POS/IS4C) software project |
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
-[Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA |
+[Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | Worker-owned, Founded 2013, Organizers of [Austin Software Co-operatives Meetup](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)|
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
 
 ### Other lists
