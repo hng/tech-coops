@@ -71,6 +71,7 @@ Coop | Business Areas | Region/Country | Notes
 [Kedu](https://kedu.coop/en/home) | Software, infrastructure | Barcelona, Spain |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada |
 [Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
+[May First Movement Technology](https://mayfirst.coop/) | Hosting | USA and Mexico |
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden |
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina |
 [Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India |
