@@ -41,6 +41,7 @@ Coop | Business Areas | Region/Country | Notes
 [Black Shuck](http://blackshuck.co) | Producing moving image, audio and digital projects (websites, apps and installations). | Europe |
 [Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada |
 [A Bunch of Hacks](https://abunchofhacks.coop) | Video game development, software development | Amsterdam, the Netherlands |
+[Camplight](https://camplight.net) | web and mobile development, tech consulting | EU, Bulgaria | A digital cooperative that creates experiences for the web, mobile and beyond |
 [Caravan Web Worker Cooperative](https://caravan.coop) | Web design, Software development (Python) | Montreal and Quebec City, Canada |
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
@@ -142,6 +143,7 @@ Coop | Business Areas | Region/Country | Notes
 * [The Case for Technology Worker Coops from a Former Freelancer](https://www.colab.coop/blog/the-case-for-technology-worker-coops-from-a-former-freelancer/)
 * [Post-Capitalist Solutions: How Worker-Owned Tech Co-ops Are Boosting the Solidarity Economy](http://www.occupy.com/article/post-capitalist-solutions-how-worker-owned-tech-co-ops-are-boosting-solidarity-economy#sthash.9q8hqH7v.1klLVNEi.dpbs) (occupy.com)
 * [Incorporating Notes: On Cooperatives, Nonprofits, and Better Accountability](https://colet.space/blog/incorporating-notes/) by the Collective for Liberation, Ecology, and Technology
+* [Tales from a digital cooperative and friends that are evolving human collaboration](https://medium.com/camplight) (by Camplight)
 
 #### Financing / Salaries
 
@@ -195,6 +197,8 @@ Coop | Business Areas | Region/Country | Notes
 * [CoopHub](https://coophub.io) - Git repos from cooperatives around the world!
 * [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
 * [Moodlight](https://assista.io) - Emotional intelligence for teams (by Camplight)
+* [Assista](https://assista.io) - Effortless time tracking for Trello (by Camplight).
+
 
 <a name="jobs" />
 
