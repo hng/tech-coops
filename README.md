@@ -106,6 +106,7 @@ Coop | Business Areas | Region/Country | Notes
   * [CoTech Wiki](https://wiki.coops.tech/wiki/Main_Page)
 * [FACT\[TIC\]](http://facttic.org.ar) - Federation of tech worker-cooperatives in Argentina.
 * [Tech Co-op Network](https://techworker.coop) - North American Technology Worker Cooperatives.
+* [CoopCycle](https://coopcycle.org/en/) - A federation of bike delivery co-ops with an open-source logistics platform.
 
 ## Meetups
 
