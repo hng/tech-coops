@@ -71,6 +71,7 @@ Coop | Business Areas | Region/Country | Notes
 [Kedu](https://kedu.coop/en/home) | Software, infrastructure | Barcelona, Spain |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada |
 [Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
+[Les-Tilleuls.coop](https://les-tilleuls.coop/en)| Web development, Tech consulting, Open Source Development | Lille, Paris, Nantes, Lyon (France) | Tech worker-owned cooperative founded in 2011. Creators of the API Platform framework and major contributors to Symfony. | 
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden |
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina |
 [Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India |
@@ -193,6 +194,7 @@ Coop | Business Areas | Region/Country | Notes
 
 ## Software/Products created by tech coops
 
+* [API Platform](https://api-platform.com/) - REST and GraphQL framework on top of Symfony and React.
 * [Cobuy](https://github.com/enspiral-root-systems/cobuy) - Group wholesale purchases as a consumer co-op (by Root Systems).
 * [CoopHub](https://coophub.io) - Git repos from cooperatives around the world!
 * [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
