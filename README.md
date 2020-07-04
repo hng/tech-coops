@@ -35,6 +35,7 @@ Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Agaric](http://agaric.coop/) | Web development, tech consulting | USA / Nicaragua / Germany | Worker-owned collective building online since 2006, lately contributing to the [Drutopia](https://drutopia.org/) platform for grassroots groups.
 [Agile Collective](https://agilecollective.com) | Web development | UK |
+[Albatros Tech Cooperative Initiative](https://albatroskoop.com/) | Design, Development | Istanbul, Turkey | Worker-Owners|
 [Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979
 [Atomised](http://www.atomised.coop) | Web development, mobile apps, UX design | Cupar, Scotland | Founded 2008
 [bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  |
@@ -94,7 +95,6 @@ Coop | Business Areas | Region/Country | Notes
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
 [Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | Worker-owned, Founded 2013, Organizers of [Austin Software Co-operatives Meetup](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)|
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
-[Albatross Tech Cooperative Initiative](https://albatroskoop.com/) | Design, Development | Istanbul, Turkey | Worker-Owners|
 
 ### Other lists
 
