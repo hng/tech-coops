@@ -106,7 +106,6 @@ Coop | Business Areas | Region/Country | Notes
   * [CoTech Wiki](https://wiki.coops.tech/wiki/Main_Page)
 * [FACT\[TIC\]](http://facttic.org.ar) - Federation of tech worker-cooperatives in Argentina.
 * [Tech Co-op Network](https://techworker.coop) - North American Technology Worker Cooperatives.
-* [CoopCycle](https://coopcycle.org/en/) - A federation of bike delivery co-ops with an open-source logistics platform.
 
 ## Meetups
 
@@ -199,6 +198,7 @@ Coop | Business Areas | Region/Country | Notes
 * [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
 * [Moodlight](https://assista.io) - Emotional intelligence for teams (by Camplight)
 * [Assista](https://assista.io) - Effortless time tracking for Trello (by Camplight).
+* [CoopCycle](https://coopcycle.org/en/) - A federation of bike delivery co-ops with an open-source logistics platform.
 
 
 <a name="jobs" />
