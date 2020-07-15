@@ -201,6 +201,7 @@ Coop | Business Areas | Region/Country | Notes
 * [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
 * [Moodlight](https://assista.io) - Emotional intelligence for teams (by Camplight)
 * [Assista](https://assista.io) - Effortless time tracking for Trello (by Camplight).
+* [CoopCycle](https://coopcycle.org/en/) - A federation of bike delivery co-ops with an open-source logistics platform.
 
 
 <a name="jobs" />
