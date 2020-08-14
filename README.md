@@ -106,6 +106,7 @@ Coop | Business Areas | Region/Country | Notes
 
 * [CoTech](https://www.coops.tech) - Network of tech coops in the UK.
   * [CoTech Wiki](https://wiki.coops.tech/wiki/Main_Page)
+  * [CoTech Forum](https://community.coops.tech/) - active tech cooperatives forum from CoTech
 * [FACT\[TIC\]](http://facttic.org.ar) - Federation of tech worker-cooperatives in Argentina.
 * [Tech Co-op Network](https://techworker.coop) - North American Technology Worker Cooperatives.
 
