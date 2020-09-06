@@ -147,6 +147,7 @@ Coop | Business Areas | Region/Country | Notes
 * [Post-Capitalist Solutions: How Worker-Owned Tech Co-ops Are Boosting the Solidarity Economy](http://www.occupy.com/article/post-capitalist-solutions-how-worker-owned-tech-co-ops-are-boosting-solidarity-economy#sthash.9q8hqH7v.1klLVNEi.dpbs) (occupy.com)
 * [Incorporating Notes: On Cooperatives, Nonprofits, and Better Accountability](https://colet.space/blog/incorporating-notes/) by the Collective for Liberation, Ecology, and Technology
 * [Tales from a digital cooperative and friends that are evolving human collaboration](https://medium.com/camplight) (by Camplight)
+* [Tech co-operatives are leaving the startup rat race behind](https://www.wired.co.uk/article/cotech-tech-cooperatives-blake-house-outlandish)
 
 #### Financing / Salaries
 
