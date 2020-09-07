@@ -74,6 +74,7 @@ Coop | Business Areas | Region/Country | Notes
 [Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
 [Les-Tilleuls.coop](https://les-tilleuls.coop/en)| Web development, Tech consulting, Open Source Development | Lille, Paris, Nantes, Lyon (France) | Tech worker-owned cooperative founded in 2011. Creators of the API Platform framework and major contributors to Symfony. | 
 [Lyseon Tech](https://lt.coop.br/) | Web development, Apps and Hosting | Rio de Janeiro, BR | Cooperative of free software developers |
+[Motion Twin](https://motion-twin.com) | Video game development | Bordeaux, France |
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden |
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina |
 [Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India |
@@ -107,6 +108,7 @@ Coop | Business Areas | Region/Country | Notes
 
 * [CoTech](https://www.coops.tech) - Network of tech coops in the UK.
   * [CoTech Wiki](https://wiki.coops.tech/wiki/Main_Page)
+  * [CoTech Forum](https://community.coops.tech/) - active tech cooperatives forum from CoTech
 * [FACT\[TIC\]](http://facttic.org.ar) - Federation of tech worker-cooperatives in Argentina.
 * [Tech Co-op Network](https://techworker.coop) - North American Technology Worker Cooperatives.
 
@@ -147,6 +149,7 @@ Coop | Business Areas | Region/Country | Notes
 * [Post-Capitalist Solutions: How Worker-Owned Tech Co-ops Are Boosting the Solidarity Economy](http://www.occupy.com/article/post-capitalist-solutions-how-worker-owned-tech-co-ops-are-boosting-solidarity-economy#sthash.9q8hqH7v.1klLVNEi.dpbs) (occupy.com)
 * [Incorporating Notes: On Cooperatives, Nonprofits, and Better Accountability](https://colet.space/blog/incorporating-notes/) by the Collective for Liberation, Ecology, and Technology
 * [Tales from a digital cooperative and friends that are evolving human collaboration](https://medium.com/camplight) (by Camplight)
+* [Tech co-operatives are leaving the startup rat race behind](https://www.wired.co.uk/article/cotech-tech-cooperatives-blake-house-outlandish)
 
 #### Financing / Salaries
 
