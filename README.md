@@ -203,7 +203,7 @@ Coop | Business Areas | Region/Country | Notes
 * [Cobuy](https://github.com/enspiral-root-systems/cobuy) - Group wholesale purchases as a consumer co-op (by Root Systems).
 * [CoopHub](https://coophub.io) - Git repos from cooperatives around the world!
 * [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
-* [Moodlight](https://assista.io) - Emotional intelligence for teams (by Camplight)
+* [Moodlight](https://moodlight.team/) - Emotional intelligence for teams (by Camplight)
 * [Assista](https://assista.io) - Effortless time tracking for Trello (by Camplight).
 * [CoopCycle](https://coopcycle.org/en/) - A federation of bike delivery co-ops with an open-source logistics platform.
 
