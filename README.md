@@ -79,6 +79,7 @@ Coop | Business Areas | Region/Country | Notes
 [Motion Twin](https://motion-twin.com) | Video game development | Bordeaux, France |
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden |
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina |
+[Neibo](https://neibo.be/) | Mobile Virtual Network Operator | Brussels, Belgium
 [Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India |
 [NOVA Web Development](https://novawebdevelopment.org/) | Django sites, graphic design  | USA / El Salvador / elsewhere | Worker-owned co-op developing [LibreOrganize](https://libreorganize.org/) and [Business Tracker](https://businesstracker.org/) primarily for unions, labor movement, social justice, etc. |
 [Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
