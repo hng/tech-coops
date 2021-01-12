@@ -38,6 +38,7 @@ Coop | Business Areas | Region/Country | Notes
 [Albatros Tech Cooperative Initiative](https://albatroskoop.com/en/) | Design, Development | Istanbul, Turkey | Worker-Owners|
 [Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979
 [Atomised](http://www.atomised.coop) | Web development, mobile apps, UX design | Cupar, Scotland | Founded 2008
+[Autonomic](https://autonomic.zone/) | Free software infrastructure and bespoke web development | Cypherspace |
 [bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  |
 [Black Shuck](http://blackshuck.co) | Producing moving image, audio and digital projects (websites, apps and installations). | Europe |
 [Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada |
