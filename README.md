@@ -47,6 +47,7 @@ Coop | Business Areas | Region/Country | Notes
 [Camplight](https://camplight.net) | web and mobile development, tech consulting | EU, Bulgaria | A digital cooperative that creates experiences for the web, mobile and beyond |
 [Caravan Web Worker Cooperative](https://caravan.coop) | Web design, Software development (Python) | Montreal and Quebec City, Canada |
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA |
+[Cohere](https://www.wecohere.com/) | Development and Consultancy | US | 
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
 [Coopdevs](http://coopdevs.org/) | Development | Barcelona, Catalonia | Non profit association and workers cooperative focusing on non-profit & grassroots social change projects e.g. Open Food Network amongst others |
 [Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK |
