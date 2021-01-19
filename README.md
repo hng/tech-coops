@@ -11,9 +11,9 @@ A very general definition:
 
 – [community-wealth.org](http://community-wealth.org/content/worker-cooperatives)
 
-Tech cooperatives are worker-owned cooperatives that operate in the information technology industry. This list focuses on tech coops that are providing software development and consulting services.
+Tech cooperatives are worker-owned cooperatives that operate in the information technology industry.
 
-Tech cooperatives could be a solution if you feel alienated by big software corporations and startup culture or you feel alone and in search of solidarity as a freelancer.
+Tech cooperatives could be a solution if you feel alienated by big IT corporations and startup culture or you feel alone and in search of solidarity as a freelancer.
 
 ## Table of Contents
 
