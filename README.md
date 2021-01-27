@@ -93,6 +93,7 @@ Coop | Business Areas | Region/Country | Notes
 [RadicalDesign](http://radicaldesigns.org) | Web development  | Oakland, CA, USA | Focusing on non-profit and grassroots social change organizations
 [Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral; [Inactive.](https://twitter.com/ahdinosaur/status/1150589688509419520)
+[Sange](http://www.sange.fi/) | Hosting | Helsinki, Finland |
 [Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA |
 [Seattle Developers Cooperative](https://seattledevelopers.coop/) | Web development, React, Node.js | Seattle, Washington, USA | Founded 2018; Working on P2P projects in JavaScript
 [Sofi Cooperative](https://soficoop.com/) | Web development, Design, Vue, Node.js | Jerusalem, Israel| Founded 2018; *"Sofi is a workers cooperative of designers and developers, we focus on websites and applications that bring positive value for society and the planet"*
