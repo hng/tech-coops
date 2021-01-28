@@ -18,14 +18,15 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 ## Table of Contents
 
 1. [Coops](#coops)
-2. [Networks of coops](#networks)
-3. [Resources](#resources)
-4. [Information on tech coops and coops in general](#info)
-5. [Talks](#talks)
-6. [Mailinglists](#mailinglists)
-7. [Tools](#tools)
-8. [Products created by tech coops](#products)
-9. [Jobs and contracts](#jobs)
+1. [Networks of coops](#networks)
+1. [Resources](#resources)
+1. [Information on tech coops and coops in general](#info)
+1. [Talks](#talks)
+1. [Mailinglists](#mailinglists)
+1. [Chat rooms](#chat-rooms)
+1. [Tools](#tools)
+1. [Products created by tech coops](#products)
+1. [Jobs and contracts](#jobs)
 
 <a name="coops" />
 
@@ -196,6 +197,12 @@ Coop | Business Areas | Region/Country | Notes
 
 * [tech-coop listserv](https://npogroups.org/lists/info/tech-coop) - Main mailinglist about tech coops. Check out the [archive](https://npogroups.org/lists/arc/tech-coop) for interesting threads in the past.
 * [Cooperative Technologists Community](https://community.coops.tech) - CoTech (UK) community forum.
+
+<a name="chatrooms" />
+
+### Chat rooms
+
+* [#cooptech:autonomic.zone](https://matrix.to/#/!eTkOeRURalzRzbBfBK:autonomic.zone?via=autonomic.zone&via=1312.media) (Matrix chat for CoTech)
 
 <a name="tools" />
 
