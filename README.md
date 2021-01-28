@@ -41,6 +41,7 @@ Coop | Business Areas | Region/Country | Notes
 [Autonomic](https://autonomic.zone/) | Free software infrastructure and bespoke web development | Cypherspace |
 [bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  |
 [Black Shuck](http://blackshuck.co) | Producing moving image, audio and digital projects (websites, apps and installations). | Europe |
+[blinkenbox](https://blinkenbox.coop/) | Sysadmin, Web Development, Hosting | Berlin, Germany |
 [Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada |
 [A Bunch of Hacks](https://abunchofhacks.coop) | Video game development, software development | Amsterdam, the Netherlands |
 [Cambá](https://camba.coop) | Web and mobile Development, Consulting, FLOSS Development | Buenos Aires, Argentina |
