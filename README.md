@@ -110,6 +110,7 @@ Coop | Business Areas | Region/Country | Notes
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
 [Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | Worker-owned, Founded 2013, Organizers of [Austin Software Co-operatives Meetup](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)|
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
+[Zinc Collective](https://www.zinc.coop/) | Development | US
 [ZO](https://zo.team/) | Design, Development, Translation, Copy-editing  |
 
 ### Other lists
