@@ -98,6 +98,7 @@ Coop | Business Areas | Region/Country | Notes
 [RadicalDesign](http://radicaldesigns.org) | Web development  | Oakland, CA, USA | Focusing on non-profit and grassroots social change organizations
 [Reinblau](https://reinblau.coop/) | Web development | Berlin, Germany
 [Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
+[Robur](https://robur.coop) | Software Development | Berlin, Germany
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral; [Inactive.](https://twitter.com/ahdinosaur/status/1150589688509419520)
 [Sange](http://www.sange.fi/) | Hosting | Helsinki, Finland |
 [Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA |
