@@ -72,6 +72,7 @@ Coop | Business Areas | Region/Country | Notes
 [Hostsharing](https://www.hostsharing.net/) | Hosting | Germany | 
 [Hypernova](https://www.hypernovacoop.it/) | Web Development, Web Design, Digital | Italy | Freelancers network, part of the Doc Servizi coop network |
 [Hypha Worker Co-operative](https://hypha.coop/) | Digital coaching, (decentralized) web design, and development | Tkaronto (Toronto), Ontario, Canada | Founded in 2019 with the mission to help organizations and communities redesign their relationships with digital technology. |
+[Informal Systems](https://informal.systems) | Distribute Systems and Formal Verification |  Tkaronto (Toronto), Ontario, Canada | Working towards an open-source ecosystem of cooperatively owned and governed distributed organizations running on reliable distributed systems 
 [Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
 [IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
 [IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark |
