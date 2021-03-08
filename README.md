@@ -18,102 +18,149 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 ## Table of Contents
 
 1. [Coops](#coops)
-1. [Networks of coops](#networks)
-1. [Resources](#resources)
-1. [Information on tech coops and coops in general](#info)
-1. [Talks](#talks)
-1. [Mailinglists](#mailinglists)
-1. [Chat rooms](#chat-rooms)
-1. [Tools](#tools)
-1. [Products created by tech coops](#products)
-1. [Jobs and contracts](#jobs)
+    1. [North America](#coops-namerica)
+    1. [South America](#coops-samerica)
+    1. [Asia](#coops-asia)
+    1. [Europe](#coops-europe)
+    1. [Oceania](#coops-oceania)
+    1. [Worldwide](#coops-worldwide)
+3. [Networks of coops](#networks)
+4. [Resources](#resources)
+5. [Information on tech coops and coops in general](#info)
+6. [Talks](#talks)
+7. [Mailinglists](#mailinglists)
+8. [Chat rooms](#chat-rooms)
+9. [Tools](#tools)
+10. [Products created by tech coops](#products)
+11. [Jobs and contracts](#jobs)
 
 <a name="coops" />
 
 ## Coops
 
+<a name="coops-namerica" />
+
+### North America
+
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Agaric](http://agaric.coop/) | Web development, tech consulting | USA / Nicaragua / Germany | Worker-owned collective building online since 2006, lately contributing to the [Drutopia](https://drutopia.org/) platform for grassroots groups.
-[Agile Collective](https://agilecollective.com) | Web development | UK |
-[Albatros Tech Cooperative Initiative](https://albatroskoop.com/en/) | Design, Development | Istanbul, Turkey | Worker-Owners|
-[Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979
-[Atomised](http://www.atomised.coop) | Web development, mobile apps, UX design | Cupar, Scotland | Founded 2008
-[Autonomic](https://autonomic.zone/) | Free software infrastructure and bespoke web development | Cypherspace |
-[bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  |
-[Black Shuck](http://blackshuck.co) | Producing moving image, audio and digital projects (websites, apps and installations). | Europe |
-[blinkenbox](https://blinkenbox.coop/) | Sysadmin, Web Development, Hosting | Berlin, Germany |
-[Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada |
-[A Bunch of Hacks](https://abunchofhacks.coop) | Video game development, software development | Amsterdam, the Netherlands |
-[Cambá](https://camba.coop) | Web and mobile Development, Consulting, FLOSS Development | Buenos Aires, Argentina |
-[Camplight](https://camplight.net) | web and mobile development, tech consulting | EU, Bulgaria | A digital cooperative that creates experiences for the web, mobile and beyond |
-[Caravan Web Worker Cooperative](https://caravan.coop) | Web design, Software development (Python) | Montreal and Quebec City, Canada |
-[C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA |
-[Common Knowledge](https://commonknowledge.coop/) | digital tools for grassroots activists | London, UK
+[Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada | |
+[Caravan Web Worker Cooperative](https://caravan.coop) | Web design, Software development (Python) | Montreal and Quebec City, Canada | |
+[C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
-[Coopdevs](http://coopdevs.org/) | Development | Barcelona, Catalonia | Non profit association and workers cooperative focusing on non-profit & grassroots social change projects e.g. Open Food Network amongst others |
-[Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK |
-[ctrl.alt.coop](https://ctrl.alt.coop/) | Software Development, Consulting | Berlin, Germany
-[Devtopia](https://devtopia.coop) | Consulting, project management, design and UX, web development, app development, marketing | Spain | Distributed company
-[Diciannove](https://19.coop) | Consulting, project management, open source development, hosting, web design | Italy |
-[Digicoop](http://digicoop.io) | Product company, makers of [kantree.io](https://kantree.io) | France | Distributed company
-[dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec |
-[EITA](https://eita.coop.br/) | Open Source Development | Brazil | Our goal is to deliver open source technologies to social moviments
-[Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA |
-[Enspiral](https://enspiral.com) |  | NZ | Network-type
-[Equality](https://equality.coop) | Web development (Django/Angular) | Rosario, Santa Fe, Argentina |
-[Eryx](https://eryx.co) | Full-stack development, Data Science, Operations Research, UX, Consulting | CABA, Buenos Aires, Argentina |
+[Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA | |
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
-[Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina |
-[fnordkollektiv](https://fnordkollektiv.de) | software development, infrastructure devop, tech consulting | Siegen, NRW, Germany | Founded 2020 |
-[gcoop](https://gcoop.coop) | Hosting, Consulting, Web Development, FLOSS Development | Buenos Aires, Argentina |*"Transformamos los sistemas."*
-[GNU Coop](https://www.gnucoop.com/) | Open source development, training, e-learning, project management | Italy |
-[Go free Range](http://gofreerange.com) | Web development | UK |
-[Happy Dev](https://happy-dev.fr/) | Anything digital | France | Freelancers network federating tech collectives around France |
-[Hostsharing](https://www.hostsharing.net/) | Hosting | Germany | 
-[Hypernova](https://www.hypernovacoop.it/) | Web Development, Web Design, Digital | Italy | Freelancers network, part of the Doc Servizi coop network |
 [Hypha Worker Co-operative](https://hypha.coop/) | Digital coaching, (decentralized) web design, and development | Tkaronto (Toronto), Ontario, Canada | Founded in 2019 with the mission to help organizations and communities redesign their relationships with digital technology. |
 [Informal Systems](https://informal.systems) | Distribute Systems and Formal Verification |  Tkaronto (Toronto), Ontario, Canada | Working towards an open-source ecosystem of cooperatively owned and governed distributed organizations running on reliable distributed systems 
-[Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
-[IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
-[IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark |
-[Itopie](https://www.itopie.ch/) | Repairs, workshops, IT services (individuals and companies) | Geneva, Switzerland |
-[Jamgo](http://jamgo.coop/en/) | Front-end dev, design services, e-commerce, Drupal/WordPress | Barcelona, Spain |
-[Kaleidos](https://kaleidos.net/) | Front-end, mobile, UX/UI design, open source software | Madrid, Spain |
-[Kedu](https://kedu.coop/en/home) | Software, infrastructure | Barcelona, Spain |
-[Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada |
-[Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
-[Les-Tilleuls.coop](https://les-tilleuls.coop/en)| Web development, Tech consulting, Open Source Development | Lille, Paris, Nantes, Lyon (France) | Tech worker-owned cooperative founded in 2011. Creators of the API Platform framework and major contributors to Symfony. | 
-[Lyseon Tech](https://lt.coop.br/) | Web development, Apps and Hosting | Rio de Janeiro, BR | Cooperative of free software developers |
-[Motion Twin](https://motion-twin.com) | Video game development | Bordeaux, France |
-[MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden |
-[Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina |
-[Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India |
+[Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada | |
 [NOVA Web Development](https://novawebdevelopment.org/) | Django sites, graphic design  | USA / El Salvador / elsewhere | Worker-owned co-op developing [LibreOrganize](https://libreorganize.org/) and [Business Tracker](https://businesstracker.org/) primarily for unions, labor movement, social justice, etc. |
-[Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
-[Palante Technology Cooperative](https://palantetech.coop) | Web development, CiviCRM, Tech support, Training | Focus on NGOs
+[Palante Technology Cooperative](https://palantetech.coop) | Web development, CiviCRM, Tech support, Training | New York, USA and beyond | Focus on NGOs
 [Plausible Labs](https://www.plausible.coop/about) | Development, Design | New York and San Francisco, USA | [Bylaws](https://www.plausible.coop/static/docs/Plausible_Labs_Bylaws.pdf)
 [Position Development](https://positiondev.com/) | Software Development | Brooklyn, NY | Focused on independent media, cultural institutions, and socially minded organizations
-[Protozoa](http://protozoa.nz) | Web development | NZ |
 [Quilted](http://quilted.coop) | consulting, graphic design, web development | Berkeley, California, USA | *"Quilted is a worker-owned, cooperatively-managed company stitching together technology and social change."*
-[Rabotnik](https://www.rabotnik.coop/) |  graphic design, web-development, video production and animation, campaign and concept development | Denmark |
 [RadicalDesign](http://radicaldesigns.org) | Web development  | Oakland, CA, USA | Focusing on non-profit and grassroots social change organizations
-[Reinblau](https://reinblau.coop/) | Web development | Berlin, Germany
-[Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
-[Robur](https://robur.coop) | Software Development | Berlin, Germany
-[Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral; [Inactive.](https://twitter.com/ahdinosaur/status/1150589688509419520)
-[Sange](http://www.sange.fi/) | Hosting | Helsinki, Finland |
-[Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA |
+[Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | |
 [Seattle Developers Cooperative](https://seattledevelopers.coop/) | Web development, React, Node.js | Seattle, Washington, USA | Founded 2018; Working on P2P projects in JavaScript
-[Sofi Cooperative](https://soficoop.com/) | Web development, Design, Vue, Node.js | Jerusalem, Israel| Founded 2018; *"Sofi is a workers cooperative of designers and developers, we focus on websites and applications that bring positive value for society and the planet"*
-[TableFlip](https://tableflip.io/) | Web development. Javascript, Node.js, Meteor. | London, UK | Founded 2013; "We're your technical co-founder." |
-[TechCollective](https://techcollective.com) | tech support | San Francisco & Boston, USA |
 [the Tech Support Cooperative](https://site.techsupport.coop/) | POS software, open-source web development, consulting | US + CAN | Maintainers of the [CORE-POS / IS4C](https://github.com/CORE-POS/IS4C) software project |
-[Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
 [Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | Worker-owned, Founded 2013, Organizers of [Austin Software Co-operatives Meetup](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)|
+[Zinc Collective](https://www.zinc.coop/) | Development | US | |
+
+<a name="coops-samerica" />
+
+### South America
+
+Coop | Business Areas | Region/Country | Notes
+---- | -------------- | -------------- | -----
+[Cambá](https://camba.coop) | Web and mobile Development, Consulting, FLOSS Development | Buenos Aires, Argentina | |
+[EITA](https://eita.coop.br/) | Open Source Development | Brazil | Our goal is to deliver open source technologies to social moviments
+[Equality](https://equality.coop) | Web development (Django/Angular) | Rosario, Santa Fe, Argentina | |
+[Eryx](https://eryx.co) | Full-stack development, Data Science, Operations Research, UX, Consulting | CABA, Buenos Aires, Argentina | |
+[Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina | |
+[gcoop](https://gcoop.coop) | Hosting, Consulting, Web Development, FLOSS Development | Buenos Aires, Argentina |*"Transformamos los sistemas."*
+[Lyseon Tech](https://lt.coop.br/) | Web development, Apps and Hosting | Rio de Janeiro, BR | Cooperative of free software developers |
+[Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina | |
+[Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
+
+<a name="coops-asia" />
+
+### Asia
+
+Coop | Business Areas | Region/Country | Notes
+---- | -------------- | -------------- | -----
+[Albatros Tech Cooperative Initiative](https://albatroskoop.com/en/) | Design, Development | Istanbul, Turkey | Worker-Owners|
+[Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India | |
+[Sofi Cooperative](https://soficoop.com/) | Web development, Design, Vue, Node.js | Jerusalem, Israel| Founded 2018; *"Sofi is a workers cooperative of designers and developers, we focus on websites and applications that bring positive value for society and the planet"*
+
+<a name="coops-europe" />
+
+### Europe
+
+Coop | Business Areas | Region/Country | Notes
+---- | -------------- | -------------- | -----
+[Agile Collective](https://agilecollective.com) | Web development | UK | |
+[Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979
+[Atomised](http://www.atomised.coop) | Web development, mobile apps, UX design | Cupar, Scotland | Founded 2008
+[Autonomic](https://autonomic.zone/) | Free software infrastructure and bespoke web development | UK, Cypherspace | |
+[A Bunch of Hacks](https://abunchofhacks.coop) | Video game development, software development | Amsterdam, the Netherlands | |
+[Black Shuck](http://blackshuck.co) | Producing moving image, audio and digital projects (websites, apps and installations). | Europe | |
+[blinkenbox](https://blinkenbox.coop/) | Sysadmin, Web Development, Hosting | Berlin, Germany | |
+[Camplight](https://camplight.net) | web and mobile development, tech consulting | EU, Bulgaria | A digital cooperative that creates experiences for the web, mobile and beyond |
+[Common Knowledge](https://commonknowledge.coop/) | digital tools for grassroots activists | London, UK | |
+[Coopdevs](http://coopdevs.org/) | Development | Barcelona, Catalonia | Non profit association and workers cooperative focusing on non-profit & grassroots social change projects e.g. Open Food Network amongst others |
+[Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK | |
+[ctrl.alt.coop](https://ctrl.alt.coop/) | Software Development, Consulting | Berlin, Germany | |
+[datenkollektiv.net](https://www.datenkollektiv.net) | Hosting, networking, services | Dresden, Germany | |
+[Devtopia](https://devtopia.coop) | Consulting, project management, design and UX, web development, app development, marketing | Spain | Distributed company
+[Diciannove](https://19.coop) | Consulting, project management, open source development, hosting, web design | Italy | |
+[Digicoop](http://digicoop.io) | Product company, makers of [kantree.io](https://kantree.io) | France | Distributed company
+[dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec | |
+[fnordkollektiv](https://fnordkollektiv.de) | software development, infrastructure devop, tech consulting | Siegen, NRW, Germany | Founded 2020 |
+[GNU Coop](https://www.gnucoop.com/) | Open source development, training, e-learning, project management | Italy | |
+[Go free Range](http://gofreerange.com) | Web development | UK | |
+[Happy Dev](https://happy-dev.fr/) | Anything digital | France | Freelancers network federating tech collectives around France |
+[Hostsharing](https://www.hostsharing.net/) | Hosting | Germany |  |
+[Hypernova](https://www.hypernovacoop.it/) | Web Development, Web Design, Digital | Italy | Freelancers network, part of the Doc Servizi coop network |
+[Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
+[IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
+[IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark | |
+[Itopie](https://www.itopie.ch/) | Repairs, workshops, IT services (individuals and companies) | Geneva, Switzerland | |
+[Jamgo](http://jamgo.coop/en/) | Front-end dev, design services, e-commerce, Drupal/WordPress | Barcelona, Spain | |
+[Kaleidos](https://kaleidos.net/) | Front-end, mobile, UX/UI design, open source software | Madrid, Spain | |
+[Kedu](https://kedu.coop/en/home) | Software, infrastructure | Barcelona, Spain | |
+[Les-Tilleuls.coop](https://les-tilleuls.coop/en)| Web development, Tech consulting, Open Source Development | Lille, Paris, Nantes, Lyon (France) | Tech worker-owned cooperative founded in 2011. Creators of the API Platform framework and major contributors to Symfony. | 
+[Motion Twin](https://motion-twin.com) | Video game development | Bordeaux, France | |
+[MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | |
+[Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
+[Rabotnik](https://www.rabotnik.coop/) |  graphic design, web-development, video production and animation, campaign and concept development | Denmark | |
+[Reinblau](https://reinblau.coop/) | Web development | Berlin, Germany | |
+[Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
+[Robur](https://robur.coop) | Software Development | Berlin, Germany | |
+[Sange](http://www.sange.fi/) | Hosting | Helsinki, Finland | |
+[TableFlip](https://tableflip.io/) | Web development. Javascript, Node.js, Meteor. | London, UK | Founded 2013; "We're your technical co-founder." |
+[UNI:CODE IT Solutions](https://unicode-it.de) | Web development, IT services | Germany, Remote | |
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
-[Zinc Collective](https://www.zinc.coop/) | Development | US
-[ZO](https://zo.team/) | Design, Development, Translation, Copy-editing  |
+
+<a name="coops-oceania" />
+
+### Oceania
+
+Coop | Business Areas | Region/Country | Notes
+---- | -------------- | -------------- | -----
+[Enspiral](https://enspiral.com) |  | NZ | Network-type
+[Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
+[Protozoa](http://protozoa.nz) | Web development | NZ | |
+[Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral; [Inactive.](https://twitter.com/ahdinosaur/status/1150589688509419520)
+
+
+<a name="coops-worldwide" />
+
+### Decentralised / Worldwide
+
+Coop | Business Areas | Notes
+---- | -------------- | -----
+[bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  | 
+[ZO](https://zo.team/) | Design, Development, Translation, Copy-editing  |  |
 
 ### Other lists
 
