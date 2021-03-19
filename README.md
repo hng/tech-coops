@@ -55,6 +55,7 @@ Coop | Business Areas | Region/Country | Notes
 [Informal Systems](https://informal.systems) | Distribute Systems and Formal Verification |  Tkaronto (Toronto), Ontario, Canada | Working towards an open-source ecosystem of cooperatively owned and governed distributed organizations running on reliable distributed systems 
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada | |
 [NOVA Web Development](https://novawebdevelopment.org/) | Django sites, graphic design  | USA / El Salvador / elsewhere | Worker-owned co-op developing [LibreOrganize](https://libreorganize.org/) and [Business Tracker](https://businesstracker.org/) primarily for unions, labor movement, social justice, etc. |
+[Openflows](https://www.openflows.com) | Web development, CiviCRM | New York, USA | |
 [Palante Technology Cooperative](https://palantetech.coop) | Web development, CiviCRM, Tech support, Training | New York, USA and beyond | Focus on NGOs
 [Plausible Labs](https://www.plausible.coop/about) | Development, Design | New York and San Francisco, USA | [Bylaws](https://www.plausible.coop/static/docs/Plausible_Labs_Bylaws.pdf)
 [Position Development](https://positiondev.com/) | Software Development | Brooklyn, NY | Focused on independent media, cultural institutions, and socially minded organizations
