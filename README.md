@@ -49,6 +49,7 @@ Coop | Business Areas | Region/Country | Notes
 [Caravan Web Worker Cooperative](https://caravan.coop) | Web design, Software development (Python) | Montreal and Quebec City, Canada | |
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
+[Design Action Collective](https://designaction.org) | Web design and development | Oakland, USA | |
 [Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA | |
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [Hypha Worker Co-operative](https://hypha.coop/) | Digital coaching, (decentralized) web design, and development | Tkaronto (Toronto), Ontario, Canada | Founded in 2019 with the mission to help organizations and communities redesign their relationships with digital technology. |
