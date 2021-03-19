@@ -60,8 +60,6 @@ Coop | Business Areas | Region/Country | Notes
 [Palante Technology Cooperative](https://palantetech.coop) | Web development, CiviCRM, Tech support, Training | New York, USA and beyond | Focus on NGOs
 [Plausible Labs](https://www.plausible.coop/about) | Development, Design | New York and San Francisco, USA | [Bylaws](https://www.plausible.coop/static/docs/Plausible_Labs_Bylaws.pdf)
 [Position Development](https://positiondev.com/) | Software Development | Brooklyn, NY | Focused on independent media, cultural institutions, and socially minded organizations
-[Quilted](http://quilted.coop) | consulting, graphic design, web development | Berkeley, California, USA | *"Quilted is a worker-owned, cooperatively-managed company stitching together technology and social change."*
-[RadicalDesign](http://radicaldesigns.org) | Web development  | Oakland, CA, USA | Focusing on non-profit and grassroots social change organizations
 [Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | |
 [Seattle Developers Cooperative](https://seattledevelopers.coop/) | Web development, React, Node.js | Seattle, Washington, USA | Founded 2018; Working on P2P projects in JavaScript
 [the Tech Support Cooperative](https://site.techsupport.coop/) | POS software, open-source web development, consulting | US + CAN | Maintainers of the [CORE-POS / IS4C](https://github.com/CORE-POS/IS4C) software project |
