@@ -110,6 +110,7 @@ Coop | Business Areas | Region/Country | Notes
 [Common Knowledge](https://commonknowledge.coop/) | digital tools for grassroots activists | London, UK | |
 [Coopdevs](http://coopdevs.org/) | Development | Barcelona, Catalonia | Non profit association and workers cooperative focusing on non-profit & grassroots social change projects e.g. Open Food Network amongst others |
 [Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK | |
+[Coop IT Easy](https://coopiteasy.be/) | ERP development | Brussels, Belgium | Worker coop, we provide Open Source ERPs to other cooperatives. |
 [ctrl.alt.coop](https://ctrl.alt.coop/) | Software Development, Consulting | Berlin, Germany | |
 [datenkollektiv.net](https://www.datenkollektiv.net) | Hosting, networking, services | Dresden, Germany | |
 [Devtopia](https://devtopia.coop) | Consulting, project management, design and UX, web development, app development, marketing | Spain | Distributed company
