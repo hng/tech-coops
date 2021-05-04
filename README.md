@@ -99,6 +99,7 @@ Coop | Business Areas | Region/Country | Notes
 
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
+[24ème](https://24eme.fr) | Free open source software development | Paris, France | Governance based on trust and transparency
 [Agile Collective](https://agilecollective.com) | Web development | UK | |
 [Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979
 [Atomised](http://www.atomised.coop) | Web development, mobile apps, UX design | Cupar, Scotland | Founded 2008
