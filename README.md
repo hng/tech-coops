@@ -126,6 +126,7 @@ Coop | Business Areas | Region/Country | Notes
 [Hostsharing](https://www.hostsharing.net/) | Hosting | Germany |  |
 [Hypernova](https://www.hypernovacoop.it/) | Web Development, Web Design, Digital | Italy | Freelancers network, part of the Doc Servizi coop network |
 [Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
+[infra.run](https://infra.run/) | Development, Support, Training, Video Conference Hosting |
 [IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
 [IT Kollektivet](http://www.it-kollektivet.dk) |  | Copenhagen, Denmark | |
 [Itopie](https://www.itopie.ch/) | Repairs, workshops, IT services (individuals and companies) | Geneva, Switzerland | |
