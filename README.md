@@ -60,6 +60,7 @@ Coop | Business Areas | Region/Country | Notes
 [Openflows](https://www.openflows.com) | Web development, CiviCRM | New York, USA | |
 [Palante Technology Cooperative](https://palantetech.coop) | Web development, CiviCRM, Tech support, Training | New York, USA and beyond | Focus on NGOs
 [Plausible Labs](https://www.plausible.coop/about) | Development, Design | New York and San Francisco, USA | [Bylaws](https://www.plausible.coop/static/docs/Plausible_Labs_Bylaws.pdf)
+[Politics Rewired](https://politicsrewired.com/) | Political campaigning and organizing tools | USA
 [Position Development](https://positiondev.com/) | Software Development | Brooklyn, NY | Focused on independent media, cultural institutions, and socially minded organizations
 [Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | |
 [Seattle Developers Cooperative](https://seattledevelopers.coop/) | Web development, React, Node.js | Seattle, Washington, USA | Founded 2018; Working on P2P projects in JavaScript
