@@ -83,6 +83,7 @@ Coop | Business Areas | Region/Country | Notes
 [Lyseon Tech](https://lt.coop.br/) | Web development, Apps and Hosting | Rio de Janeiro, BR | Cooperative of free software developers |
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina | |
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
+[Matelab](http://www.matelab.com.ar/en/) | Development | Buenos Aires, Argentina | Founded 2019; 8 associates
 
 <a name="coops-asia" />
 
