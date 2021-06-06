@@ -80,6 +80,7 @@ Coop | Business Areas | Region/Country | Notes
 [Eryx](https://eryx.co) | Full-stack development, Data Science, Operations Research, UX, Consulting | CABA, Buenos Aires, Argentina | |
 [Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina | |
 [gcoop](https://gcoop.coop) | Hosting, Consulting, Web Development, FLOSS Development | Buenos Aires, Argentina |*"Transformamos los sistemas."*
+[It10](https://it10coop.com.ar) | Software development | Córdoba, Argentina | |
 [Lyseon Tech](https://lt.coop.br/) | Web development, Apps and Hosting | Rio de Janeiro, BR | Cooperative of free software developers |
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina | |
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
