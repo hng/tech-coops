@@ -47,9 +47,11 @@ Coop | Business Areas | Region/Country | Notes
 [Agaric](http://agaric.coop/) | Web development, tech consulting | USA / Nicaragua / Germany | Worker-owned collective building online since 2006, lately contributing to the [Drutopia](https://drutopia.org/) platform for grassroots groups.
 [Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada | |
 [Caravan Web Worker Cooperative](https://caravan.coop) | Web design, Software development (Python) | Montreal and Quebec City, Canada | |
+[Catalyst Cooperative](https://catalyst.coop) | Open data engineering / analysis for energy & climate policy | Distributed / Remote, North America | |
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
 [Design Action Collective](https://designaction.org) | Web design and development | Oakland, USA | |
+[Dojo4](https://dojo4.com/) | Web applications and design | Boulder, CO | |
 [Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA | |
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [FullSteam Labs](https://www.fullsteamlabs.com) | Web application development, UI & UX Design | USA | 
