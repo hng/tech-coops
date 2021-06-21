@@ -74,6 +74,7 @@ Coop | Business Areas | Region/Country | Notes
 
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
+[bantics](https://bantics.com.ar) | Consulting, Cloud Infrastructure Administrator, Hosting, Full-stack Development, FLOSS Development | Buenos Aires, Argentina | Fundanda en 2012
 [Cambá](https://camba.coop) | Web and mobile Development, Consulting, FLOSS Development | Buenos Aires, Argentina | |
 [EITA](https://eita.coop.br/) | Open Source Development | Brazil | Our goal is to deliver open source technologies to social moviments
 [Equality](https://equality.coop) | Web development (Django/Angular) | Rosario, Santa Fe, Argentina | |
@@ -83,7 +84,6 @@ Coop | Business Areas | Region/Country | Notes
 [Lyseon Tech](https://lt.coop.br/) | Web development, Apps and Hosting | Rio de Janeiro, BR | Cooperative of free software developers |
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina | |
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
-[bantics](https://bantics.coop) | Consulting, Cloud Infrastructure Administrator, Hosting, Full-stack Development, FLOSS Development | Buenos Aires, Argentina | Fundanda en 2012
 
 <a name="coops-asia" />
 
