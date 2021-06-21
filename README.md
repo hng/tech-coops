@@ -81,9 +81,9 @@ Coop | Business Areas | Region/Country | Notes
 [Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina | |
 [gcoop](https://gcoop.coop) | Hosting, Consulting, Web Development, FLOSS Development | Buenos Aires, Argentina |*"Transformamos los sistemas."*
 [Lyseon Tech](https://lt.coop.br/) | Web development, Apps and Hosting | Rio de Janeiro, BR | Cooperative of free software developers |
+[Matelab](http://www.matelab.com.ar/en/) | Development | Buenos Aires, Argentina | Founded 2019; 8 associates
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina | |
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
-[Matelab](http://www.matelab.com.ar/en/) | Development | Buenos Aires, Argentina | Founded 2019; 8 associates
 
 <a name="coops-asia" />
 
