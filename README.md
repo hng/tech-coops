@@ -53,7 +53,6 @@ Coop | Business Areas | Region/Country | Notes
 [Design Action Collective](https://designaction.org) | Web design and development | Oakland, USA | |
 [Dojo4](https://dojo4.com/) | Web applications and design | Boulder, CO | |
 [Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA | |
-[Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [FullSteam Labs](https://www.fullsteamlabs.com) | Web application development, UI & UX Design | USA | 
 [Hypha Worker Co-operative](https://hypha.coop/) | Digital coaching, (decentralized) web design, and development | Tkaronto (Toronto), Ontario, Canada | Founded in 2019 with the mission to help organizations and communities redesign their relationships with digital technology. |
 [Informal Systems](https://informal.systems) | Distribute Systems and Formal Verification |  Tkaronto (Toronto), Ontario, Canada | Working towards an open-source ecosystem of cooperatively owned and governed distributed organizations running on reliable distributed systems 
