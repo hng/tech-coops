@@ -86,6 +86,7 @@ Coop | Business Areas | Region/Country | Notes
 [gcoop](https://gcoop.coop) | Hosting, Consulting, Web Development, FLOSS Development | Buenos Aires, Argentina |*"Transformamos los sistemas."*
 [It10](https://it10coop.com.ar) | Software development | Córdoba, Argentina | |
 [Lyseon Tech](https://lt.coop.br/) | Web development, Apps and Hosting | Rio de Janeiro, BR | Cooperative of free software developers |
+[Matelab](http://www.matelab.com.ar/en/) | Development | Buenos Aires, Argentina | Founded 2019; 8 associates
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina | |
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
 
