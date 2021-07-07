@@ -51,6 +51,7 @@ Coop | Business Areas | Region/Country | Notes
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
 [Design Action Collective](https://designaction.org) | Web design and development | Oakland, USA | |
+[DWG](https://digitalworkersguild.com) | Product development and implementation | East Bay, CA, USA | |
 [Dojo4](https://dojo4.com/) | Web applications and design | Boulder, CO | |
 [Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA | |
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
