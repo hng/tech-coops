@@ -178,6 +178,7 @@ Coop | Business Areas | Notes
 
 ### Other lists
 
+ * [Historical / defunct coops](./DEFUNCT.md)
  * [Awesome Tech Cooperatives](https://github.com/mwmeyer/awesome-tech-cooperatives) - A collection of awesome cooperative tech companies and projects
 
  <a name="networks" />
