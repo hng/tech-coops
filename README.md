@@ -60,6 +60,7 @@ Coop | Business Areas | Region/Country | Notes
 [Informal Systems](https://informal.systems) | Distribute Systems and Formal Verification |  Tkaronto (Toronto), Ontario, Canada | Working towards an open-source ecosystem of cooperatively owned and governed distributed organizations running on reliable distributed systems 
 [KO_OP](https://www.ko-opmode.com/) | Game development | Montreal, Quebec, Canada | |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada | |
+[Mellium](https://mellium.im) | XMPP protocol, chat services and software | Atlanta, GA, USA | Collection of people building an XMPP implementation in Go and using it to advance the state of federated instant messaging
 [Nexodus](https://nexod.us/) | Visual Effects (VFX) | Cincinnati, Ohio, USA | |
 [NOVA Web Development](https://novawebdevelopment.org/) | Django sites, graphic design  | USA / El Salvador / elsewhere | Worker-owned co-op developing [LibreOrganize](https://libreorganize.org/) and [Business Tracker](https://businesstracker.org/) primarily for unions, labor movement, social justice, etc. |
 [Openflows](https://www.openflows.com) | Web development, CiviCRM | New York, USA | |
