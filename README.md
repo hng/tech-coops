@@ -160,6 +160,7 @@ Coop | Business Areas | Region/Country | Notes
 [TableFlip](https://tableflip.io/) | Web development. Javascript, Node.js, Meteor. | London, UK | Founded 2013; "We're your technical co-founder." |
 [UNI:CODE IT Solutions](https://unicode-it.de) | Web development, IT services | Germany, Remote | |
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
+[WTF Kooperative eG](https://wtf-eg.de/) | Software Development, Hosting, Consulting, less bureaucracy for freelancers in germany  | Germany, Remote | eG legal German Coop, founded 2020 |
 
 <a name="coops-oceania" />
 
