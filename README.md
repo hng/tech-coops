@@ -73,6 +73,7 @@ Coop | Business Areas | Region/Country | Notes
 [the Tech Support Cooperative](https://site.techsupport.coop/) | POS software, open-source web development, consulting | US + CAN | Maintainers of the [CORE-POS / IS4C](https://github.com/CORE-POS/IS4C) software project |
 [Tierra Común](https://tierracomun.org/) | digital security, sysadmin, web design | Mexico | |
 [Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | Worker-owned, Founded 2013, Organizers of [Austin Software Co-operatives Meetup](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)|
+[Willow Bark](https://willowbark.org) | Design, Development, sysadmin, security | Remote, international |
 [Zinc Collective](https://www.zinc.coop/) | Development | US | |
 
 <a name="coops-samerica" />
