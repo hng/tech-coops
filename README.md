@@ -162,6 +162,7 @@ Coop | Business Areas | Region/Country | Notes
 [UNI:CODE IT Solutions](https://unicode-it.de) | Web development, IT services | Germany, Remote | |
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
 [WTF Kooperative eG](https://wtf-eg.de/) | Software Development, Hosting, Consulting, less bureaucracy for freelancers in germany  | Germany, Remote | eG legal German Coop, founded 2020 |
+[Yaal Coop](https://yaal.coop)| Web development, open source development, technical investment | Bordeaux (France) | Worker-owned cooperative focused on social impact startups. |
 
 <a name="coops-oceania" />
 
@@ -298,6 +299,7 @@ Coop | Business Areas | Notes
 ## Software/Products created by tech coops
 
 * [API Platform](https://api-platform.com/) - REST and GraphQL framework on top of Symfony and React.
+* [Canaille](https://pypi.org/project/Canaille/) - Simple account manager and an OpenID Connect provider based upon a LDAP database.
 * [Cobuy](https://github.com/enspiral-root-systems/cobuy) - Group wholesale purchases as a consumer co-op (by Root Systems).
 * [CoopHub](https://coophub.io) - Git repos from cooperatives around the world!
 * [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
