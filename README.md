@@ -68,7 +68,6 @@ Coop | Business Areas | Region/Country | Notes
 [Politics Rewired](https://politicsrewired.com/) | Political campaigning and organizing tools | USA
 [Position Development](https://positiondev.com/) | Software Development | Brooklyn, NY | Focused on independent media, cultural institutions, and socially minded organizations
 [Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | |
-[Seattle Developers Cooperative](https://seattledevelopers.coop/) | Web development, React, Node.js | Seattle, Washington, USA | Founded 2018; Working on P2P projects in JavaScript
 [The Glory Society](http://theglorysociety.com/) | Games | US | Founded in 2019
 [the Tech Support Cooperative](https://site.techsupport.coop/) | POS software, open-source web development, consulting | US + CAN | Maintainers of the [CORE-POS / IS4C](https://github.com/CORE-POS/IS4C) software project |
 [Tierra Común](https://tierracomun.org/) | digital security, sysadmin, web design | Mexico | |
