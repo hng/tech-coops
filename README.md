@@ -83,6 +83,7 @@ Coop | Business Areas | Region/Country | Notes
 
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
+[Animus](https://animus.coop) | Backend / Frontend / Web / Mobile development / UX / UI / Accesibility | Bariloche, Argentina
 [bantics](https://bantics.com.ar) | Consulting, Cloud Infrastructure Administrator, Hosting, Full-stack Development, FLOSS Development | Buenos Aires, Argentina | Fundanda en 2012
 [Cambá](https://camba.coop) | Web and mobile Development, Consulting, FLOSS Development | Buenos Aires, Argentina | |
 [EITA](https://eita.coop.br/) | Open Source Development | Brazil | Our goal is to deliver open source technologies to social moviments
