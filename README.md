@@ -158,9 +158,11 @@ Coop | Business Areas | Region/Country | Notes
 [Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
 [Robur](https://robur.coop) | Software Development | Berlin, Germany | |
 [Sange](http://www.sange.fi/) | Hosting | Helsinki, Finland | |
+[SkuraMobile](https://skuramobile.com/) |  App development | Errenteria, Basque Country | |
 [Slobodna domena](https://slobodnadomena.hr/) | Web & app development, design, IT infrastructure, consulting and education | Zagreb, Croatia | Worker's non-profit coop founded in 2017. |
 [Startin'blox](https://startinblox.com/) | Web development | Hosting | specilized in federated application | France | |
 [TableFlip](https://tableflip.io/) | Web development. Javascript, Node.js, Meteor. | London, UK | Founded 2013; "We're your technical co-founder." |
+[Talaios Koop.](https://talaios.coop/) | Web development. Vue, Sage, Node.js. Docker, kubernetes. Odoo, Wordpress, Nextcloud, Moodle. Coop consultancy| Errenteria, Basque Country | Founded 2012|
 [UNI:CODE IT Solutions](https://unicode-it.de) | Web development, IT services | Germany, Remote | |
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
 [WTF Kooperative eG](https://wtf-eg.de/) | Software Development, Hosting, Consulting, less bureaucracy for freelancers in germany  | Germany, Remote | eG legal German Coop, founded 2020 |
