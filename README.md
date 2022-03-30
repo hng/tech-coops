@@ -158,6 +158,7 @@ Coop | Business Areas | Region/Country | Notes
 [Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
 [Robur](https://robur.coop) | Software Development | Berlin, Germany | |
 [Sange](http://www.sange.fi/) | Hosting | Helsinki, Finland | |
+[Sociality](https://sociality.coop/) | Digital Technologies | Athens, Greece | |
 [SkuraMobile](https://skuramobile.com/) |  App development | Errenteria, Basque Country | |
 [Slobodna domena](https://slobodnadomena.hr/) | Web & app development, design, IT infrastructure, consulting and education | Zagreb, Croatia | Worker's non-profit coop founded in 2017. |
 [Startin'blox](https://startinblox.com/) | Web development | Hosting | specilized in federated application | France | |
