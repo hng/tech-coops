@@ -63,6 +63,7 @@ Coop | Business Areas | Region/Country | Notes
 [Interstitial Technology](https://interstitial.coop) | Full-stack engineering - design, development, firmware, electrical engineering  | USA/Canada | Focused on technology with positive social impact
 [KO_OP](https://www.ko-opmode.com/) | Game development | Montreal, Quebec, Canada | |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada | |
+[Ministry of Velocity](https://www.minifast.co) | Agile transformation, security, branding, service design, research, development | SF Bay Area and Southern Oregon | |
 [Nexodus](https://nexod.us/) | Visual Effects (VFX) | Cincinnati, Ohio, USA | |
 [NOVA Web Development](https://novawebdevelopment.org/) | Django sites, graphic design  | USA / El Salvador / elsewhere | Worker-owned co-op developing [LibreOrganize](https://libreorganize.org/) and [Business Tracker](https://businesstracker.org/) primarily for unions, labor movement, social justice, etc. |
 [Openflows](https://www.openflows.com) | Web development, CiviCRM | New York, USA | |
