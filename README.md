@@ -63,6 +63,7 @@ Coop | Business Areas | Region/Country | Notes
 [Interstitial Technology](https://interstitial.coop) | Full-stack engineering - design, development, firmware, electrical engineering  | USA/Canada | Focused on technology with positive social impact
 [KO_OP](https://www.ko-opmode.com/) | Game development | Montreal, Quebec, Canada | |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada | |
+[Money Positive](https://www.moneypositive.com/) | Financial planning | USA | Worker-owned B Corp with focus on financial planning for artists, BIPOC, LBGTQ+, and traditionally underrepresented people
 [Nexodus](https://nexod.us/) | Visual Effects (VFX) | Cincinnati, Ohio, USA | |
 [NOVA Web Development](https://novawebdevelopment.org/) | Django sites, graphic design  | USA / El Salvador / elsewhere | Worker-owned co-op developing [LibreOrganize](https://libreorganize.org/) and [Business Tracker](https://businesstracker.org/) primarily for unions, labor movement, social justice, etc. |
 [Openflows](https://www.openflows.com) | Web development, CiviCRM | New York, USA | |
@@ -74,7 +75,7 @@ Coop | Business Areas | Region/Country | Notes
 [The Glory Society](http://theglorysociety.com/) | Games | US | Founded in 2019
 [the Tech Support Cooperative](https://site.techsupport.coop/) | POS software, open-source web development, consulting | US + CAN | Maintainers of the [CORE-POS / IS4C](https://github.com/CORE-POS/IS4C) software project |
 [Tierra Común](https://tierracomun.org/) | digital security, sysadmin, web design | Mexico | |
-[Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | Worker-owned, Founded 2013, Organizers of [Austin Software Co-operatives Meetup](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)|
+[Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | Worker-owned, Founded 2013, Organizers of [Austin Software Co-operatives Meetup](https://www.meetup.com/Austin-Software-Co-operatives/)|
 [Willow Bark](https://willowbark.org) | Design, Development, sysadmin, security | Remote, international |
 [Zinc Collective](https://www.zinc.coop/) | Development | US | |
 
@@ -211,7 +212,7 @@ Coop | Business Areas | Notes
 
 ## Meetups
 
-* [Austin Software Co-operatives](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)
+* [Austin Software Co-operatives](https://www.meetup.com/Austin-Software-Co-operatives/)
 
 <a name="resources" />
 
