@@ -70,6 +70,7 @@ Coop | Business Areas | Region/Country | Notes
 [Plausible Labs](https://www.plausible.coop/about) | Development, Design | New York and San Francisco, USA | [Bylaws](https://www.plausible.coop/static/docs/Plausible_Labs_Bylaws.pdf)
 [Politics Rewired](https://politicsrewired.com/) | Political campaigning and organizing tools | USA
 [Position Development](https://positiondev.com/) | Software Development | Brooklyn, NY | Focused on independent media, cultural institutions, and socially minded organizations
+[Radish Cooperative](https://radish.coop/) | Food Delivery & Restaurant Tech | Montreal, Quebec, Canada | A multistakeholder restaurant delivery and technology cooperative owned and operated collectively by its restaurant, driver, and consumer members.
 [Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | |
 [The Glory Society](http://theglorysociety.com/) | Games | US | Founded in 2019
 [the Tech Support Cooperative](https://site.techsupport.coop/) | POS software, open-source web development, consulting | US + CAN | Maintainers of the [CORE-POS / IS4C](https://github.com/CORE-POS/IS4C) software project |
