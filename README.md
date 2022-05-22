@@ -51,6 +51,7 @@ Coop | Business Areas | Region/Country | Notes
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
 [Cooperatus](https://cooperatus.net) | Project management, tech consulting, web development, graphic design, virtual assistance | Western US and Georgia, US | Cooperatus is a tech worker collective providing a range of freelance support and services from hybrid book launches and websites to interpersonal communication and cybersecurity consulting.
+[Coop Symbiotic](https://www.symbiotic.coop) | Contact, membership, donation and case management with CiviCRM, SaaS and custom development | Montreal, QC, Canada | Founded in 2014 |
 [Design Action Collective](https://designaction.org) | Web design and development | Oakland, USA | |
 [DWG](https://digitalworkersguild.com) | Product development and implementation | East Bay, CA, USA | |
 [Dojo4](https://dojo4.com/) | Web applications and design | Boulder, CO | |
