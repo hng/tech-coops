@@ -45,6 +45,7 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Agaric](http://agaric.coop/) | Web development, tech consulting | USA / Nicaragua / Germany | Worker-owned collective building online since 2006, lately contributing to the [Drutopia](https://drutopia.org/) platform for grassroots groups.
+[Baseline](https://baseline.quebec/en/) | AI consulting | Quebec City, Quebec, Canada | Baseline is the outcome of a collective will to share resources, to give ourselves greater visibility and to pool common expenses and risks, while respecting our individual needs. |
 [Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada | |
 [Caravan Web Worker Cooperative](https://caravan.coop) | Web design, Software development (Python) | Montreal and Quebec City, Canada | |
 [Catalyst Cooperative](https://catalyst.coop) | Open data engineering / analysis for energy & climate policy | Distributed / Remote, North America | |
