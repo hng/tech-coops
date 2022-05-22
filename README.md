@@ -189,8 +189,9 @@ Coop | Business Areas | Region/Country | Notes
 Coop | Business Areas | Notes
 ---- | -------------- | -----
 [bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  | 
-[ZO](https://zo.team/) | Design, Development, Translation, Copy-editing  |  |
+[Poimandres](https://pmnd.rs/) | Open source developer collective | |
 [Talespinners](https://talespinners.co.uk/) | Game Writing, Design, Editing, Direction and Consultancy | |
+[ZO](https://zo.team/) | Design, Development, Translation, Copy-editing  |  |
 
 
 ### [Historical / defunct coops](./DEFUNCT.md)
