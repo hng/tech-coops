@@ -137,6 +137,7 @@ Coop | Business Areas | Region/Country | Notes
 [Digicoop](http://digicoop.io) | Product company, makers of [kantree.io](https://kantree.io) | France | Distributed company
 [dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec | |
 [femProcomuns](https://femprocomuns.coop/) | IoT infrastructure, Cloud services, Co-op Incubator | Catalonia
+[FikaWorks](https://fika.works) | Consulting, DevOps, IT infrastructure | Netherlands | Distributed company
 [fnordkollektiv](https://fnordkollektiv.de) | software development, infrastructure devop, tech consulting | Siegen, NRW, Germany | Founded 2020 |
 [GNU Coop](https://www.gnucoop.com/) | Open source development, training, e-learning, project management | Italy | |
 [Go free Range](http://gofreerange.com) | Web development | UK | |
