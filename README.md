@@ -118,6 +118,7 @@ Coop | Business Areas | Region/Country | Notes
 [Agile Collective](https://agilecollective.com) | Web development | UK | |
 [Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979
 [Animorph](https://www.animorph.coop/) | Augmented, Virtual & Mixed Reality Applications | London, UK | Founded 2016
+[Argo](https://argo.coop/)|Cloud Computing, Hosting, Software Development| Lower Austria | digital souveranity and privacy with free software and a democratic, transparent, decentralised cooperative
 [Atomised](http://www.atomised.coop) | Web development, mobile apps, UX design | Cupar, Scotland | Founded 2008
 [Autonomic](https://autonomic.zone/) | Free software infrastructure and bespoke web development | UK, Cypherspace | |
 [A Bunch of Hacks](https://abunchofhacks.coop) | Video game development, software development | Amsterdam, the Netherlands | |
