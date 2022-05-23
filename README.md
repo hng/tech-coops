@@ -172,6 +172,7 @@ Coop | Business Areas | Region/Country | Notes
 [TableFlip](https://tableflip.io/) | Web development. Javascript, Node.js, Meteor. | London, UK | Founded 2013; "We're your technical co-founder." |
 [Talaios Koop.](https://talaios.coop/) | Web development. Vue, Sage, Node.js. Docker, kubernetes. Odoo, Wordpress, Nextcloud, Moodle. Coop consultancy| Errenteria, Basque Country | Founded 2012|
 [UNI:CODE IT Solutions](https://unicode-it.de) | Web development, IT services | Germany, Remote | |
+[WAO Co-op](https://weareopen.coop) | Digital transformation, elearning, project management | UK / Germany | Making sense of complex problems while spreading the benefits of open. Part of [CoTech](https://coops.tech) |
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
 [WTF Kooperative eG](https://wtf-eg.de/) | Software Development, Hosting, Consulting, less bureaucracy for freelancers in germany  | Germany, Remote | eG legal German Coop, founded 2020 |
 [Yaal Coop](https://yaal.coop)| Web development, open source development, technical investment | Bordeaux (France) | Worker-owned cooperative focused on social impact startups. |
