@@ -140,6 +140,7 @@ Coop | Business Areas | Region/Country | Notes
 [GNU Coop](https://www.gnucoop.com/) | Open source development, training, e-learning, project management | Italy | |
 [Go free Range](http://gofreerange.com) | Web development | UK | |
 [Happy Dev](https://happy-dev.fr/) | Anything digital | France | Freelancers network federating tech collectives around France |
+[Happyculture](https://happyculture.coop/) | Web development, Drupal experts | France | Webagency working to increase projects sucess rates for customers |
 [Hostsharing](https://www.hostsharing.net/) | Hosting | Germany |  |
 [Hypernova](https://www.hypernovacoop.it/) | Web Development, Web Design, Digital | Italy | Freelancers network, part of the Doc Servizi coop network |
 [Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 115+ workers; distributed company
