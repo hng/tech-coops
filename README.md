@@ -157,6 +157,7 @@ Coop | Business Areas | Region/Country | Notes
 [Kaleidos](https://kaleidos.net/) | Front-end, mobile, UX/UI design, open source software | Madrid, Spain | |
 [Kedu](https://kedu.coop/en/home) | Software, infrastructure | Barcelona, Spain | |
 [Les-Tilleuls.coop](https://les-tilleuls.coop/en)| Web development, Tech consulting, Open Source Development | Lille, Paris, Nantes, Lyon (France) | Tech worker-owned cooperative founded in 2011. Creators of the API Platform framework and major contributors to Symfony. | 
+[media co-op](https://mediaco-op.net/) | Filmmaking, Design, Development | Glasgow, Scotland | |
 [Motion Twin](https://motion-twin.com) | Video game development | Bordeaux, France | |
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | |
 [Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
