@@ -1,0 +1,17 @@
+site_name: Tech Coops list
+repo_url: https://github.com/hng/tech-coops
+repo_name: hng/tech-coops
+markdown_extensions:
+    - markdown_include.include:
+        base_path: .
+theme:
+  name: material
+  icon:
+    logo: material/dots-circle
+  palette:
+    primary: purple
+nav:
+  - Home: 'index.md'
+  - 'List of defunct coops': 'DEFUNCT.md'
+extra_css:
+  - stylesheets/extra.css
