@@ -134,6 +134,7 @@ Coop | Business Areas | Region/Country | Notes
 [Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK | |
 [Coop IT Easy](https://coopiteasy.be/) | ERP development | Brussels, Belgium | Worker coop, we provide Open Source ERPs to other cooperatives. |
 [ctrl.alt.coop](https://ctrl.alt.coop/) | Software Development, Consulting | Berlin, Germany | |
+[Dalibo](https://dalibo.com/) | PostgreSQL support | Paris, France |
 [datenkollektiv.net](https://www.datenkollektiv.net) | Hosting, networking, services | Dresden, Germany | |
 [Devtopia](https://devtopia.coop) | Consulting, project management, design and UX, web development, app development, marketing | Spain | Distributed company
 [Diciannove](https://19.coop) | Consulting, project management, open source development, hosting, web design | Italy | |
