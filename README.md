@@ -15,6 +15,7 @@ Tech cooperatives are worker-owned cooperatives that operate in the information 
 
 Tech cooperatives could be a solution if you feel alienated by big software corporations and startup culture or you feel alone and in search of solidarity as a freelancer.
 
+<!-- MKDOCS IGNORE -->
 ## Table of Contents
 
 1. [Coops](#coops)
@@ -26,19 +27,20 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
     1. [Worldwide](#coops-worldwide)
 3. [Networks of coops](#networks)
 4. [Resources](#resources)
-5. [Information on tech coops and coops in general](#info)
-6. [Talks](#talks)
-7. [Mailinglists](#mailinglists)
-8. [Chat rooms](#chat-rooms)
-9. [Tools](#tools)
+    1. [Information on tech coops and coops in general](#info)
+    1. [Talks](#talks)
+    1. [Mailinglists](#mailinglists)
+    1. [Chat rooms](#chat-rooms)
+    1. [Tools](#tools)
 10. [Products created by tech coops](#products)
 11. [Jobs and contracts](#jobs)
+<!-- MKDOCS IGNORE -->
 
-<a name="coops" />
+<a name="coops"></a>
 
 ## Coops
 
-<a name="coops-namerica" />
+<a name="coops-namerica"></a>
 
 ### North America
 
@@ -82,7 +84,7 @@ Coop | Business Areas | Region/Country | Notes
 [Willow Bark](https://willowbark.org) | Design, Development, sysadmin, security | Remote, international |
 [Zinc Collective](https://www.zinc.coop/) | Development | US | |
 
-<a name="coops-samerica" />
+<a name="coops-samerica"></a>
 
 ### South America
 
@@ -102,7 +104,7 @@ Coop | Business Areas | Region/Country | Notes
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina | |
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
 
-<a name="coops-asia" />
+<a name="coops-asia"></a>
 
 ### Asia
 
@@ -112,7 +114,7 @@ Coop | Business Areas | Region/Country | Notes
 [Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India | |
 [Sofi Cooperative](https://soficoop.com/) | Web development, Design, Vue, Node.js | Jerusalem, Israel| Founded 2018; *"Sofi is a workers cooperative of designers and developers, we focus on websites and applications that bring positive value for society and the planet"*
 
-<a name="coops-europe" />
+<a name="coops-europe"></a>
 
 ### Europe
 
@@ -180,7 +182,7 @@ Coop | Business Areas | Region/Country | Notes
 [WTF Kooperative eG](https://wtf-eg.de/) | Software Development, Hosting, Consulting, less bureaucracy for freelancers in germany  | Germany, Remote | eG legal German Coop, founded 2020 |
 [Yaal Coop](https://yaal.coop)| Web development, open source development, technical investment | Bordeaux (France) | Worker-owned cooperative focused on social impact startups. |
 
-<a name="coops-oceania" />
+<a name="coops-oceania"></a>
 
 ### Oceania
 
@@ -192,7 +194,7 @@ Coop | Business Areas | Region/Country | Notes
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral; [Inactive.](https://twitter.com/ahdinosaur/status/1150589688509419520)
 
 
-<a name="coops-worldwide" />
+<a name="coops-worldwide"></a>
 
 ### Decentralised / Worldwide
 
@@ -209,7 +211,7 @@ Coop | Business Areas | Notes
 
  * [Awesome Tech Cooperatives](https://github.com/mwmeyer/awesome-tech-cooperatives) - A collection of awesome cooperative tech companies and projects
 
- <a name="networks" />
+ <a name="networks"></a>
 
 ## Networks of coops
 
@@ -223,11 +225,11 @@ Coop | Business Areas | Notes
 
 * [Austin Software Co-operatives](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)
 
-<a name="resources" />
+<a name="resources"></a>
 
 ## Resources
 
-<a name="info" />
+<a name="info"></a>
 
 ### Information on tech coops and coops in general
 
@@ -280,7 +282,7 @@ Coop | Business Areas | Notes
 * [Ask HN: Examples of tech worker cooperatives?](https://news.ycombinator.com/item?id=7634152) - Interesting discussion with lots of links.
 * [/r/cooperatives](https://www.reddit.com/r/cooperatives/) - Subreddit about cooperatives.
 
-<a name="talks" />
+<a name="talks"></a>
 
 ### Videos / Talks
 
@@ -290,27 +292,27 @@ Coop | Business Areas | Notes
 * [Grow Your Own Economy in a Company](https://medium.com/enspiral-tales/grow-your-own-economy-in-a-company-a88efc4ba0d), Don’t wait for the system out there to change — make your own rules and live in the economy you want, right now.
 * [Two Years Wiser, The Nilenso Experiment - Steven Deobald](https://www.youtube.com/watch?v=uYTFCSZb3Kc)
 
-<a name="mailinglists" />
+<a name="mailinglists"></a>
 
 ### Mailinglists / Forums
 
 * [tech-coop listserv](https://npogroups.org/lists/info/tech-coop) - Main mailinglist about tech coops. Check out the [archive](https://npogroups.org/lists/arc/tech-coop) for interesting threads in the past.
 * [Cooperative Technologists Community](https://community.coops.tech) - CoTech (UK) community forum.
 
-<a name="chatrooms" />
+<a name="chatrooms"></a>
 
 ### Chat rooms
 
 * [#cooptech:autonomic.zone](https://matrix.to/#/!eTkOeRURalzRzbBfBK:autonomic.zone?via=autonomic.zone&via=1312.media) (Matrix chat for CoTech)
 
-<a name="tools" />
+<a name="tools"></a>
 
 ### Tools
 
 * [Cobudget](https://cobudget.com) - Crowdsource and fund projects within an organization. Developed and used by Enspiral.
 * [Loomio](https://www.loomio.org) - Online decision-making
 
-<a name="products" />
+<a name="products"></a>
 
 ## Software/Products created by tech coops
 
@@ -324,7 +326,7 @@ Coop | Business Areas | Notes
 * [CoopCycle](https://coopcycle.org/en/) - A federation of bike delivery co-ops with an open-source logistics platform.
 
 
-<a name="jobs" />
+<a name="jobs"></a>
 
 ## Jobs and contracts
 
