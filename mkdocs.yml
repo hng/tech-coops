@@ -8,8 +8,10 @@ theme:
   name: material
   icon:
     logo: material/dots-circle
+  features:
+    - toc.integrate
 nav:
-  - Home: 'index.md'
+  - Main: 'index.md'
   - 'List of defunct coops': 'DEFUNCT.md'
 extra_css:
   - stylesheets/extra.css
