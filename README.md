@@ -2,7 +2,7 @@
 
 A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
 
-*Contributions to this list are very welcome. Just clone this repo, edit this file ([README.md](https://github.com/hng/tech-coops/blob/master/README.md)) or edit it directly (open it and click on the pencil icon on the upper right) and create a pull request.*
+*Contributions to this list are very welcome. Just clone this repo, edit this file ([README.md](https://github.com/hng/tech-coops/blob/master/README.md)) or edit it directly (open it and click on the pencil icon on the upper right) and create a pull request. Please read [CONTRIBUTING.md](https://github.com/hng/tech-coops/blob/master/CONTRIBUTING.md) before creating a pull request.*
 
 ## What are worker-owned tech cooperatives?
 
