@@ -34,6 +34,7 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
     1. [Tools](#tools)
 10. [Products created by tech coops](#products)
 11. [Jobs and contracts](#jobs)
+12. [References to this list](#references)
 <!-- MKDOCS IGNORE -->
 
 <a name="coops"></a>
@@ -332,6 +333,13 @@ Coop | Business Areas | Notes
 
 * [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing) - Tech coops forming or looking for new members.
 * [CoTech Jobs](https://community.coops.tech/c/jobs) - Jobs category on the CoTech Network (UK) community forums.
+
+<a name="references"></a>
+
+## References to this list
+
+* [Discussion on Hacker News](https://news.ycombinator.com/item?id=31456918), posted on 2022-05-21
+* D’Ignazio, C., & Klein, L. (2020). Conclusion: Now Let’s Multiply. In Data Feminism. <https://data-feminism.mitpress.mit.edu/pub/a1ao95xs>
 
 ## License
 
