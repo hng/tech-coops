@@ -8,8 +8,6 @@ theme:
   name: material
   icon:
     logo: material/dots-circle
-  palette:
-    primary: purple
 nav:
   - Home: 'index.md'
   - 'List of defunct coops': 'DEFUNCT.md'
