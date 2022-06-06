@@ -208,8 +208,9 @@ Coop | Business Areas | Region/Country | Notes
 Coop | Business Areas | Notes
 ---- | -------------- | -----
 [bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  | 
-[ZO](https://zo.team/) | Design, Development, Translation, Copy-editing  |  |
+[meet.coop](https://meet.coop) | A co-operative meeting and conferencing platform, powered by BigBlueButton. |  | 
 [Talespinners](https://talespinners.co.uk/) | Game Writing, Design, Editing, Direction and Consultancy | |
+[ZO](https://zo.team/) | Design, Development, Translation, Copy-editing  |  |
 
 
 ### [Historical / defunct coops](./DEFUNCT.md)
