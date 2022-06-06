@@ -139,6 +139,7 @@ Coop | Business Areas | Region/Country | Notes
 [blinkenbox](https://blinkenbox.coop/) | Sysadmin, Web Development, Hosting | Berlin, Germany | |
 [Camplight](https://camplight.net) | web and mobile development, tech consulting | EU, Bulgaria | A digital cooperative that creates experiences for the web, mobile and beyond |
 [Champs-Libres](https://champs-libres.coop/) | GIS, Maps, Web applications | Namur, Belgium | |
+[Codeurs en Liberté](https://codeursenliberté.fr/) | Public transports, GIS, maps, web applications, sysops | France |  |
 [Common Knowledge](https://commonknowledge.coop/) | digital tools for grassroots activists | London, UK | |
 [Coopdevs](http://coopdevs.org/) | Development | Barcelona, Catalonia | Non profit association and workers cooperative focusing on non-profit & grassroots social change projects e.g. Open Food Network amongst others |
 [Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK | |
