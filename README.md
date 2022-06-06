@@ -171,6 +171,7 @@ Coop | Business Areas | Region/Country | Notes
 [media co-op](https://mediaco-op.net/) | Filmmaking, Design, Development | Glasgow, Scotland | |
 [Motion Twin](https://motion-twin.com) | Video game development | Bordeaux, France | |
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | |
+[multi](http://www.multi.coop) | Web development, data science, innovation, open source, open data | France | Tech workers owned. Created in 2022 |
 [Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
 [Rabotnik](https://www.rabotnik.coop/) |  graphic design, web-development, video production and animation, campaign and concept development | Denmark | |
 [Reinblau](https://reinblau.coop/) | Web development | Berlin, Germany | |
