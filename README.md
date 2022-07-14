@@ -207,10 +207,10 @@ Coop | Business Areas | Region/Country | Notes
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
+[Ion Technologies](https://iontech.nz) | Contracting / Consulting | Kerikeri, New Zealand | Worker's cooperative founded in 2017 |
 [Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
 [Protozoa](http://protozoa.nz) | Web development | NZ | |
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral; [Inactive.](https://twitter.com/ahdinosaur/status/1150589688509419520)
-
 
 <a name="coops-worldwide"></a>
 
