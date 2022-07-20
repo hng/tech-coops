@@ -181,6 +181,7 @@ Coop | Business Areas | Region/Country | Notes
 [multi](http://www.multi.coop) | Web development, data science, innovation, open source, open data | France | Tech workers owned. Created in 2022 |
 [Open Data Services](https://opendataservices.coop/) | We help people publish and use open data, by offering software, support and consultancy | UK (Remote) | Worker co-op, 23 employees, founded 2015.
 [Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
+[Pathtech](https://pathtech.coop/) | Web development, Project Management | France |  Founded 2020 |  
 [Probesys](https://www.probesys.com) | Web development, System Administration, Hosting | Grenoble, France | We provide Open Source development and infrastructure expertise |
 [Rabotnik](https://www.rabotnik.coop/) |  graphic design, web-development, video production and animation, campaign and concept development | Denmark | |
 [Reinblau](https://reinblau.coop/) | Web development | Berlin, Germany | |
