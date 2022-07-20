@@ -190,6 +190,7 @@ Coop | Business Areas | Region/Country | Notes
 [Sociality](https://sociality.coop/) | Digital Technologies | Athens, Greece | |
 [SkuraMobile](https://skuramobile.com/) |  App development | Errenteria, Basque Country | |
 [Slobodna domena](https://slobodnadomena.hr/) | Web & app development, design, IT infrastructure, consulting and education | Zagreb, Croatia | Worker's non-profit coop founded in 2017. |
+[Spotlab](https://www.spotlab.net) | Web apps development & consulting | Paris, France | Webagency owned by people simplifying people work
 [Startin'blox](https://startinblox.com/) | Web development | Hosting | specilized in federated application | France | |
 [TableFlip](https://tableflip.io/) | Web development. Javascript, Node.js, Meteor. | London, UK | Founded 2013; "We're your technical co-founder." |
 [Talaios Koop.](https://talaios.coop/) | Web development. Vue, Sage, Node.js. Docker, kubernetes. Odoo, Wordpress, Nextcloud, Moodle. Coop consultancy| Errenteria, Basque Country | Founded 2012|
