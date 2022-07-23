@@ -180,7 +180,7 @@ Coop | Business Areas | Region/Country | Notes
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | |
 [multi](http://www.multi.coop) | Web development, data science, innovation, open source, open data | France | Tech workers owned. Created in 2022 |
 [Open Data Services](https://opendataservices.coop/) | We help people publish and use open data, by offering software, support and consultancy | UK (Remote) | Worker co-op, 23 employees, founded 2015.
-[Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
+[Outlandish](https://outlandish.com/) | Web development | London, UK | Outlandish is a worker owned co-operative that is committed to making the world better through technology, co-operativism and communication. Based in Finsbury Park, North London, they also work with the Islington Council to run the co-working space, [Space4](https://space4.tech/). |
 [Pathtech](https://pathtech.coop/) | Web development, Project Management | France |  Founded 2020 |  
 [Probesys](https://www.probesys.com) | Web development, System Administration, Hosting | Grenoble, France | We provide Open Source development and infrastructure expertise |
 [Rabotnik](https://www.rabotnik.coop/) |  graphic design, web-development, video production and animation, campaign and concept development | Denmark | |
@@ -191,6 +191,7 @@ Coop | Business Areas | Region/Country | Notes
 [Sociality](https://sociality.coop/) | Digital Technologies | Athens, Greece | |
 [SkuraMobile](https://skuramobile.com/) |  App development | Errenteria, Basque Country | |
 [Slobodna domena](https://slobodnadomena.hr/) | Web & app development, design, IT infrastructure, consulting and education | Zagreb, Croatia | Worker's non-profit coop founded in 2017. |
+[Spotlab](https://www.spotlab.net) | Web apps development & consulting | Paris, France | Webagency owned by people simplifying people work
 [Startin'blox](https://startinblox.com/) | Web development | Hosting | specilized in federated application | France | |
 [TableFlip](https://tableflip.io/) | Web development. Javascript, Node.js, Meteor. | London, UK | Founded 2013; "We're your technical co-founder." |
 [Talaios Koop.](https://talaios.coop/) | Web development. Vue, Sage, Node.js. Docker, kubernetes. Odoo, Wordpress, Nextcloud, Moodle. Coop consultancy| Errenteria, Basque Country | Founded 2012|
@@ -208,10 +209,10 @@ Coop | Business Areas | Region/Country | Notes
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
+[Ion Technologies](https://iontech.nz) | Contracting / Consulting | Kerikeri, New Zealand | Worker's cooperative founded in 2017 |
 [Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
 [Protozoa](http://protozoa.nz) | Web development | NZ | |
 [Root Systems](https://www.rootsystems.nz) | Consulting | NZ | "Pod" within Enspiral; [Inactive.](https://twitter.com/ahdinosaur/status/1150589688509419520)
-
 
 <a name="coops-worldwide"></a>
 
