@@ -180,7 +180,7 @@ Coop | Business Areas | Region/Country | Notes
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | |
 [multi](http://www.multi.coop) | Web development, data science, innovation, open source, open data | France | Tech workers owned. Created in 2022 |
 [Open Data Services](https://opendataservices.coop/) | We help people publish and use open data, by offering software, support and consultancy | UK (Remote) | Worker co-op, 23 employees, founded 2015.
-[Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
+[Outlandish](https://outlandish.com/) | Web development | London, UK | Outlandish is a worker owned co-operative that is committed to making the world better through technology, co-operativism and communication. Based in Finsbury Park, North London, they also work with the Islington Council to run the co-working space, [Space4](https://space4.tech/). |
 [Probesys](https://www.probesys.com) | Web development, System Administration, Hosting | Grenoble, France | We provide Open Source development and infrastructure expertise |
 [Rabotnik](https://www.rabotnik.coop/) |  graphic design, web-development, video production and animation, campaign and concept development | Denmark | |
 [Reinblau](https://reinblau.coop/) | Web development | Berlin, Germany | |
