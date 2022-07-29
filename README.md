@@ -161,6 +161,7 @@ Coop | Business Areas | Region/Country | Notes
 [fnordkollektiv](https://fnordkollektiv.de) | software development, infrastructure devop, tech consulting | Siegen, NRW, Germany | Founded 2020 |
 [GNU Coop](https://www.gnucoop.com/) | Open source development, training, e-learning, project management | Italy | |
 [Go free Range](http://gofreerange.com) | Web development | UK | |
+[Good Praxis](https://goodpraxis.coop) | Web development | London, UK | A worker-owned digital agency founded in 2019 |
 [Happy Dev](https://happy-dev.fr/) | Anything digital | France | Freelancers network federating tech collectives around France |
 [Happyculture](https://happyculture.coop/) | Web development, Drupal experts | France | Webagency working to increase projects sucess rates for customers |
 [Hostsharing](https://www.hostsharing.net/) | Hosting | Germany |  |
