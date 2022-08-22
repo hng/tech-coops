@@ -83,6 +83,7 @@ Coop | Business Areas | Region/Country | Notes
 [Politics Rewired](https://politicsrewired.com/) | Political campaigning and organizing tools | USA
 [Position Development](https://positiondev.com/) | Software Development | Brooklyn, NY | Focused on independent media, cultural institutions, and socially minded organizations
 [Radish Cooperative](https://radish.coop/) | Food Delivery & Restaurant Tech | Montreal, Quebec, Canada | A multistakeholder restaurant delivery and technology cooperative owned and operated collectively by its restaurant, driver, and consumer members.
+[Rose Coded Tech Cooperative](https://rosecoded.com/) | I.T. Consulting | Portland, Oregon, USA | An I.T. consulting LLC cooperative owned and operated collectively by its members.
 [Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | |
 [The Drivers Cooperative](https://drivers.coop) | Driver-owned rideshare | New York City, NY, USA | Drivers own 100% of the company. Developing an entirely new platform.
 [The Glory Society](http://theglorysociety.com/) | Games | US | Founded in 2019
