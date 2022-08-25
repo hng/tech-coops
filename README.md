@@ -120,7 +120,7 @@ Coop | Business Areas | Region/Country | Notes
 
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
-[Albatros Tech Cooperative Initiative](https://albatroskoop.com/en/) | Design, Development | Istanbul, Turkey | Worker-Owners|
+[Albatros Tech Cooperative](https://albatros.coop/en/) | Design, Development | Istanbul, Turkey | Worker-Owners|
 [Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India | |
 [Sofi Cooperative](https://soficoop.com/) | Web development, Design, Vue, Node.js | Jerusalem, Israel| Founded 2018; *"Sofi is a workers cooperative of designers and developers, we focus on websites and applications that bring positive value for society and the planet"*
 
