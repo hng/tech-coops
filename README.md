@@ -189,6 +189,7 @@ Coop | Business Areas | Region/Country | Notes
 [Reinblau](https://reinblau.coop/) | Web development | Berlin, Germany | |
 [Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
 [Robur](https://robur.coop) | Software Development | Berlin, Germany | |
+[roko.li](https://roko.li) | Software Development, Hosting | Potsdam/ Rostock, Germany | |
 [Sange](http://www.sange.fi/) | Hosting | Helsinki, Finland | |
 [Sociality](https://sociality.coop/) | Digital Technologies | Athens, Greece | |
 [SkuraMobile](https://skuramobile.com/) |  App development | Errenteria, Basque Country | |
