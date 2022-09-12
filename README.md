@@ -85,6 +85,7 @@ Coop | Business Areas | Region/Country | Notes
 [Radish Cooperative](https://radish.coop/) | Food Delivery & Restaurant Tech | Montreal, Quebec, Canada | A multistakeholder restaurant delivery and technology cooperative owned and operated collectively by its restaurant, driver, and consumer members.
 [Rose Coded Tech Cooperative](https://rosecoded.com/) | I.T. Consulting | Portland, Oregon, USA | An I.T. consulting LLC cooperative owned and operated collectively by its members.
 [Sassafras Tech Collective](http://sassafras.coop/) | Research, User experience design, Development | Ann Arbor, Michigan, USA | |
+[Sustainability Solutions Group](https://www.ssg.coop) | Climate change mitigation & adaptation planning | All across Canada | Works with governments, municipalities, educational institutions, utilities, development networks, and NGOs around the world. |
 [The Drivers Cooperative](https://drivers.coop) | Driver-owned rideshare | New York City, NY, USA | Drivers own 100% of the company. Developing an entirely new platform.
 [The Glory Society](http://theglorysociety.com/) | Games | US | Founded in 2019
 [the Tech Support Cooperative](https://site.techsupport.coop/) | POS software, open-source web development, consulting | US + CAN | Maintainers of the [CORE-POS / IS4C](https://github.com/CORE-POS/IS4C) software project |
