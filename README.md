@@ -176,6 +176,7 @@ Coop | Business Areas | Region/Country | Notes
 [Jamgo](http://jamgo.coop/en/) | Front-end dev, design services, e-commerce, Drupal/WordPress | Barcelona, Spain | |
 [Kaleidos](https://kaleidos.net/) | Front-end, mobile, UX/UI design, open source software | Madrid, Spain | |
 [Kedu](https://kedu.coop/en/home) | Software, infrastructure | Barcelona, Spain | |
+[Kremlingames](http://en.kremlingames.com) | Game development | Russia | |
 [Les-Tilleuls.coop](https://les-tilleuls.coop/en)| Web development, Tech consulting, Open Source Development | Lille, Paris, Nantes, Lyon (France) | Tech worker-owned cooperative founded in 2011. Creators of the API Platform framework and major contributors to Symfony. | 
 [media co-op](https://mediaco-op.net/) | Filmmaking, Design, Development | Glasgow, Scotland | |
 [Motion Twin](https://motion-twin.com) | Video game development | Bordeaux, France | |
