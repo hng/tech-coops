@@ -74,7 +74,6 @@ Coop | Business Areas | Region/Country | Notes
 [Interstitial Technology](https://interstitial.coop) | Full-stack engineering - design, development, firmware, electrical engineering  | USA/Canada | Focused on technology with positive social impact
 [KO_OP](https://www.ko-opmode.com/) | Game development | Montreal, Quebec, Canada | |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada | |
-[LibreCode](https://librecode.coop/) | Free software development, tech consulting | Rio de Janeiro, Rio de Janeiro, Brazil | |
 [Nexodus](https://nexod.us/) | Visual Effects (VFX) | Cincinnati, Ohio, USA | |
 [NOVA Web Development](https://novawebdevelopment.org/) | Django sites, graphic design  | USA / El Salvador / elsewhere | Worker-owned co-op developing [LibreOrganize](https://libreorganize.org/) and [Business Tracker](https://businesstracker.org/) primarily for unions, labor movement, social justice, etc. |
 [Openflows](https://www.openflows.com) | Web development, CiviCRM | New York, USA | |
@@ -110,7 +109,7 @@ Coop | Business Areas | Region/Country | Notes
 [Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina | |
 [gcoop](https://gcoop.coop) | Hosting, Consulting, Web Development, FLOSS Development | Buenos Aires, Argentina |*"Transformamos los sistemas."*
 [It10](https://it10coop.com.ar) | Software development | Córdoba, Argentina | |
-[Lyseon Tech](https://lt.coop.br/) | Web development, Apps and Hosting | Rio de Janeiro, BR | Cooperative of free software developers |
+[LibreCode](https://librecode.coop/) | Free software development, tech consulting | Rio de Janeiro, Rio de Janeiro, Brazil | |
 [Matelab](http://www.matelab.com.ar/en/) | Development | Buenos Aires, Argentina | Founded 2019; 8 associates
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina | |
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
