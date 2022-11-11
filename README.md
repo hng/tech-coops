@@ -168,6 +168,7 @@ Coop | Business Areas | Region/Country | Notes
 [Hostsharing](https://www.hostsharing.net/) | Hosting | Germany |  |
 [Hypernova](https://www.hypernovacoop.it/) | Web Development, Web Design, Digital | Italy | Freelancers network, part of the Doc Servizi coop network |
 [Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 115+ workers; distributed company
+[Indici Opponibili](https://indiciopponibili.com) | Web Design & Development, Motion Graphics, Game Design & Development, Edutainment | Bologna, Italy | Full Remote Coop, part of the Legacoop Emilia Romagna and Culturmedia coop networks
 [infra.run](https://infra.run/) | Development, Support, Training, Video Conference Hosting |
 [Insite](https://www.insite.coop/) | Drupal web development | Lille, France | Founded 1996
 [IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
