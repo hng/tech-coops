@@ -182,6 +182,7 @@ Coop | Business Areas | Region/Country | Notes
 [Motion Twin](https://motion-twin.com) | Video game development | Bordeaux, France | |
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | |
 [multi](http://www.multi.coop) | Web development, data science, innovation, open source, open data | France | Tech workers owned. Created in 2022 |
+[Nethik](https://www.nethik.fr) | Software development | Argelès-sur-mer, France | Founded in 2009
 [Open Data Services](https://opendataservices.coop/) | We help people publish and use open data, by offering software, support and consultancy | UK (Remote) | Worker co-op, 23 employees, founded 2015.
 [Outlandish](https://outlandish.com/) | Web development | London, UK | Outlandish is a worker owned co-operative that is committed to making the world better through technology, co-operativism and communication. Based in Finsbury Park, North London, they also work with the Islington Council to run the co-working space, [Space4](https://space4.tech/). |
 [Pathtech](https://pathtech.coop/) | Web development, Project Management | France |  Founded 2020 |  
