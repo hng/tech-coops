@@ -160,7 +160,7 @@ Coop | Business Areas | Region/Country | Notes
 [femProcomuns](https://femprocomuns.coop/) | IoT infrastructure, Cloud services, Co-op Incubator | Catalonia
 [FikaWorks](https://fika.works) | Consulting, DevOps, IT infrastructure | Netherlands | Distributed company
 [fnordkollektiv](https://fnordkollektiv.de) | software development, infrastructure devop, tech consulting | Siegen, NRW, Germany | Founded 2020 |
-[GNU Coop](https://www.gnucoop.com/) | Open source development, training, e-learning, project management | Italy | |
+[Gnucoop](https://www.gnucoop.com/) | Open source development, [Dino - Data collection tool](https://gnucoop.com/dino/) based on [AJF](https://github.com/gnucoop/ajf), training, e-learning, project management | Italy | Distributed coop, working with NGOs and non profit companies|
 [Go free Range](http://gofreerange.com) | Web development | UK | |
 [Good Praxis](https://goodpraxis.coop) | Web development | London, UK | A worker-owned digital agency founded in 2019 |
 [Happy Dev](https://happy-dev.fr/) | Anything digital | France | Freelancers network federating tech collectives around France |
