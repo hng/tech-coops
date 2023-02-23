@@ -59,6 +59,7 @@ Coop | Business Areas | Region/Country | Notes
 [Caravan Web Worker Cooperative](https://caravan.coop) | Web design, Software development (Python) | Montreal and Quebec City, Canada | |
 [Catalyst Cooperative](https://catalyst.coop) | Open data engineering / analysis for energy & climate policy | Distributed / Remote, North America | |
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | |
+[ChiCommons](https://www.chicommons.coop) | Last-mile ISP, Consulting | Chicago, USA | |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
 [Cooperatus](https://cooperatus.net) | Project management, tech consulting, web development, graphic design, virtual assistance | Western US and Georgia, US | Cooperatus is a tech worker collective providing a range of freelance support and services from hybrid book launches and websites to interpersonal communication and cybersecurity consulting.
 [Coop Symbiotic](https://www.symbiotic.coop) | Contact, membership, donation and case management with CiviCRM, SaaS and custom development | Montreal, QC, Canada | Founded in 2014 |
