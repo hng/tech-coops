@@ -263,7 +263,7 @@ Coop | Business Areas | Notes
 
 #### Handbooks / Guides
 
-* [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf), 2009
+* [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://web.archive.org/web/20220324081516/https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf), 2009
 * [A Document To Help You Start A Tech Cooperative](https://feeltrain.com/blog/operating-agreement/) - By Feel Train.
   * [Discussion on Hacker News](https://news.ycombinator.com/item?id=14135068)
 * [Crisp DNA](https://dna.crisp.se/docs/index.html) - Handbook for Crisp, a Swedish network of consultants.
