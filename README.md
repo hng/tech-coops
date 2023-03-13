@@ -56,6 +56,7 @@ Coop | Business Areas | Region/Country | Notes
 [Agaric](http://agaric.coop/) | Web development, tech consulting | USA / Nicaragua / Germany | Worker-owned collective building online since 2006, lately contributing to the [Drutopia](https://drutopia.org/) platform for grassroots groups.
 [Baseline](https://baseline.quebec/en/) | AI consulting | Quebec City, Quebec, Canada | Baseline is the outcome of a collective will to share resources, to give ourselves greater visibility and to pool common expenses and risks, while respecting our individual needs. |
 [Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada | |
+[CanTrust Hosting Co-op](https://cantrusthosting.coop/) | Hosting, personal cloud, and IT consulting | Vancouver, BC, Canada | Started in 2009, provides community-focused web hosting at affordable prices to clients, many of whom are like-minded social economy organizations. |
 [Caravan Web Worker Cooperative](https://caravan.coop) | Web design, Software development (Python) | Montreal and Quebec City, Canada | |
 [Catalyst Cooperative](https://catalyst.coop) | Open data engineering / analysis for energy & climate policy | Distributed / Remote, North America | |
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | |
