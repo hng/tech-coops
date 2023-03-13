@@ -92,6 +92,7 @@ Coop | Business Areas | Region/Country | Notes
 [Tierra Común](https://tierracomun.org/) | digital security, sysadmin, web design | Mexico | |
 [Vermont Computing Cooperative](https://vtcc.coop/) | Hardware, Websites, E-mail, Hosting | Vermont, US | |
 [Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | Worker-owned, Founded 2013, Organizers of [Austin Software Co-operatives Meetup](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)|
+[Weaver Digital Design + Storytelling Co-op](https://weaver.coop/) | Full stack website design and development. | Unceded territories of the Lekwungen speaking peoples in so-called BC, Canada | We create outstanding, user-friendly digital experiences that help businesses and organizations connect with their audiences, innovate and grow. |
 [Willow Bark](https://willowbark.org) | Design, Development, sysadmin, security | Remote, international |
 [Zinc Collective](https://www.zinc.coop/) | Development | US | |
 
