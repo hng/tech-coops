@@ -62,17 +62,18 @@ Coop | Business Areas | Region/Country | Notes
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | |
 [ChiCommons](https://www.chicommons.coop) | Last-mile ISP, Consulting | Chicago, USA | |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
+[CommunitySoft Cooperative](https://info.gather.coop) |  | Michigan, Minnesota, Vermont, Wisconsin, USA | Gather software and services for Cohousing communities |
 [Cooperatus](https://cooperatus.net) | Project management, tech consulting, web development, graphic design, virtual assistance | Western US and Georgia, US | Cooperatus is a tech worker collective providing a range of freelance support and services from hybrid book launches and websites to interpersonal communication and cybersecurity consulting.
 [Coop Symbiotic](https://www.symbiotic.coop) | Contact, membership, donation and case management with CiviCRM, SaaS and custom development | Montreal, QC, Canada | Founded in 2014 |
 [Design Action Collective](https://designaction.org) | Web design and development | Oakland, USA | |
 [DWG](https://digitalworkersguild.com) | Product development and implementation | East Bay, CA, USA | |
 [Dojo4](https://dojo4.com/) | Web applications and design | Boulder, CO | |
 [Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA | |
-[FullSteam Labs](https://www.fullsteamlabs.com) | Web application development, UI & UX Design | USA | 
+[FullSteam Labs](https://www.fullsteamlabs.com) | Web application development, UI & UX Design | USA |
 [Future Club](https://www.futureclub.dev/) | Game development | USA | |
 [Gemify](https://gemify.tech) | Software Development, UX Research and Design | San Jose, California, USA | Worker-owned tech co-operative developing affordable solutions for small businesses since 2019. |
 [Hypha Worker Co-operative](https://hypha.coop/) | Digital coaching, (decentralized) web design, and development | Tkaronto (Toronto), Ontario, Canada | Founded in 2019 with the mission to help organizations and communities redesign their relationships with digital technology. |
-[Informal Systems](https://informal.systems) | Distribute Systems and Formal Verification |  Tkaronto (Toronto), Ontario, Canada | Working towards an open-source ecosystem of cooperatively owned and governed distributed organizations running on reliable distributed systems 
+[Informal Systems](https://informal.systems) | Distribute Systems and Formal Verification |  Tkaronto (Toronto), Ontario, Canada | Working towards an open-source ecosystem of cooperatively owned and governed distributed organizations running on reliable distributed systems
 [Interstitial Technology](https://interstitial.coop) | Full-stack engineering - design, development, firmware, electrical, mechanical engineering  | USA/Canada | Focused on technology with positive social impact
 [KO_OP](https://www.ko-opmode.com/) | Game development | Montreal, Quebec, Canada | |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada | |
@@ -138,7 +139,7 @@ Coop | Business Areas | Region/Country | Notes
 [Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979
 [Animorph](https://www.animorph.coop/) | Augmented, Virtual & Mixed Reality Applications | London, UK | Founded 2016
 [Argo](https://argo.coop/)|Cloud Computing, Hosting, Software Development| Lower Austria, Austria | digital souveranity and privacy with Free Software and a democratic, transparent workers cooperative
-[Astrolabe](https://www.astrolabe.coop/) | Business Consulting and Services | Rennes, FR | 
+[Astrolabe](https://www.astrolabe.coop/) | Business Consulting and Services | Rennes, FR |
 [Atomised](http://www.atomised.coop) | Web development, mobile apps, UX design | Cupar, Scotland | Founded 2008
 [Autonomic](https://autonomic.zone/) | Free software infrastructure and bespoke web development | UK, Cypherspace | |
 [A Bunch of Hacks](https://abunchofhacks.coop) | Video game development, software development | Amsterdam, the Netherlands | |
@@ -181,7 +182,7 @@ Coop | Business Areas | Region/Country | Notes
 [Jamgo](http://jamgo.coop/en/) | Front-end dev, design services, e-commerce, Drupal/WordPress | Barcelona, Spain | |
 [Kaleidos](https://kaleidos.net/) | Front-end, mobile, UX/UI design, open source software | Madrid, Spain | |
 [Kedu](https://kedu.coop/en/home) | Software, infrastructure | Barcelona, Spain | |
-[Les-Tilleuls.coop](https://les-tilleuls.coop/en)| Web development, Tech consulting, Open Source Development | Lille, Paris, Nantes, Lyon (France) | Tech worker-owned cooperative founded in 2011. Creators of the API Platform framework and major contributors to Symfony. | 
+[Les-Tilleuls.coop](https://les-tilleuls.coop/en)| Web development, Tech consulting, Open Source Development | Lille, Paris, Nantes, Lyon (France) | Tech worker-owned cooperative founded in 2011. Creators of the API Platform framework and major contributors to Symfony. |
 [media co-op](https://mediaco-op.net/) | Filmmaking, Design, Development | Glasgow, Scotland | |
 [Motion Twin](https://motion-twin.com) | Video game development | Bordeaux, France | |
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | |
@@ -233,8 +234,8 @@ Coop | Business Areas | Region/Country | Notes
 
 Coop | Business Areas | Notes
 ---- | -------------- | -----
-[bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  | 
-[meet.coop](https://meet.coop) | A co-operative meeting and conferencing platform, powered by BigBlueButton. |  | 
+[bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  |
+[meet.coop](https://meet.coop) | A co-operative meeting and conferencing platform, powered by BigBlueButton. |  |
 [Talespinners](https://talespinners.co.uk/) | Game Writing, Design, Editing, Direction and Consultancy | |
 [ZO](https://zo.team/) | Design, Development, Translation, Copy-editing  |  |
 
