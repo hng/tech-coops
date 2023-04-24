@@ -62,7 +62,7 @@ Coop | Business Areas | Region/Country | Notes
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA | |
 [ChiCommons](https://www.chicommons.coop) | Last-mile ISP, Consulting | Chicago, USA | |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
-[CommunitySoft Cooperative](https://info.gather.coop) |  | Michigan, Minnesota, Vermont, Wisconsin, USA | Gather software and services for Cohousing communities |
+[CommunitySoft Cooperative](https://info.gather.coop) | Gather software and services for sharing resources in Cohousing communities | Michigan, Minnesota, Vermont, Wisconsin, USA | Started 2015 |
 [Cooperatus](https://cooperatus.net) | Project management, tech consulting, web development, graphic design, virtual assistance | Western US and Georgia, US | Cooperatus is a tech worker collective providing a range of freelance support and services from hybrid book launches and websites to interpersonal communication and cybersecurity consulting.
 [Coop Symbiotic](https://www.symbiotic.coop) | Contact, membership, donation and case management with CiviCRM, SaaS and custom development | Montreal, QC, Canada | Founded in 2014 |
 [Design Action Collective](https://designaction.org) | Web design and development | Oakland, USA | |
