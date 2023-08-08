@@ -342,6 +342,7 @@ Coop | Business Areas | Notes
 ### Chat rooms
 
 * [#cooptech:autonomic.zone](https://matrix.to/#/!eTkOeRURalzRzbBfBK:autonomic.zone?via=autonomic.zone&via=1312.media) (Matrix chat for CoTech)
+* [Cooperative Development](https://mellium.chat/), `co-op@mellium.chat` (XMPP/Jabber compatible)
 
 <a name="tools"></a>
 
