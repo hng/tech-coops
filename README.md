@@ -192,6 +192,7 @@ Coop | Business Areas | Region/Country | Notes
 [Nethik](https://www.nethik.fr) | Software development | Argelès-sur-mer, France | Founded in 2009
 [Open Data Services](https://opendataservices.coop/) | We help people publish and use open data, by offering software, support and consultancy | UK (Remote) | Worker co-op, 23 employees, founded 2015.
 [Outlandish](https://outlandish.com/) | Web development | London, UK | Outlandish is a worker owned co-operative that is committed to making the world better through technology, co-operativism and communication. Based in Finsbury Park, North London, they also work with the Islington Council to run the co-working space, [Space4](https://space4.tech/). |
+[Ouvaton](https://ouvaton.coop) | Web Hosting, Domain Name Registrar | France |
 [Pathtech](https://pathtech.coop/) | Web development, Project Management | France |  Founded 2020 |  
 [Probesys](https://www.probesys.com) | Web development, System Administration, Hosting | Grenoble, France | We provide Open Source development and infrastructure expertise |
 [Rabotnik](https://www.rabotnik.coop/) |  graphic design, web-development, video production and animation, campaign and concept development | Denmark | |
