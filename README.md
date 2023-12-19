@@ -210,6 +210,7 @@ Coop | Business Areas | Region/Country | Notes
 [TableFlip](https://tableflip.io/) | Web development. Javascript, Node.js, Meteor. | London, UK | Founded 2013; "We're your technical co-founder." |
 [Talaios Koop.](https://talaios.coop/) | Web development. Vue, Sage, Node.js. Docker, kubernetes. Odoo, Wordpress, Nextcloud, Moodle. Coop consultancy| Errenteria, Basque Country | Founded 2012|
 [TechGenossen](https://techgenossen.de/) | Development, Product Management, Product Growth | Munich, Germany | Founded 2015|
+[Tetrabit](https://tetrabit.coop/)) | Development, Web design, illustration | Copenhagen, Denmark| | 
 [Troopers](https://troopers.coop/) | Web Agency, Software Craftmanship, Symfony, React, Maintenance, A11y, S12y (Numérique Responsable, éco-conception), Holacracy | Nantes, France | Agency founded in 2012, SCOP sinse 2022 |
 [UNI:CODE IT Solutions](https://unicode-it.de) | Web development, IT services | Germany, Remote | |
 [Village One](https://village.one) | Digital strategy, design, software development | Germany, Remote | Purposeful digital products and infrastructure, created with joy and integrity. Founded in 2022. |
