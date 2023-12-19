@@ -138,6 +138,7 @@ Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [24ème](https://24eme.fr) | Free open source software development | Paris, France | Governance based on trust and transparency
 [Agile Collective](https://agilecollective.com) | Web development | UK | |
+[Albatros](https://albatros.coop/en/) | Web solutions, development, consultancy | Turkey | Launched in 2022
 [Alma](http://www.alma.fr) | Software development | Saint-Martin-d’Hères, France | Founded 1979
 [Animorph](https://www.animorph.coop/) | Augmented, Virtual & Mixed Reality Applications | London, UK | Founded 2016
 [Argo](https://argo.coop/)|Cloud Computing, Hosting, Software Development| Lower Austria, Austria | digital souveranity and privacy with Free Software and a democratic, transparent workers cooperative
