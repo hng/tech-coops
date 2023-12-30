@@ -283,6 +283,7 @@ Coop | Business Areas | Notes
   * [Discussion](https://news.ycombinator.com/item?id=12348909) on Hacker News.
 * [Enspiral Handbook](https://handbook.enspiral.com) - More information about the Enspiral network.
 * [Root Systems Handbook](https://www.rootsystems.nz/) - Defunct livelihood pod within Enspiral Network.
+* [Free Software in Clubs/Cooperations](https://www.hostsharing.net/publikationen/vereinshandbuch/) - Free Software manual for clubs and cooperations by the hosting cooperation [Hostsharing](https://www.hostsharing.net/)
 
 #### Books
 
