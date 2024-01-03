@@ -195,7 +195,6 @@ Coop | Business Areas | Region/Country | Notes
 [Ouvaton](https://ouvaton.coop) | Web Hosting, Domain Name Registrar | France |
 [Pathtech](https://pathtech.coop/) | Web development, Project Management | France |  Founded 2020 |  
 [Probesys](https://www.probesys.com) | Web development, System Administration, Hosting | Grenoble, France | We provide Open Source development and infrastructure expertise |
-[Rabotnik](https://www.rabotnik.coop/) |  graphic design, web-development, video production and animation, campaign and concept development | Denmark | |
 [Reinblau](https://reinblau.coop/) | Web development | Berlin, Germany | |
 [Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
 [Robur](https://robur.coop) | Software Development | Berlin, Germany | |
