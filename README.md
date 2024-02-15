@@ -168,7 +168,7 @@ Coop | Business Areas | Region/Country | Notes
 [fnordkollektiv](https://fnordkollektiv.de) | software development, infrastructure devop, tech consulting | Siegen, NRW, Germany | Founded 2020 |
 [gassagosso](https://gassagosso.coop) | Web development | France (full remote) | Mainly working with [elixir lang](https://elixir-lang.org/) |
 [Gnucoop](https://www.gnucoop.com/) | Open source development, [Dino - Data collection tool](https://gnucoop.com/dino/) based on [AJF](https://github.com/gnucoop/ajf), training, e-learning, project management | Italy | Distributed coop, working with NGOs and non profit companies|
-[Go free Range](http://gofreerange.com) | Web development | UK | |
+[Go free Range](http://gofreerange.com) | Software development specializing in Ruby on Rails | London, UK | A worker-owned software consultancy founded in 2009 |
 [Good Praxis](https://goodpraxis.coop) | Web development | London, UK | A worker-owned digital agency founded in 2019 |
 [Happy Dev](https://happy-dev.fr/) | Anything digital | France | Freelancers network federating tech collectives around France |
 [Happyculture](https://happyculture.coop/) | Web development, Drupal experts | France | Webagency working to increase projects sucess rates for customers |
