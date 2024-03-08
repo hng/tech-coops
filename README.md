@@ -259,6 +259,7 @@ Coop | Business Areas | Notes
   * [CoTech Forum](https://community.coops.tech/) - active tech cooperatives forum from CoTech
 * [FACT\[TIC\]](http://facttic.org.ar) - Federation of tech worker-cooperatives in Argentina.
 * [Libre Entreprise](https://www.libre-entreprise.org/) - Network of free software tech coops in France.
+* [Patio ICA](https://patio.ica.coop/) - Worldwide Tech Co-op Network in Internation Cooperative Alliance.
 * [Tech Co-op Network](https://techworker.coop) - North American Technology Worker Cooperatives.
 
 ## Meetups
