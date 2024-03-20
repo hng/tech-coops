@@ -162,6 +162,7 @@ Coop | Business Areas | Region/Country | Notes
 [Digicoop](http://digicoop.io) | Product company, makers of [kantree.io](https://kantree.io) | France | Distributed company
 [dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec | |
 [Empreinte Digitale](https://empreintedigitale.coop) | Web development, Cloud hosting, Accessibility | France | Founded in 1993, Worker-owned coop since 2020 |
+[Fairmondo](https://www.fairmondo.de/) | E-commerce | Germany | Coop developing and operating its own e-commerce platform as alternative to the Tech Giants |
 [Fairness](https://fairness.coop) | Web and mobile development, agile coaching, technical consulting | France | Worker-owned coop with a focus on digital eco-design and software quality |
 [femProcomuns](https://femprocomuns.coop/) | IoT infrastructure, Cloud services, Co-op Incubator | Catalonia
 [FikaWorks](https://fika.works) | Consulting, DevOps, IT infrastructure | Netherlands | Distributed company
