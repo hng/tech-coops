@@ -5,6 +5,7 @@ This list is maintained for informational purposes. These coops have closed sinc
 
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
+[Brierwood Coop](http://brierwood.coop) | Mobile apps | Ottawa, Ontario, Canada | |
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
 [Gaia Host Collective](http://gaiahost.coop) | Hosting | Greenfield, MA, USA |
 [Quilted](http://quilted.coop) | consulting, graphic design, web development | Berkeley, California, USA | *"Quilted is a worker-owned, cooperatively-managed company stitching together technology and social change."*
