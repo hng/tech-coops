@@ -24,23 +24,37 @@ Tech cooperatives could be a solution if you feel alienated by big software corp
 <!-- MKDOCS IGNORE -->
 ## Table of Contents
 
-1. [Coops](#coops)
-    1. [North America](#coops-namerica)
-    1. [South America](#coops-samerica)
-    1. [Asia](#coops-asia)
-    1. [Europe](#coops-europe)
-    1. [Oceania](#coops-oceania)
-    1. [Worldwide](#coops-worldwide)
-3. [Networks of coops](#networks)
-4. [Resources](#resources)
-    1. [Information on tech coops and coops in general](#info)
-    1. [Talks](#talks)
-    1. [Mailinglists](#mailinglists)
-    1. [Chat rooms](#chat-rooms)
-    1. [Tools](#tools)
-10. [Products created by tech coops](#products)
-11. [Jobs and contracts](#jobs)
-12. [References to this list](#references)
+- [Tech coops list](#tech-coops-list)
+  - [What are worker-owned tech cooperatives?](#what-are-worker-owned-tech-cooperatives)
+  - [Table of Contents](#table-of-contents)
+  - [Coops](#coops)
+    - [North America](#north-america)
+    - [South America](#south-america)
+    - [Asia](#asia)
+    - [Europe](#europe)
+    - [Oceania](#oceania)
+    - [Decentralised / Worldwide](#decentralised--worldwide)
+    - [Historical / defunct coops](#historical--defunct-coops)
+    - [Other lists](#other-lists)
+  - [Networks of coops](#networks-of-coops)
+  - [Meetups](#meetups)
+  - [Resources](#resources)
+    - [Information on tech coops and coops in general](#information-on-tech-coops-and-coops-in-general)
+      - [Handbooks / Guides](#handbooks--guides)
+      - [Books](#books)
+      - [Articles](#articles)
+      - [Financing / Salaries](#financing--salaries)
+      - [Legal](#legal)
+      - [Conflict](#conflict)
+      - [Other links](#other-links)
+    - [Videos / Talks](#videos--talks)
+    - [Mailinglists / Forums](#mailinglists--forums)
+    - [Chat rooms](#chat-rooms)
+    - [Tools](#tools)
+  - [Software/Products created by tech coops](#softwareproducts-created-by-tech-coops)
+  - [Jobs and contracts](#jobs-and-contracts)
+  - [References to this list](#references-to-this-list)
+  - [License](#license)
 <!-- MKDOCS IGNORE -->
 
 <a name="coops"></a>
@@ -77,6 +91,7 @@ Coop | Business Areas | Region/Country | Notes
 [Interstitial Technology](https://interstitial.coop) | Full-stack engineering - design, development, firmware, electrical, mechanical engineering  | USA/Canada | Focused on technology with positive social impact
 [KO_OP](https://www.ko-opmode.com/) | Game development | Montreal, Quebec, Canada | |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada | |
+[Limeleaf Worker Collective](https://limeleaf.io) | Software engineering, Product development, IT consulting | Saratoga Springs, New York, USA | Focused on independent businesses, social impact startups, and technologically underserved communities.
 [Nexodus](https://nexod.us/) | Visual Effects (VFX) | Cincinnati, Ohio, USA | |
 [NOVA Web Development](https://novawebdevelopment.org/) | Django sites, graphic design  | USA / El Salvador / elsewhere | Worker-owned co-op developing [LibreOrganize](https://libreorganize.org/) and [Business Tracker](https://businesstracker.org/) primarily for unions, labor movement, social justice, etc. |
 [Openflows](https://www.openflows.com) | Web development, CiviCRM | New York, USA | |
