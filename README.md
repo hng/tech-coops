@@ -76,6 +76,7 @@ Coop | Business Areas | Region/Country | Notes
 [Interstitial Technology](https://interstitial.coop) | Full-stack engineering - design, development, firmware, electrical, mechanical engineering  | USA/Canada | Focused on technology with positive social impact
 [KO_OP](https://www.ko-opmode.com/) | Game development | Montreal, Quebec, Canada | |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada | |
+[Money Positive](https://www.moneypositive.com/) | Financial planning | USA | Worker-owned B Corp with focus on financial planning for artists, BIPOC, LBGTQ+, and traditionally underrepresented people
 [Nexodus](https://nexod.us/) | Visual Effects (VFX) | Cincinnati, Ohio, USA | |
 [NOVA Web Development](https://novawebdevelopment.org/) | Django sites, graphic design  | USA / El Salvador / elsewhere | Worker-owned co-op developing [LibreOrganize](https://libreorganize.org/) and [Business Tracker](https://businesstracker.org/) primarily for unions, labor movement, social justice, etc. |
 [Openflows](https://www.openflows.com) | Web development, CiviCRM | New York, USA | |
@@ -264,7 +265,7 @@ Coop | Business Areas | Notes
 
 ## Meetups
 
-* [Austin Software Co-operatives](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)
+* [Austin Software Co-operatives](https://www.meetup.com/Austin-Software-Co-operatives/)
 
 <a name="resources"></a>
 
