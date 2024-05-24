@@ -86,7 +86,7 @@ Coop | Business Areas | Region/Country | Notes
 [Position Development](https://positiondev.com/) | Software Development | Brooklyn, NY | Focused on independent media, cultural institutions, and socially minded organizations
 [Radish Cooperative](https://radish.coop/) | Food Delivery & Restaurant Tech | Montreal, Quebec, Canada | A multistakeholder restaurant delivery and technology cooperative owned and operated collectively by its restaurant, driver, and consumer members.
 [Rose Coded Tech Cooperative](https://rosecoded.com/) | I.T. Consulting | Portland, Oregon, USA | An I.T. consulting LLC cooperative owned and operated collectively by its members.
-[Sassafras Tech Collective](https://sassafras.coop/) | Websites & Apps, UX design, Grant-writing | Remote, USA | Founded 2013. Building technology for justice and joy. |
+[Sassafras Tech Collective](https://sassafras.coop/) | Website & app development, UX design, grant-writing | Remote, USA | Founded 2013. Building technology for justice and joy. |
 [TechCollective](https://techcollective.com). | Managed Service Provider | Boston, San Francisco, New Orleans, USA | Out-sourced IT cooperative. 100% Worker-owned and managed by its members. 
 [The Drivers Cooperative](https://drivers.coop) | Driver-owned rideshare | New York City, NY, USA | Drivers own 100% of the company. Developing an entirely new platform.
 [The Glory Society](http://theglorysociety.com/) | Games | US | Founded in 2019
