@@ -266,6 +266,7 @@ Coop | Business Areas | Notes
 ## Meetups
 
 * [Austin Software Co-operatives](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)
+* [Public WTF JourFixe for everyone (English or German language depending on participants) interested in tech cooperative community life every Wednesday at 9 pm](https://chaos.social/@HackerGeno)
 
 <a name="resources"></a>
 
