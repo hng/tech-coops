@@ -196,6 +196,7 @@ Coop | Business Areas | Region/Country | Notes
 [Ouvaton](https://ouvaton.coop) | Web Hosting, Domain Name Registrar | France |
 [Pathtech](https://pathtech.coop/) | Web development, Project Management | France |  Founded 2020 |  
 [Probesys](https://www.probesys.com) | Web development, System Administration, Hosting | Grenoble, France | We provide Open Source development and infrastructure expertise |
+[Rapid Assessment Delivery Cooperative (RAD COP)](https://radcop.online/) | Penetration and Social Engineering Testing, Compliance and Methodology, other kinds of security analysis and engineering | Krasnogorsk, Russia | We deal with almost all popular cybersecurity domains: from implementing DevSecOps processes to compliance audits according to information security standards, from setting up technical information protection tools to writing regulatory documents. |
 [Reinblau](https://reinblau.coop/) | Web development | Berlin, Germany | |
 [Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
 [Robur](https://robur.coop) | Software Development | Berlin, Germany | |
