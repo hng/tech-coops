@@ -289,6 +289,7 @@ Coop | Business Areas | Notes
   * [Discussion](https://news.ycombinator.com/item?id=12348909) on Hacker News.
 * [Enspiral Handbook](https://handbook.enspiral.com) - More information about the Enspiral network.
 * [Root Systems Handbook](https://www.rootsystems.nz/) - Defunct livelihood pod within Enspiral Network.
+* [Hypha Organizational Handbook](https://handbook.hypha.coop/) - Hypha Worker Co-operative, in Canada. (Active, 2024)
 
 #### Books
 
