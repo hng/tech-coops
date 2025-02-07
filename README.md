@@ -153,7 +153,7 @@ Coop | Business Areas | Region/Country | Notes
 [Champs-Libres](https://champs-libres.coop/) | GIS, Maps, Web applications | Namur, Belgium | |
 [Codeurs en Liberté](https://codeursenliberté.fr/) | Public transports, GIS, maps, web applications, sysops | France |  |
 [Common Knowledge](https://commonknowledge.coop/) | digital tools for grassroots activists | London, UK | |
-[Coopdevs](http://coopdevs.org/) | Development | Barcelona, Catalonia | Non profit association and workers cooperative focusing on non-profit & grassroots social change projects e.g. Open Food Network amongst others |
+[Coopdevs](http://coopdevs.org/) | Development | Barcelona, Catalonia, Spain | Non profit association and workers cooperative focusing on non-profit & grassroots social change projects e.g. Open Food Network amongst others |
 [Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK | |
 [Coop IT Easy](https://coopiteasy.be/) | ERP development | Brussels, Belgium | Worker coop, we provide Open Source ERPs to other cooperatives. |
 [ctrl.alt.coop](https://ctrl.alt.coop/) | Software Development, Consulting | Berlin, Germany | |
@@ -165,7 +165,7 @@ Coop | Business Areas | Region/Country | Notes
 [dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec | |
 [Empreinte Digitale](https://empreintedigitale.coop) | Web development, Cloud hosting, Accessibility | France | Founded in 1993, Worker-owned coop since 2020 |
 [Fairness](https://fairness.coop) | Web and mobile development, agile coaching, technical consulting | France | Worker-owned coop with a focus on digital eco-design and software quality |
-[femProcomuns](https://femprocomuns.coop/) | IoT infrastructure, Cloud services, Co-op Incubator | Catalonia
+[femProcomuns](https://femprocomuns.coop/) | IoT infrastructure, Cloud services, Co-op Incubator | Catalonia, Spain
 [FikaWorks](https://fika.works) | Consulting, DevOps, IT infrastructure | Netherlands | Distributed company
 [fnordkollektiv](https://fnordkollektiv.de) | software development, infrastructure devop, tech consulting | Siegen, NRW, Germany | Founded 2020 |
 [gassagosso](https://gassagosso.coop) | Web development | France (full remote) | Mainly working with [elixir lang](https://elixir-lang.org/) |
@@ -188,6 +188,7 @@ Coop | Business Areas | Region/Country | Notes
 [Kaleidos](https://kaleidos.net/) | Front-end, mobile, UX/UI design, open source software | Madrid, Spain | |
 [Kedu](https://kedu.coop/en/home) | Software, infrastructure | Barcelona, Spain | |
 [Les-Tilleuls.coop](https://les-tilleuls.coop/en)| Web development, Tech consulting, Open Source Development | Lille, Paris, Nantes, Lyon (France) | Tech worker-owned cooperative founded in 2011. Creators of the API Platform framework and major contributors to Symfony. |
+[Librecoop](https://librecoop.es/) | Software, infrastructure | Barcelona, Spain | Working with social and solidarity economy companies |
 [media co-op](https://mediaco-op.net/) | Filmmaking, Design, Development | Glasgow, Scotland | |
 [Motion Twin](https://motion-twin.com) | Video game development | Bordeaux, France | |
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden | |
@@ -204,6 +205,7 @@ Coop | Business Areas | Region/Country | Notes
 [Robur](https://robur.coop) | Software Development | Berlin, Germany | |
 [roko.li](https://roko.li) | Software Development, Hosting | Potsdam/ Rostock, Germany | |
 [Sange](http://www.sange.fi/) | Hosting | Helsinki, Finland | |
+[Simbiotica](https://simbiotica.coop/)) | Software development | Alcalá de Henares, Madrid, Spain | |
 [Sociality](https://sociality.coop/) | Digital Technologies | Athens, Greece | |
 [SkuraMobile](https://skuramobile.com/) |  App development | Errenteria, Basque Country | |
 [Slobodna domena](https://slobodnadomena.hr/) | Web & app development, design, IT infrastructure, consulting and education | Zagreb, Croatia | Worker's non-profit coop founded in 2017. |
