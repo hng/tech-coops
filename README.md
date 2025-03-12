@@ -267,6 +267,7 @@ Coop | Business Areas | Notes
 * [Libre Entreprise](https://www.libre-entreprise.org/) - Network of free software tech coops in France.
 * [Patio ICA](https://patio.ica.coop/) - Worldwide Tech Co-op Network in Internation Cooperative Alliance.
 * [Tech Co-op Network](https://techworker.coop) - North American Technology Worker Cooperatives.
+* [tech-coops.de](https://tech-coops.de) - Network of tech coops in Germany.
 
 ## Meetups
 
