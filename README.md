@@ -261,8 +261,8 @@ Coop | Business Areas | Notes
 ## Networks of coops
 
 * [CoTech](https://www.coops.tech) - Network of tech coops in the UK.
-  * [CoTech Wiki](https://wiki.coops.tech/wiki/Main_Page)
-  * [CoTech Forum](https://community.coops.tech/) - active tech cooperatives forum from CoTech
+    * [CoTech Wiki](https://wiki.coops.tech/wiki/Main_Page)
+    * [CoTech Forum](https://community.coops.tech/) - active tech cooperatives forum from CoTech
 * [FACT\[TIC\]](http://facttic.org.ar) - Federation of tech worker-cooperatives in Argentina.
 * [Libre Entreprise](https://www.libre-entreprise.org/) - Network of free software tech coops in France.
 * [Patio ICA](https://patio.ica.coop/) - Worldwide Tech Co-op Network in Internation Cooperative Alliance.
@@ -286,10 +286,10 @@ Coop | Business Areas | Notes
 
 * [A Technology Freelancer's Guide to Starting a Worker Cooperative](https://web.archive.org/web/20220324081516/https://techworker.coop/sites/default/files/TechCoopHOWTO.pdf), 2009
 * [A Document To Help You Start A Tech Cooperative](https://feeltrain.com/blog/operating-agreement/) - By Feel Train.
-  * [Discussion on Hacker News](https://news.ycombinator.com/item?id=14135068)
+    * [Discussion on Hacker News](https://news.ycombinator.com/item?id=14135068)
 * [Crisp DNA](https://dna.crisp.se/docs/index.html) - Handbook for Crisp, a Swedish network of consultants.
 * [The Loomio Co-op Handbook](https://loomio.coop)
-  * [Discussion](https://news.ycombinator.com/item?id=12348909) on Hacker News.
+    * [Discussion](https://news.ycombinator.com/item?id=12348909) on Hacker News.
 * [Enspiral Handbook](https://handbook.enspiral.com) - More information about the Enspiral network.
 * [Root Systems Handbook](https://www.rootsystems.nz/) - Defunct livelihood pod within Enspiral Network.
 * [Hypha Organizational Handbook](https://handbook.hypha.coop/) - Hypha Worker Co-operative, in Canada. (Active, 2024)
