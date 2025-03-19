@@ -85,7 +85,6 @@ Coop | Business Areas | Region/Country | Notes
 [Palante Technology Cooperative](https://palantetech.coop) | Web development, CiviCRM, Tech support, Training | New York, USA and beyond | Focus on NGOs
 [Polycot Associates](https://www.polycotassociates.com/) | Strategic planning, Web applications and website development, Drupal, Wordpress | Distributed / Remote, North America | Our highly experienced team provides comprehensive custom web development and design services for mission-driven businesses and non-profit organizations.
 [Plausible Labs](https://www.plausible.coop/about) | Development, Design | New York and San Francisco, USA | [Bylaws](https://www.plausible.coop/static/docs/Plausible_Labs_Bylaws.pdf)
-[Politics Rewired](https://politicsrewired.com/) | Political campaigning and organizing tools | USA
 [Position Development](https://positiondev.com/) | Software Development | Brooklyn, NY | Focused on independent media, cultural institutions, and socially minded organizations
 [Radish Cooperative](https://radish.coop/) | Food Delivery & Restaurant Tech | Montreal, Quebec, Canada | A multistakeholder restaurant delivery and technology cooperative owned and operated collectively by its restaurant, driver, and consumer members.
 [Rose Coded Tech Cooperative](https://rosecoded.com/) | I.T. Consulting | Portland, Oregon, USA | An I.T. consulting LLC cooperative owned and operated collectively by its members.
