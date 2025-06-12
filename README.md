@@ -381,6 +381,7 @@ Coop | Business Areas | Notes
 
 * [Tech coops growing](https://github.com/CodeSolid/tech_coops_growing) - Tech coops forming or looking for new members.
 * [CoTech Jobs](https://community.coops.tech/c/jobs) - Jobs category on the CoTech Network (UK) community forums.
+* [Apply.coop](https://apply.coop/) - Jobs platform for cooperatives
 
 <a name="references"></a>
 
