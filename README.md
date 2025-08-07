@@ -77,6 +77,7 @@ Coop | Business Areas | Region/Country | Notes
 [Interstitial Technology](https://interstitial.coop) | Full-stack engineering - design, development, firmware, electrical, mechanical engineering  | USA/Canada | Focused on technology with positive social impact
 [KO_OP](https://www.ko-opmode.com/) | Game development | Montreal, Quebec, Canada | |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada | |
+[Lichen Community Systems](https://lichen.coop) | Digital accessibility, community-led design, development, and creative technology | Toronto and Vancouver, Canada | Lichen is a non-profit studio dedicated to growing the practice of community-led design. We do this by researching transformative technologies and methods, developing accessible tools, sharing our work through art and education, and supporting cultural change within organizations. |
 [Ministry of Velocity](https://www.minifast.co) | Agile transformation, security, branding, service design, research, development | SF Bay Area and Southern Oregon | |
 [Limeleaf Worker Collective](https://limeleaf.coop) | Software engineering, Product development, IT consulting | Saratoga Springs, New York, USA | Focused on independent businesses, social impact startups, and technologically underserved communities.
 [Nexodus](https://nexod.us/) | Visual Effects (VFX) | Cincinnati, Ohio, USA | |
