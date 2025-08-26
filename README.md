@@ -159,6 +159,7 @@ Coop | Business Areas | Region/Country | Notes
 [ctrl.alt.coop](https://ctrl.alt.coop/) | Software Development, Consulting | Berlin, Germany | |
 [Dalibo](https://dalibo.com/) | PostgreSQL support | Paris, France |
 [datenkollektiv.net](https://www.datenkollektiv.net) | Hosting, networking, services | Dresden, Germany | |
+[Developer Society](https://dev.ngo) | Web development, design, consultation, and hosting for charities and non-profits. | UK | Founded in 2017, The Developer Society is a not-for-profit co-op that builds sustainable digital services for charities & NGOs around the world.
 [Devtopia](https://devtopia.coop) | Consulting, project management, design and UX, web development, app development, marketing | Spain | Distributed company
 [Diciannove](https://19.coop) | Consulting, project management, open source development, hosting, web design | Italy | |
 [Digicoop](http://digicoop.io) | Product company, makers of [kantree.io](https://kantree.io) | France | Distributed company
