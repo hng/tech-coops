@@ -150,6 +150,7 @@ Coop | Business Areas | Region/Country | Notes
 [A Bunch of Hacks](https://abunchofhacks.coop) | Video game development, software development | Amsterdam, the Netherlands | |
 [Black Shuck](http://blackshuck.co) | Producing moving image, audio and digital projects (websites, apps and installations). | Europe | |
 [blinkenbox](https://blinkenbox.coop/) | Sysadmin, Web Development, Hosting | Berlin, Germany | |
+[Calinou](https://calinou.coop) | Software and web development, domain modeling | EU, France | A cooperative specialized in creating tailor-made simulators and digital commons for people. |
 [Camplight](https://camplight.net) | web and mobile development, tech consulting | EU, Bulgaria | A digital cooperative that creates experiences for the web, mobile and beyond |
 [Champs-Libres](https://champs-libres.coop/) | GIS, Maps, Web applications | Namur, Belgium | |
 [Codeurs en Liberté](https://codeursenliberté.fr/) | Public transports, GIS, maps, web applications, sysops | France |  |
@@ -368,15 +369,15 @@ Coop | Business Areas | Notes
 
 ## Software/Products created by tech coops
 
-* [API Platform](https://api-platform.com/) - REST and GraphQL framework on top of Symfony and React.
-* [Canaille](https://pypi.org/project/Canaille/) - Simple account manager and an OpenID Connect provider based upon a LDAP database.
-* [Cobuy](https://github.com/enspiral-root-systems/cobuy) - Group wholesale purchases as a consumer co-op (by Root Systems).
-* [CoopHub](https://coophub.io) - Git repos from cooperatives around the world!
-* [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
-* [Moodlight](https://moodlight.team/) - Emotional intelligence for teams (by Camplight)
-* [Assista](https://assista.io) - Effortless time tracking for Trello (by Camplight).
-* [CoopCycle](https://coopcycle.org/en/) - A federation of bike delivery co-ops with an open-source logistics platform.
-
+- [API Platform](https://api-platform.com/) - REST and GraphQL framework on top of Symfony and React.
+- [Assista](https://assista.io) - Effortless time tracking for Trello (by Camplight).
+- [Canaille](https://pypi.org/project/Canaille/) - Simple account manager and an OpenID Connect provider based upon a LDAP database.
+- [Cobuy](https://github.com/enspiral-root-systems/cobuy) - Group wholesale purchases as a consumer co-op (by Root Systems).
+- [CoopCycle](https://coopcycle.org/en/) - A federation of bike delivery co-ops with an open-source logistics platform.
+- [CoopHub](https://coophub.io) - Git repos from cooperatives around the world!
+- [Moodlight](https://moodlight.team/) - Emotional intelligence for teams (by Camplight).
+- [Publicodes](https://publi.codes) - A programming language dedicated to modeling complex business domains using basic rules that can be understood by non-developers (by Calinou).
+- [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
 
 <a name="jobs"></a>
 
