@@ -208,7 +208,7 @@ Coop | Business Areas | Region/Country | Notes
 [Robur](https://robur.coop) | Software Development | Berlin, Germany | |
 [roko.li](https://roko.li) | Software Development, Hosting | Potsdam/ Rostock, Germany | |
 [Sange](http://www.sange.fi/) | Hosting | Helsinki, Finland | |
-[Simbiotica](https://simbiotica.coop/)) | Software development | Alcalá de Henares, Madrid, Spain | |
+[Simbiótica](https://simbiotica.coop/) | Software development, technology consultancy, and applied data science. | Alcalá de Henares, Madrid, Spain | All aligned with the principles of social and solidarity economy and free software. |
 [Sociality](https://sociality.coop/) | Digital Technologies | Athens, Greece | |
 [SkuraMobile](https://skuramobile.com/) |  App development | Errenteria, Basque Country | |
 [Slobodna domena](https://slobodnadomena.hr/) | Web & app development, design, IT infrastructure, consulting and education | Zagreb, Croatia | Worker's non-profit coop founded in 2017. |
