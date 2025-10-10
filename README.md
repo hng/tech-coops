@@ -133,6 +133,7 @@ Coop | Business Areas | Region/Country | Notes
 [Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India | |
 [Sofi Cooperative](https://soficoop.com/) | Web development, Design, Vue, Node.js | Jerusalem, Israel| Founded 2018; *"Sofi is a workers cooperative of designers and developers, we focus on websites and applications that bring positive value for society and the planet"*
 [TNG Worker Cooperative](https://tng.coop/) | IT Development | Yugawara, Japan | Worker-Owners|
+
 <a name="coops-europe"></a>
 
 ### Europe
