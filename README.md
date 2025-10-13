@@ -250,6 +250,7 @@ Coop | Business Areas | Notes
 ---- | -------------- | -----
 [bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  |
 [meet.coop](https://meet.coop) | A co-operative meeting and conferencing platform, powered by BigBlueButton. |  |
+[spinel.coop](https://spinel.coop) | A cooperative of Ruby open source maintainers, developing rv (Ruby version manager and project tool) and offering retainers for core team experts. |  |
 [Talespinners](https://talespinners.co.uk/) | Game Writing, Design, Editing, Direction and Consultancy | |
 [ZO](https://zo.team/) | Design, Development, Translation, Copy-editing  |  |
 
