@@ -249,7 +249,7 @@ Coop | Business Areas | Region/Country | Notes
 Coop | Business Areas | Notes
 ---- | -------------- | -----
 [bits.coop](https://bits.coop) | webgl, maps, p2p, offline data replication |  |
-[Bread Cooperative](https://bread.coop/) | Worker collective building tools which help to forge solidarity between individuals and collectives |  |
+[Bread Cooperative](https://bread.coop/) | Worker collective building tools on the blockchain which help to forge solidarity between individuals and collectives |  |
 [meet.coop](https://meet.coop) | A co-operative meeting and conferencing platform, powered by BigBlueButton. |  |
 [spinel.coop](https://spinel.coop) | A cooperative of Ruby open source maintainers, developing rv (Ruby version manager and project tool) and offering retainers for core team experts. |  |
 [Talespinners](https://talespinners.co.uk/) | Game Writing, Design, Editing, Direction and Consultancy | |
