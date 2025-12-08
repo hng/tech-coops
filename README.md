@@ -159,7 +159,7 @@ Coop | Business Areas | Region/Country | Notes
 [Coopdevs](http://coopdevs.org/) | Development | Barcelona, Catalonia, Spain | Non profit association and workers cooperative focusing on non-profit & grassroots social change projects e.g. Open Food Network amongst others |
 [Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK | |
 [Coop IT Easy](https://coopiteasy.be/) | ERP development | Brussels, Belgium | Worker coop, we provide Open Source ERPs to other cooperatives. |
-[ctrl.alt.coop](https://ctrl.alt.coop/) | Software Development, Consulting | Berlin, Germany | |
+[control.alt.coop](https://ctrl.alt.coop/) | Software Development, Consulting | Berlin and Cologne (Köln), Germany | |
 [Dalibo](https://dalibo.com/) | PostgreSQL support | Paris, France |
 [datenkollektiv.net](https://www.datenkollektiv.net) | Hosting, networking, services | Dresden, Germany | |
 [Developer Society](https://dev.ngo) | Web development, design, consultation, and hosting for charities and non-profits. | UK | Founded in 2017, The Developer Society is a not-for-profit co-op that builds sustainable digital services for charities & NGOs around the world.
