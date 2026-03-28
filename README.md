@@ -151,6 +151,7 @@ Coop | Business Areas | Region/Country | Notes
 [A Bunch of Hacks](https://abunchofhacks.coop) | Video game development, software development | Amsterdam, the Netherlands | |
 [Black Shuck](http://blackshuck.co) | Producing moving image, audio and digital projects (websites, apps and installations). | Europe | |
 [blinkenbox](https://blinkenbox.coop/) | Sysadmin, Web Development, Hosting | Berlin, Germany | |
+[Boscop](https://boscop.fr) | Web development, Cloud hosting, Accessibility | France | Founded in 1993, Worker-owned coop since 2020 |
 [Calinou](https://calinou.coop) | Software and web development, domain modeling | EU, France | A cooperative specialized in creating tailor-made simulators and digital commons for people. |
 [Camplight](https://camplight.net) | web and mobile development, tech consulting | EU, Bulgaria | A digital cooperative that creates experiences for the web, mobile and beyond |
 [Champs-Libres](https://champs-libres.coop/) | GIS, Maps, Web applications | Namur, Belgium | |
@@ -168,7 +169,6 @@ Coop | Business Areas | Region/Country | Notes
 [Digicoop](http://digicoop.io) | Product company, makers of [kantree.io](https://kantree.io) | France | Distributed company
 [The Digital Commons Cooperative](https://digitalcommons.coop/) | The Digital Commons Cooperative works alongside social movements to develop mapping tools for radical change. | UK | |
 [dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec | |
-[Empreinte Digitale](https://empreintedigitale.coop) | Web development, Cloud hosting, Accessibility | France | Founded in 1993, Worker-owned coop since 2020 |
 [Fairness](https://fairness.coop) | Web and mobile development, agile coaching, technical consulting | France | Worker-owned coop with a focus on digital eco-design and software quality |
 [femProcomuns](https://femprocomuns.coop/) | IoT infrastructure, Cloud services, Co-op Incubator | Catalonia, Spain
 [FikaWorks](https://fika.works) | Consulting, DevOps, IT infrastructure | Netherlands | Distributed company
