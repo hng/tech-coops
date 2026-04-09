@@ -166,6 +166,7 @@ Coop | Business Areas | Region/Country | Notes
 [Devtopia](https://devtopia.coop) | Consulting, project management, design and UX, web development, app development, marketing | Spain | Distributed company
 [Diciannove](https://19.coop) | Consulting, project management, open source development, hosting, web design | Italy | |
 [Digicoop](http://digicoop.io) | Product company, makers of [kantree.io](https://kantree.io) | France | Distributed company
+[Digidem Lab](https://digidemlab.org/en/) |We study, test and offer internationally proven digital tools and methods for civic participation and create citizen-centred processes to reach underrepresented groups.| Sweden |
 [The Digital Commons Cooperative](https://digitalcommons.coop/) | The Digital Commons Cooperative works alongside social movements to develop mapping tools for radical change. | UK | |
 [dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec | |
 [Empreinte Digitale](https://empreintedigitale.coop) | Web development, Cloud hosting, Accessibility | France | Founded in 1993, Worker-owned coop since 2020 |
