@@ -121,6 +121,7 @@ Coop | Business Areas | Region/Country | Notes
 [LibreCode](https://librecode.coop/) | Free software development, tech consulting | Rio de Janeiro, Rio de Janeiro, Brazil | |
 [Matelab](http://www.matelab.com.ar/en/) | Development | Buenos Aires, Argentina | Founded 2019; 8 associates
 [Nayra](https://nayra.coop) | Web development, UX | Buenos Aires, Argentina | |
+[Pollux](https://polluxcoop.com) | Software development, Data Science, Cloud Infrastructure, Mobile Development | Rosario, Argentina | Founded 2018. Member of FACTTIC. |
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
 
 <a name="coops-asia"></a>
