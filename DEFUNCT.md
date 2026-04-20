@@ -18,3 +18,4 @@ Coop | Business Areas | Region/Country | Notes
 Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Rabotnik](https://www.rabotnik.coop/) |  graphic design, web-development, video production and animation, campaign and concept development | Denmark | |
+[Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
