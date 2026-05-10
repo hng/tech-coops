@@ -102,6 +102,8 @@ Coop | Business Areas | Region/Country | Notes
 [Weaver Digital Design + Storytelling Co-op](https://weaver.coop/) | Full stack website design and development. | Unceded territories of the Lekwungen speaking peoples in so-called BC, Canada | We create outstanding, user-friendly digital experiences that help businesses and organizations connect with their audiences, innovate and grow. |
 [Willow Bark](https://willowbark.org) | Design, Development, sysadmin, security | Remote, international |
 [Zinc Collective](https://www.zinc.coop/) | Development | US | |
+[With the Ranks](https:/withtheranks.com) | Software Development, Websites, Tech Consulting | Remote, international | We support the organizers and candidates fighting for working class power and a sustainable future. |
+[Zinc Collective](https://www.zinc.coop/) | Development | US | |
 
 <a name="coops-samerica"></a>
 
