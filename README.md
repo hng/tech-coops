@@ -228,7 +228,6 @@ Coop | Business Areas | Region/Country | Notes
 [Troopers](https://troopers.coop/) | Web Agency, Software Craftmanship, Symfony, React, Maintenance, A11y, S12y (Numérique Responsable, éco-conception), Holacracy | Nantes, France | Agency founded in 2012, SCOP sinse 2022 |
 [UNI:CODE IT Solutions](https://unicode-it.de) | Web development, IT services | Germany, Remote | |
 [Village One](https://village.one) | Digital strategy, design, software development | Germany, Remote | Purposeful digital products and infrastructure, created with joy and integrity. Founded in 2022. |
-[WAO Co-op](https://weareopen.coop) | Digital transformation, elearning, project management | UK / Germany | Making sense of complex problems while spreading the benefits of open. Part of [CoTech](https://coops.tech) |
 [We Are Rebel Coop](https://www.rebel.coop) | Digital strategy, design, software development | Brussels, Belgium | Self-managed worker cooperative |
 [Web\|Alternatif](https://www.webalternatif.com) | Software development | Grenoble, France | Self-managed worker cooperative |
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
