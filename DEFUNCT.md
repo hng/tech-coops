@@ -20,3 +20,4 @@ Coop | Business Areas | Region/Country | Notes
 ---- | -------------- | -------------- | -----
 [Rabotnik](https://www.rabotnik.coop/) |  graphic design, web-development, video production and animation, campaign and concept development | Denmark | |
 [Resonate](http://resonate.is) | Music Streaming  | Berlin, Germany / Dublin, Ireland| A multistakeholder platform co-operative - with contributors (workers, contractors, volunteers) represented with a 20% ownership stake.
+[WAO Co-op](https://weareopen.coop) | Digital transformation, elearning, project management | UK / Germany | Making sense of complex problems while spreading the benefits of open. Part of [CoTech](https://coops.tech) — No longer operational as of 2026 |
