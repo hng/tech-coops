@@ -164,6 +164,7 @@ Coop | Business Areas | Region/Country | Notes
 [Coop IT Easy](https://coopiteasy.be/) | ERP development | Brussels, Belgium | Worker coop, we provide Open Source ERPs to other cooperatives. |
 [control.alt.coop](https://ctrl.alt.coop/) | Software Development, Consulting | Berlin and Cologne (Köln), Germany | |
 [CoQuest - IT Coop Stuttgart](https://coquest.coop/) | Software Development, FOSS Service Hosting, Webdesign, Consulting, Training | Stuttgart, Germany | Free Software for the Common Good. We seek to cooperate with coops, non-profits, initiatives of the community supported economy, as well as works councils and trade unions. |
+[CTRLback](https://ctrlback.coop/) | UX/UI design, mobile, Front-end, Back-end, open source software | Barcelona, Spain | Worker-owned cooperative focused on social impact & digital sovereignty |
 [Dalibo](https://dalibo.com/) | PostgreSQL support | Paris, France |
 [datenkollektiv.net](https://www.datenkollektiv.net) | Hosting, networking, services | Dresden, Germany | |
 [Developer Society](https://dev.ngo) | Web development, design, consultation, and hosting for charities and non-profits. | UK | Founded in 2017, The Developer Society is a not-for-profit co-op that builds sustainable digital services for charities & NGOs around the world.
