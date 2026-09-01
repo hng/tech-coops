@@ -373,6 +373,7 @@ Coop | Business Areas | Notes
 
 * [Cobudget](https://cobudget.com) - Crowdsource and fund projects within an organization. Developed and used by Enspiral.
 * [Loomio](https://www.loomio.org) - Online decision-making
+* [workerowned.info](https://workerowned.info) - Searchable marketplace of 190,000+ products from 175+ worker and employee owned companies. Search and buy directly from co-op stores.
 
 <a name="products"></a>
 
